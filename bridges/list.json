@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Banxa",
+    "icon": "./icons/banxa.svg",
+    "link": "https://boba.banxa.com/"
+  },
+  {
+    "name": "BoringDAO",
+    "icon": "./icons/Boringdao.png",
+    "link": "https://boba.network/project/boringdao/"
+  },
+  {
+    "name": "Celer",
+    "icon": null,
+    "iconLight": "./icons/light/light_celer.png",
+    "iconDark": "./icons/dark/dark_celer.png",
+    "link": "https://boba.network/project/celer/"
+  },
+  {
+    "name": "Chainswap",
+    "icon": "./icons/chainswap.png",
+    "link": "https://exchange.chainswap.com/#/bridge"
+  },
+  {
+    "name": "Rango Exchange",
+    "icon": "./icons/rango_exchange.png",
+    "link": "https://boba.network/project/rango-exchange/"
+  },
+  {
+    "name": "Rubic Exchange",
+    "icon": null,
+    "iconLight": "./icons/light/light_rubic_exchange.png",
+    "iconDark": "./icons/dark/dark_rubic_exchange.png",
+    "link": "https://boba.network/project/rubic-exchange/"
+  },
+  {
+    "name": "Synapse",
+    "icon": "./icons/synapse.png",
+    "link": "https://boba.network/project/synapse/"
+  },
+  {
+    "name": "Via Protocol",
+    "icon": null,
+    "iconLight": "./icons/dark/dark_via_protocol.png",
+    "iconDark": "./icons/light/light_via_protocol.png",
+    "link": "https://boba.network/project/via-protocol/"
+  }
+]
