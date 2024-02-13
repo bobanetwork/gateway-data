@@ -5,44 +5,8 @@
     "link": "https://boba.banxa.com/"
   },
   {
-    "name": "BoringDAO",
-    "icon": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/bridges/icons/Boringdao.png",
-    "link": "https://boba.network/project/boringdao/"
-  },
-  {
-    "name": "Celer",
-    "icon": null,
-    "iconLight": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/bridges/icons/light/light_celer.png",
-    "iconDark": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/bridges/icons/dark/dark_celer.png",
-    "link": "https://boba.network/project/celer/"
-  },
-  {
-    "name": "Chainswap",
-    "icon": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/bridges/icons/chainswap.png",
-    "link": "https://exchange.chainswap.com/#/bridge"
-  },
-  {
-    "name": "Rango Exchange",
-    "icon": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/bridges/icons/rango_exchange.png",
-    "link": "https://boba.network/project/rango-exchange/"
-  },
-  {
-    "name": "Rubic Exchange",
-    "icon": null,
-    "iconLight": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/bridges/icons/light/light_rubic_exchange.png",
-    "iconDark": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/bridges/icons/dark/dark_rubic_exchange.png",
-    "link": "https://boba.network/project/rubic-exchange/"
-  },
-  {
-    "name": "Synapse",
-    "icon": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/bridges/icons/synapse.png",
-    "link": "https://boba.network/project/synapse/"
-  },
-  {
-    "name": "Via Protocol",
-    "icon": null,
-    "iconLight": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/bridges/icons/dark/dark_via_protocol.png",
-    "iconDark": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/bridges/icons/light/light_via_protocol.png",
-    "link": "https://boba.network/project/via-protocol/"
+    "name": "Symbiosis",
+    "icon": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/bridges/icons/symbiosis.svg",
+    "link": "https://app.symbiosis.finance/swap?chainIn=Ethereum&chainOut=Boba%20Ethereum&tokenIn=ETH&tokenOut=ETH"
   }
 ]
