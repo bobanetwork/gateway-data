@@ -8,5 +8,11 @@
     "name": "Symbiosis",
     "icon": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/bridges/icons/symbiosis.svg",
     "link": "https://app.symbiosis.finance/swap?chainIn=Ethereum&chainOut=Boba%20Ethereum&tokenIn=ETH&tokenOut=ETH"
+  },
+  {
+    "name": "IceCreamSwap",
+    "iconLight": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/bridges/icons/light/icecreamswap_light.png",
+    "iconDark": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/bridges/icons/dark/icecreamswap_dark.png",
+    "link": "https://icecreamswap.com/bridge?chain=boba"
   }
 ]
