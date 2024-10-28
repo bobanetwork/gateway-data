@@ -45,7 +45,7 @@
     "link": "https://apeboard.finance/dashboard",
     "description": "Apeboard is a decentralized finance (DeFi) sector via crypto-asset aggregator and portfolio dashboard.",
     "type": "Tools",
-    "visible": true
+    "visible": false
   },
   {
     "icon": {
@@ -177,7 +177,7 @@
     "link": "https://bizilabs.io/",
     "description": "BIZI is a mobile platform that utilises Web3.0 software and associated hardware.",
     "type": "Wallet",
-    "visible": true
+    "visible": false
   },
   {
     "icon": {
@@ -241,8 +241,8 @@
   },
   {
     "icon": {
-      "light": "white/btcex.svg",
-      "dark": "black/btcex.svg"
+      "light": "white/bkex.svg",
+      "dark": "black/bkex.svg"
     },
     "name": "BTCEX",
     "website": "bkex.com",
