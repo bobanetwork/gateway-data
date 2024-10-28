@@ -81,7 +81,7 @@
     "link": "https://bandprotocol.com/",
     "description": "Band Protocol is a cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts.",
     "type": "Oracles",
-    "visible": true
+    "visible": false
   },
   {
     "icon": {
@@ -289,8 +289,8 @@
   },
   {
     "icon": {
-      "light": "white/celer.svg",
-      "dark": "black/celer.svg"
+      "light": "white/celer_bridge.svg",
+      "dark": "black/celer_bridge.svg"
     },
     "name": "Celer",
     "website": "celer.network",
@@ -309,7 +309,7 @@
     "link": "http://chainswap.com/",
     "description": "The cross-chain hub for all ecosystems.",
     "type": "Bridge",
-    "visible": true
+    "visible": false
   },
   {
     "icon": {
@@ -393,12 +393,12 @@
     "link": "https://bridge.connext.network/?sendingChainId=288",
     "description": "Connext powers fast, secure bridging between blockchains and rollups.",
     "type": "Bridge",
-    "visible": true
+    "visible": false
   },
   {
     "icon": {
-      "light": "white/cosmic universe.svg",
-      "dark": "black/cosmic universe.svg"
+      "light": "white/cosmic_universe.svg",
+      "dark": "black/cosmic_universe.svg"
     },
     "name": "Cosmic Universe",
     "website": "cosmicuniverse.io",
@@ -477,7 +477,7 @@
     "link": "http://defiyield.app/",
     "description": "Control your digital assets with a full suite of innovative tools.",
     "type": "Tools",
-    "visible": true
+    "visible": false
   },
   {
     "icon": {
@@ -585,7 +585,7 @@
     "link": "https://www.dua.com/",
     "description": "Reconnecting: Communities, Families, Union.",
     "type": "Decentralized finance",
-    "visible": true
+    "visible": false
   },
   {
     "icon": {
@@ -609,7 +609,7 @@
     "link": "https://evoverses.com/",
     "description": "Evoverses is a 3D game on Avalanche.",
     "type": "Gaming",
-    "visible": true
+    "visible": false
   },
   {
     "icon": {
@@ -621,7 +621,7 @@
     "link": "https://firefly.exchange/",
     "description": "Decentralized Digital Asset Trading Trade perpetuals from anywhere with up to 20x leverage.",
     "type": "Decentralized finance",
-    "visible": true
+    "visible": false
   },
   {
     "icon": {
@@ -741,7 +741,7 @@
     "link": "https://homiewars.com/",
     "description": "Homie Wars is the first free-to-play battle royale game with Web3 integrations.",
     "type": "Gaming",
-    "visible": true
+    "visible": false
   },
   {
     "icon": {
@@ -945,7 +945,7 @@
     "link": "https://app.multichain.org/#/router",
     "description": "Multichain is the ultimate Router for Web3.",
     "type": "Bridge",
-    "visible": true
+    "visible": false
   },
   {
     "icon": {
@@ -993,7 +993,7 @@
     "link": "https://gateway.avax.boba.network/wallet",
     "description": "Use the official Boba bridge to transfer assets from Avalanche to Boba.",
     "type": "Bridge",
-    "visible": true
+    "visible": false
   },
   {
     "icon": {
@@ -1401,7 +1401,7 @@
     "link": "http://xdao.app/",
     "description": "Xdao is a unique tool for creating Decentralized Autonomous Organizations (DAOs).",
     "type": "DAO",
-    "visible": true
+    "visible": false
   },
   {
     "icon": {
@@ -1413,7 +1413,7 @@
     "link": "https://bobamarket.yetiswap.app/",
     "description": "YetiSwap is a decentralized exchange (DEX) and NFT marketplace , running on the Avalanche blockchain.",
     "type": "NFT",
-    "visible": true
+    "visible": false
   },
   {
     "icon": {
@@ -1437,7 +1437,7 @@
     "link": "https://www.zokyo.io/",
     "description": "Zokyo is a venture studio that builds, secures, and funds crypto, DeFi, and NFT companies.",
     "type": "Tools",
-    "visible": true
+    "visible": false
   },
   {
     "icon": {
