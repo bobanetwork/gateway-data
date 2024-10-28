@@ -131,13 +131,13 @@
   },
   {
     "name": "Hotcoin",
-    "visible": true,
     "link": "https://www.hotcoin.com/currencyExchange/boba_usdt",
     "pairName": "BOBA/USDT",
     "icon": {
       "light": "white/hotcoin.svg",
-      "dark": "black/hotcoin.svg"
-    }
+    "dark": "black/hotcoin.svg"
+    },
+    "visible": false
   },
   {
     "name": "Kraken",
@@ -151,7 +151,7 @@
   },
   {
     "name": "Uniswap V3 (Ethereum)",
-    "visible": true,
+    "visible": false,
     "link": "https://app.uniswap.org/explore/tokens/ethereum/0x42bbfa2e77757c645eeaad1655e0911a7553efbc",
     "pairName": "BOBA/WETH",
     "icon": {
@@ -161,7 +161,7 @@
   },
   {
     "name": "Cryptology",
-    "visible": true,
+    "visible": false,
     "link": "https://cryptology.com/app/next/trading/BOBA_USDT",
     "pairName": "BOBA/USDT",
     "icon": {
@@ -201,7 +201,7 @@
   },
   {
     "name": "BitTrade",
-    "visible": true,
+    "visible": false,
     "link": "https://www.bittrade.co.jp/ja-jp/exchange/boba_jpy/",
     "pairName": "BOBA/JPY",
     "icon": {
@@ -211,7 +211,7 @@
   },
   {
     "name": "Bit2Me",
-    "visible": true,
+    "visible": false,
     "link": "https://pro.bit2me.com/exchange/BOBA-EUR?ref=285-6HY-TPA&mkt_kind=referral&prm=5DH100",
     "pairName": "BOBA/EUR",
     "icon": {
@@ -221,7 +221,7 @@
   },
   {
     "name": "BitMart",
-    "visible": true,
+    "visible": false,
     "link": "https://www.bitmart.com/trade/en?symbol=BOBA_USDT&r=PjkAFy",
     "pairName": "BOBA/USDT",
     "icon": {
