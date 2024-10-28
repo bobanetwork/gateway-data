@@ -1,6 +1,9 @@
 [
   {
-    "icon": "1rpc",
+    "icon": {
+      "light": "white/1rpc.svg",
+      "dark": "black/1rpc.svg"
+    },
     "name": "1RPC",
     "website": "1rpc.io",
     "link": "https://www.1rpc.io/",
@@ -8,7 +11,10 @@
     "type": ""
   },
   {
-    "icon": "add3",
+    "icon": {
+      "light": "white/add3.svg",
+      "dark": "black/add3.svg"
+    },
     "name": "Add3",
     "website": "add3.io",
     "link": "https://www.add3.io/",
@@ -16,7 +22,10 @@
     "type": ""
   },
   {
-    "icon": "antiersolutions",
+    "icon": {
+      "light": "white/antiersolutions.svg",
+      "dark": "black/antiersolutions.svg"
+    },
     "name": "AntierSolutions",
     "website": "antiersolutions.com",
     "link": "https://www.antiersolutions.com/",
@@ -24,7 +33,10 @@
     "type": ""
   },
   {
-    "icon": "apeboard",
+    "icon": {
+      "light": "white/apeboard.svg",
+      "dark": "black/apeboard.svg"
+    },
     "name": "Apeboard",
     "website": "apeboard.finance",
     "link": "https://apeboard.finance/dashboard",
@@ -32,7 +44,10 @@
     "type": "Tools"
   },
   {
-    "icon": "api3",
+    "icon": {
+      "light": "white/api3.svg",
+      "dark": "black/api3.svg"
+    },
     "name": "API3",
     "website": "api3.org",
     "link": "https://api3.org/",
@@ -40,7 +55,10 @@
     "type": "Oracles"
   },
   {
-    "icon": "balmy",
+    "icon": {
+      "light": "white/balmy.svg",
+      "dark": "black/balmy.svg"
+    },
     "name": "Balmy",
     "website": "balmy.xyz/",
     "link": "https://app.balmy.xyz/swap",
@@ -48,7 +66,10 @@
     "type": ""
   },
   {
-    "icon": "bandprotocol",
+    "icon": {
+      "light": "white/band protocol.svg",
+      "dark": "black/band protocol.svg"
+    },
     "name": "Band protocol",
     "website": "bandprotocol.com",
     "link": "https://bandprotocol.com/",
@@ -56,7 +77,10 @@
     "type": "Oracles"
   },
   {
-    "icon": "banxa",
+    "icon": {
+      "light": "white/banxa.svg",
+      "dark": "black/banxa.svg"
+    },
     "name": "Banxa",
     "website": "banxa.com",
     "link": "https://banxa.com/",
@@ -64,7 +88,10 @@
     "type": "Fiat on-ramp"
   },
   {
-    "icon": "beamerbridge",
+    "icon": {
+      "light": "white/beamer bridge.svg",
+      "dark": "black/beamer bridge.svg"
+    },
     "name": "Beamer bridge",
     "website": "beamerbridge.com",
     "link": "https://app.beamerbridge.com/#/",
@@ -72,7 +99,10 @@
     "type": "Bridge"
   },
   {
-    "icon": "bitbank",
+    "icon": {
+      "light": "white/bitbank.svg",
+      "dark": "black/bitbank.svg"
+    },
     "name": "Bitbank",
     "website": "bitbank.cc",
     "link": "https://app.bitbank.cc/trade/boba_jpy",
@@ -80,7 +110,10 @@
     "type": "Centralized exchange"
   },
   {
-    "icon": "bitfinex",
+    "icon": {
+      "light": "white/bitfinex.svg",
+      "dark": "black/bitfinex.svg"
+    },
     "name": "Bitfinex",
     "website": "bitfinex.com",
     "link": "https://trading.bitfinex.com/t/BOBA:USD",
@@ -88,7 +121,10 @@
     "type": "Centralized exchange"
   },
   {
-    "icon": "bithumb",
+    "icon": {
+      "light": "white/bithumb.svg",
+      "dark": "black/bithumb.svg"
+    },
     "name": "Bithumb",
     "website": "bithumb.com",
     "link": "https://en.bithumb.com/trade/order/BOBA_KRW",
@@ -96,7 +132,10 @@
     "type": "Centralized exchange"
   },
   {
-    "icon": "bitkeep",
+    "icon": {
+      "light": "white/bitkeep.svg",
+      "dark": "black/bitkeep.svg"
+    },
     "name": "Bitkeep",
     "website": "bitkeep.com",
     "link": "https://bitkeep.com/en/swap/boba/0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7",
@@ -104,7 +143,10 @@
     "type": "Wallet"
   },
   {
-    "icon": "bitstamp(soon)",
+    "icon": {
+      "light": "white/bitstamp (soon).svg",
+      "dark": "black/bitstamp (soon).svg"
+    },
     "name": "Bitstamp (soon)",
     "website": "bitstamp.net",
     "link": "https://www.bitstamp.net/",
@@ -112,7 +154,10 @@
     "type": "Centralized exchange"
   },
   {
-    "icon": "bizi",
+    "icon": {
+      "light": "white/bizi.svg",
+      "dark": "black/bizi.svg"
+    },
     "name": "BIZI",
     "website": "bizilabs.io",
     "link": "https://bizilabs.io/",
@@ -120,7 +165,10 @@
     "type": "Wallet"
   },
   {
-    "icon": "bkex",
+    "icon": {
+      "light": "white/bkex.svg",
+      "dark": "black/bkex.svg"
+    },
     "name": "Bkex",
     "website": "bkex.com",
     "link": "https://www.bkex.com/trade/BOBA_USDT",
@@ -128,7 +176,10 @@
     "type": "Centralized exchange"
   },
   {
-    "icon": "blockvision",
+    "icon": {
+      "light": "white/blockvision.svg",
+      "dark": "black/blockvision.svg"
+    },
     "name": "Blockvision",
     "website": "blockvision.org",
     "link": "https://blockvision.org/",
@@ -136,7 +187,10 @@
     "type": "Tools"
   },
   {
-    "icon": "bobamultisig",
+    "icon": {
+      "light": "white/boba multisig.svg",
+      "dark": "black/boba multisig.svg"
+    },
     "name": "Boba Multisig",
     "website": "multisig.boba.network",
     "link": "https://multisig.boba.network/",
@@ -144,7 +198,10 @@
     "type": "Wallet"
   },
   {
-    "icon": "bobapunks",
+    "icon": {
+      "light": "white/boba punks.svg",
+      "dark": "black/boba punks.svg"
+    },
     "name": "Boba Punks",
     "website": "bobapunks.netlify.app",
     "link": "https://bobapunks.netlify.app/",
@@ -152,7 +209,10 @@
     "type": "NFT"
   },
   {
-    "icon": "boringdao",
+    "icon": {
+      "light": "white/boringdao.svg",
+      "dark": "black/boringdao.svg"
+    },
     "name": "BoringDAO",
     "website": "boringdao.com",
     "link": "https://oportal.boringdao.com/twoway?tab=0&target_chain_id=288",
@@ -160,7 +220,10 @@
     "type": "Bridge"
   },
   {
-    "icon": "btcex",
+    "icon": {
+      "light": "white/btcex.svg",
+      "dark": "black/btcex.svg"
+    },
     "name": "BTCEX",
     "website": "bkex.com",
     "link": "https://www.btcex.com/en-us/spot?target=BOBA-USDT",
@@ -168,7 +231,10 @@
     "type": "Centralized exchange"
   },
   {
-    "icon": "bundlrnetwork",
+    "icon": {
+      "light": "white/bundlr network.svg",
+      "dark": "black/bundlr network.svg"
+    },
     "name": "Bundlr network",
     "website": "budlr.network",
     "link": "http://bundlr.network/",
@@ -176,7 +242,10 @@
     "type": "Tools"
   },
   {
-    "icon": "burritowallet",
+    "icon": {
+      "light": "white/burrito wallet.svg",
+      "dark": "black/burrito wallet.svg"
+    },
     "name": "Burrito Wallet",
     "website": "burritowallet.com/en",
     "link": "https://www.burritowallet.com/en",
@@ -184,7 +253,10 @@
     "type": ""
   },
   {
-    "icon": "bybit",
+    "icon": {
+      "light": "white/bybit.svg",
+      "dark": "black/bybit.svg"
+    },
     "name": "Bybit",
     "website": "bybit.com",
     "link": "https://www.bybit.com/en-US/trade/spot/BOBA/USDT",
@@ -192,7 +264,10 @@
     "type": "Centralized exchange"
   },
   {
-    "icon": "celer",
+    "icon": {
+      "light": "white/celer.svg",
+      "dark": "black/celer.svg"
+    },
     "name": "Celer",
     "website": "celer.network",
     "link": "https://cbridge.celer.network/1/288/BOBA",
@@ -200,7 +275,10 @@
     "type": "Bridge"
   },
   {
-    "icon": "chainswap",
+    "icon": {
+      "light": "white/chainswap.svg",
+      "dark": "black/chainswap.svg"
+    },
     "name": "Chainswap",
     "website": "chainswap.com",
     "link": "http://chainswap.com/",
@@ -208,7 +286,10 @@
     "type": "Bridge"
   },
   {
-    "icon": "changenow",
+    "icon": {
+      "light": "white/changenow.svg",
+      "dark": "black/changenow.svg"
+    },
     "name": "ChangeNOW",
     "website": "changenow.io",
     "link": "https://changenow.io/?gclid=CjwKCAjwysipBhBXEiwApJOcuxvagnIShjArlbaDghhF0ZWl5gRkHf3puyb4K82blvNzRia3T_70OxoCokgQAvD_BwE",
@@ -216,7 +297,10 @@
     "type": ""
   },
   {
-    "icon": "charm",
+    "icon": {
+      "light": "white/charm.svg",
+      "dark": "black/charm.svg"
+    },
     "name": "Charm",
     "website": "charm.fi",
     "link": "https://www.charm.fi/",
@@ -224,7 +308,10 @@
     "type": ""
   },
   {
-    "icon": "coin98",
+    "icon": {
+      "light": "white/coin98.svg",
+      "dark": "black/coin98.svg"
+    },
     "name": "Coin98",
     "website": "coin98.com",
     "link": "https://wallet.coin98.com/",
@@ -232,7 +319,10 @@
     "type": "Wallet"
   },
   {
-    "icon": "coinbase",
+    "icon": {
+      "light": "white/coinbase.svg",
+      "dark": "black/coinbase.svg"
+    },
     "name": "Coinbase",
     "website": "coinbase.com",
     "link": "https://www.coinbase.com/advanced-trade/BOBA-USD",
@@ -240,7 +330,10 @@
     "type": "Centralized exchange"
   },
   {
-    "icon": "coinbaselogo",
+    "icon": {
+      "light": "white/coinbase logo.svg",
+      "dark": "black/coinbase logo.svg"
+    },
     "name": "coinbase logo",
     "website": "",
     "link": "",
@@ -248,7 +341,10 @@
     "type": ""
   },
   {
-    "icon": "coindcx",
+    "icon": {
+      "light": "white/coindcx.svg",
+      "dark": "black/coindcx.svg"
+    },
     "name": "CoinDCX",
     "website": "coindcx.com",
     "link": "https://coindcx.com/",
@@ -256,7 +352,10 @@
     "type": ""
   },
   {
-    "icon": "coinex",
+    "icon": {
+      "light": "white/coinex.svg",
+      "dark": "black/coinex.svg"
+    },
     "name": "Coinex",
     "website": "coinex.com",
     "link": "https://www.coinex.com/info/BOBA",
@@ -264,7 +363,10 @@
     "type": "Centralized exchange"
   },
   {
-    "icon": "connext",
+    "icon": {
+      "light": "white/connext.svg",
+      "dark": "black/connext.svg"
+    },
     "name": "Connext",
     "website": "connext.network",
     "link": "https://bridge.connext.network/?sendingChainId=288",
@@ -272,7 +374,10 @@
     "type": "Bridge"
   },
   {
-    "icon": "cosmicuniverse",
+    "icon": {
+      "light": "white/cosmic universe.svg",
+      "dark": "black/cosmic universe.svg"
+    },
     "name": "Cosmic Universe",
     "website": "cosmicuniverse.io",
     "link": "https://cosmicuniverse.io/",
@@ -280,7 +385,10 @@
     "type": "Gaming"
   },
   {
-    "icon": "covalent",
+    "icon": {
+      "light": "white/covalent.svg",
+      "dark": "black/covalent.svg"
+    },
     "name": "Covalent",
     "website": "covalenthq.com",
     "link": "https://www.covalenthq.com/",
@@ -288,7 +396,10 @@
     "type": "Tools"
   },
   {
-    "icon": "cryptocom(app)",
+    "icon": {
+      "light": "white/crypto.com (app).svg",
+      "dark": "black/crypto.com (app).svg"
+    },
     "name": "Crypto.com (app)",
     "website": "crypto.com",
     "link": "https://crypto.com/eea/app",
@@ -296,7 +407,10 @@
     "type": "Centralized exchange"
   },
   {
-    "icon": "curiodao",
+    "icon": {
+      "light": "white/curiodao.svg",
+      "dark": "black/curiodao.svg"
+    },
     "name": "CurioDAO",
     "website": "curioinvest.com",
     "link": "https://curioinvest.com/",
@@ -304,7 +418,10 @@
     "type": "DAO"
   },
   {
-    "icon": "d’cent",
+    "icon": {
+      "light": "white/d’cent.svg",
+      "dark": "black/d’cent.svg"
+    },
     "name": "D’Cent",
     "website": "dcentwallet.com",
     "link": "https://dcentwallet.com/",
@@ -312,7 +429,10 @@
     "type": "Wallet"
   },
   {
-    "icon": "debank",
+    "icon": {
+      "light": "white/debank.svg",
+      "dark": "black/debank.svg"
+    },
     "name": "Debank",
     "website": "debank.com",
     "link": "https://debank.com/",
@@ -320,7 +440,10 @@
     "type": "Tools"
   },
   {
-    "icon": "open\ndefiyield",
+    "icon": {
+      "light": "white/open\ndefiyield.svg",
+      "dark": "black/open\ndefiyield.svg"
+    },
     "name": "OPEN\nDefiyield",
     "website": "defiyield.app",
     "link": "http://defiyield.app/",
@@ -328,7 +451,10 @@
     "type": "Tools"
   },
   {
-    "icon": "defungify",
+    "icon": {
+      "light": "white/defungify.svg",
+      "dark": "black/defungify.svg"
+    },
     "name": "Defungify",
     "website": ".defungify.app/",
     "link": "https://www2.defungify.app/",
@@ -336,7 +462,10 @@
     "type": "Gaming"
   },
   {
-    "icon": "dega",
+    "icon": {
+      "light": "white/dega.svg",
+      "dark": "black/dega.svg"
+    },
     "name": "Dega",
     "website": "dega.org",
     "link": "https://www.dega.org/",
@@ -344,7 +473,10 @@
     "type": ""
   },
   {
-    "icon": "dexsport",
+    "icon": {
+      "light": "white/dexsport.svg",
+      "dark": "black/dexsport.svg"
+    },
     "name": "Dexsport",
     "website": "dexsport.io",
     "link": "https://dexsport.io/",
@@ -352,7 +484,10 @@
     "type": ""
   },
   {
-    "icon": "dia",
+    "icon": {
+      "light": "white/dia.svg",
+      "dark": "black/dia.svg"
+    },
     "name": "DIA",
     "website": "diadata.org",
     "link": "https://app.diadata.org/",
@@ -360,7 +495,10 @@
     "type": "Oracles"
   },
   {
-    "icon": "digifinex",
+    "icon": {
+      "light": "white/digifinex.svg",
+      "dark": "black/digifinex.svg"
+    },
     "name": "Digifinex",
     "website": "digifinex.com",
     "link": "https://www.digifinex.com/en-ww/trade/USDT/BOBA",
@@ -368,7 +506,10 @@
     "type": "Centralized exchange"
   },
   {
-    "icon": "dmail",
+    "icon": {
+      "light": "white/dmail.svg",
+      "dark": "black/dmail.svg"
+    },
     "name": "Dmail",
     "website": "dmail.ai",
     "link": "https://dmail.ai/",
@@ -376,7 +517,10 @@
     "type": ""
   },
   {
-    "icon": "dodo",
+    "icon": {
+      "light": "white/dodo.svg",
+      "dark": "black/dodo.svg"
+    },
     "name": "Dodo",
     "website": "dodoex.io",
     "link": "https://app.dodoex.io/?network=boba-mainnet&from=ETH&to=BOBA",
@@ -384,7 +528,10 @@
     "type": "Decentralized finance"
   },
   {
-    "icon": "donton",
+    "icon": {
+      "light": "white/donton.svg",
+      "dark": "black/donton.svg"
+    },
     "name": "DonTon",
     "website": "donton.net",
     "link": "https://donton.net/",
@@ -392,7 +539,10 @@
     "type": ""
   },
   {
-    "icon": "dua",
+    "icon": {
+      "light": "white/dua.svg",
+      "dark": "black/dua.svg"
+    },
     "name": "Dua",
     "website": "dua.com",
     "link": "https://www.dua.com/",
@@ -400,7 +550,10 @@
     "type": "Decentralized finance"
   },
   {
-    "icon": "epiko",
+    "icon": {
+      "light": "white/epiko.svg",
+      "dark": "black/epiko.svg"
+    },
     "name": "Epiko",
     "website": "epiko.io",
     "link": "https://www.epiko.io/",
@@ -408,7 +561,10 @@
     "type": ""
   },
   {
-    "icon": "evoverses",
+    "icon": {
+      "light": "white/evoverses.svg",
+      "dark": "black/evoverses.svg"
+    },
     "name": "Evoverses",
     "website": "evoverses.com",
     "link": "https://evoverses.com/",
@@ -416,7 +572,10 @@
     "type": "Gaming"
   },
   {
-    "icon": "firefly",
+    "icon": {
+      "light": "white/firefly.svg",
+      "dark": "black/firefly.svg"
+    },
     "name": "Firefly",
     "website": "firefly.exchange",
     "link": "https://firefly.exchange/",
@@ -424,7 +583,10 @@
     "type": "Decentralized finance"
   },
   {
-    "icon": "forwardprotocol",
+    "icon": {
+      "light": "white/forward protocol.svg",
+      "dark": "black/forward protocol.svg"
+    },
     "name": "Forward Protocol",
     "website": "forwardprotocol.io/",
     "link": "https://forwardfactory.net/dashboard/getting-started",
@@ -432,7 +594,10 @@
     "type": "Tools"
   },
   {
-    "icon": "fota-fightoftheages",
+    "icon": {
+      "light": "white/fota - fight of the ages.svg",
+      "dark": "black/fota - fight of the ages.svg"
+    },
     "name": "Fota - Fight of the Ages",
     "website": "fota.io",
     "link": "https://www.fota.io/",
@@ -440,7 +605,10 @@
     "type": "Gaming"
   },
   {
-    "icon": "foxtrotcommand",
+    "icon": {
+      "light": "white/foxtrot command.svg",
+      "dark": "black/foxtrot command.svg"
+    },
     "name": "Foxtrot Command",
     "website": "foxtrotcommand.com",
     "link": "https://foxtrotcommand.com/",
@@ -448,7 +616,10 @@
     "type": "Gaming"
   },
   {
-    "icon": "frax",
+    "icon": {
+      "light": "white/frax.svg",
+      "dark": "black/frax.svg"
+    },
     "name": "Frax",
     "website": "frax.finance",
     "link": "https://app.frax.finance/swap/main",
@@ -456,7 +627,10 @@
     "type": "Decentralized finance"
   },
   {
-    "icon": "frontier",
+    "icon": {
+      "light": "white/frontier.svg",
+      "dark": "black/frontier.svg"
+    },
     "name": "Frontier",
     "website": "frontier.xyz",
     "link": "https://frontier.xyz/",
@@ -464,7 +638,10 @@
     "type": "Wallet"
   },
   {
-    "icon": "gateio",
+    "icon": {
+      "light": "white/gate.io.svg",
+      "dark": "black/gate.io.svg"
+    },
     "name": "Gate.io",
     "website": "gate.io",
     "link": "https://www.gate.io/trade/BOBA_USDT",
@@ -472,7 +649,10 @@
     "type": "Centralized exchange"
   },
   {
-    "icon": "gelato",
+    "icon": {
+      "light": "white/gelato.svg",
+      "dark": "black/gelato.svg"
+    },
     "name": "Gelato",
     "website": "gelato.network",
     "link": "https://www.gelato.network/",
@@ -480,7 +660,10 @@
     "type": "Tools"
   },
   {
-    "icon": "ginfinance",
+    "icon": {
+      "light": "white/gin finance.svg",
+      "dark": "black/gin finance.svg"
+    },
     "name": "Gin Finance",
     "website": "gin.finance",
     "link": "https://www.gin.finance/",
@@ -488,7 +671,10 @@
     "type": "Decentralized finance"
   },
   {
-    "icon": "hedgey",
+    "icon": {
+      "light": "white/hedgey.svg",
+      "dark": "black/hedgey.svg"
+    },
     "name": "Hedgey",
     "website": "hedgey.finance",
     "link": "https://hedgey.finance/",
@@ -496,7 +682,10 @@
     "type": "DAO"
   },
   {
-    "icon": "homiewars",
+    "icon": {
+      "light": "white/homie wars.svg",
+      "dark": "black/homie wars.svg"
+    },
     "name": "Homie Wars",
     "website": "homiewars.com",
     "link": "https://homiewars.com/",
@@ -504,7 +693,10 @@
     "type": "Gaming"
   },
   {
-    "icon": "huobi",
+    "icon": {
+      "light": "white/huobi.svg",
+      "dark": "black/huobi.svg"
+    },
     "name": "Huobi",
     "website": "huobi.com",
     "link": "https://www.huobi.com/en-us/exchange/boba_usdt/",
@@ -512,7 +704,10 @@
     "type": "Centralized exchange"
   },
   {
-    "icon": "open\nicecreamswap",
+    "icon": {
+      "light": "white/open\nicecreamswap.svg",
+      "dark": "black/open\nicecreamswap.svg"
+    },
     "name": "OPEN\nIcecreamSwap",
     "website": "icecreamswap.com",
     "link": "https://icecreamswap.com/",
@@ -520,7 +715,10 @@
     "type": ""
   },
   {
-    "icon": "ichi",
+    "icon": {
+      "light": "white/ichi.svg",
+      "dark": "black/ichi.svg"
+    },
     "name": "ICHI",
     "website": "ichi.org",
     "link": "https://app.ichi.org/",
@@ -528,7 +726,10 @@
     "type": "Decentralized finance"
   },
   {
-    "icon": "immunefi",
+    "icon": {
+      "light": "white/immunefi.svg",
+      "dark": "black/immunefi.svg"
+    },
     "name": "Immunefi",
     "website": "immunefi.com",
     "link": "https://immunefi.com/bounty/bobanetwork/",
@@ -536,7 +737,10 @@
     "type": "Tools"
   },
   {
-    "icon": "iolyworld",
+    "icon": {
+      "light": "white/iolyworld.svg",
+      "dark": "black/iolyworld.svg"
+    },
     "name": "IolyWorld",
     "website": "iolyworld.io",
     "link": "https://www.iolyworld.io/",
@@ -544,7 +748,10 @@
     "type": ""
   },
   {
-    "icon": "kraken",
+    "icon": {
+      "light": "white/kraken.svg",
+      "dark": "black/kraken.svg"
+    },
     "name": "Kraken",
     "website": "kraken.com",
     "link": "https://www.kraken.com/prices/boba-network?quote=usd&interval=24h",
@@ -552,7 +759,10 @@
     "type": "Centralized exchange"
   },
   {
-    "icon": "kucoin",
+    "icon": {
+      "light": "white/kucoin.svg",
+      "dark": "black/kucoin.svg"
+    },
     "name": "Kucoin",
     "website": "kucoin.com",
     "link": "https://www.kucoin.com/price/BOBA",
@@ -560,7 +770,10 @@
     "type": "Centralized exchange"
   },
   {
-    "icon": "l2charts",
+    "icon": {
+      "light": "white/l2 charts.svg",
+      "dark": "black/l2 charts.svg"
+    },
     "name": "L2 Charts",
     "website": "l2charts.com",
     "link": "https://www.l2charts.com/?net=BOBA",
@@ -568,7 +781,10 @@
     "type": "Tools"
   },
   {
-    "icon": "latoken",
+    "icon": {
+      "light": "white/latoken.svg",
+      "dark": "black/latoken.svg"
+    },
     "name": "Latoken",
     "website": "latoken.com",
     "link": "https://latoken.com/exchange/BOBA_USDT",
@@ -576,7 +792,10 @@
     "type": "Centralized exchange"
   },
   {
-    "icon": "layerswapio",
+    "icon": {
+      "light": "white/layerswap.io.svg",
+      "dark": "black/layerswap.io.svg"
+    },
     "name": "Layerswap.io",
     "website": "layerswap.io",
     "link": "https://www.layerswap.io/",
@@ -584,7 +803,10 @@
     "type": "Bridge"
   },
   {
-    "icon": "lbank",
+    "icon": {
+      "light": "white/lbank.svg",
+      "dark": "black/lbank.svg"
+    },
     "name": "LBank",
     "website": "lbank.com",
     "link": "https://www.lbank.info/exchange/boba1/usdt/#etf",
@@ -592,7 +814,10 @@
     "type": "Centralized exchange"
   },
   {
-    "icon": "lendland",
+    "icon": {
+      "light": "white/lendland.svg",
+      "dark": "black/lendland.svg"
+    },
     "name": "LendLand",
     "website": "lendland.io",
     "link": "https://lendland.io/",
@@ -600,7 +825,10 @@
     "type": ""
   },
   {
-    "icon": "megaworld",
+    "icon": {
+      "light": "white/megaworld.svg",
+      "dark": "black/megaworld.svg"
+    },
     "name": "Megaworld",
     "website": "megaworld.io",
     "link": "https://megaworld.io/",
@@ -608,7 +836,10 @@
     "type": "Gaming"
   },
   {
-    "icon": "metaforra",
+    "icon": {
+      "light": "white/metaforra.svg",
+      "dark": "black/metaforra.svg"
+    },
     "name": "Metaforra",
     "website": "metaforra.com/",
     "link": "https://metaforra.com/futuructa",
@@ -616,7 +847,10 @@
     "type": "Gaming"
   },
   {
-    "icon": "metamask",
+    "icon": {
+      "light": "white/metamask.svg",
+      "dark": "black/metamask.svg"
+    },
     "name": "Metamask",
     "website": "metamask.io",
     "link": "https://metamask.io/download/",
@@ -624,7 +858,10 @@
     "type": "Wallet"
   },
   {
-    "icon": "mexcglobal",
+    "icon": {
+      "light": "white/mexc global.svg",
+      "dark": "black/mexc global.svg"
+    },
     "name": "MEXC Global",
     "website": "mexc.com",
     "link": "https://www.mexc.com/exchange/BOBA_USDT",
@@ -632,7 +869,10 @@
     "type": "Centralized exchange"
   },
   {
-    "icon": "multichain“warninggothacked”",
+    "icon": {
+      "light": "white/multichain “warning got hacked”.svg",
+      "dark": "black/multichain “warning got hacked”.svg"
+    },
     "name": "Multichain “WARNING GOT HACKED”",
     "website": "app.multichain.org",
     "link": "https://app.multichain.org/#/router",
@@ -640,7 +880,10 @@
     "type": "Bridge"
   },
   {
-    "icon": "myetherwallet",
+    "icon": {
+      "light": "white/myetherwallet.svg",
+      "dark": "black/myetherwallet.svg"
+    },
     "name": "MyEtherWallet",
     "website": "myetherwallet.com",
     "link": "https://www.myetherwallet.com/",
@@ -648,7 +891,10 @@
     "type": "Wallet"
   },
   {
-    "icon": "nowpayments",
+    "icon": {
+      "light": "white/now payments.svg",
+      "dark": "black/now payments.svg"
+    },
     "name": "Now Payments",
     "website": "nowpayments.io",
     "link": "https://nowpayments.io/",
@@ -656,7 +902,10 @@
     "type": ""
   },
   {
-    "icon": "nowwallet",
+    "icon": {
+      "light": "white/now wallet.svg",
+      "dark": "black/now wallet.svg"
+    },
     "name": "Now wallet",
     "website": "walletnow.app",
     "link": "https://walletnow.app/",
@@ -664,7 +913,10 @@
     "type": "Wallet"
   },
   {
-    "icon": "officialbridge-avalanche",
+    "icon": {
+      "light": "white/official bridge - avalanche.svg",
+      "dark": "black/official bridge - avalanche.svg"
+    },
     "name": "Official Bridge - Avalanche",
     "website": "gateway.avax.boba.network/wallet",
     "link": "https://gateway.avax.boba.network/wallet",
@@ -672,7 +924,10 @@
     "type": "Bridge"
   },
   {
-    "icon": "officialbridge-binance",
+    "icon": {
+      "light": "white/official bridge - binance.svg",
+      "dark": "black/official bridge - binance.svg"
+    },
     "name": "Official Bridge - Binance",
     "website": "gateway.bnb.boba.network/wallet",
     "link": "https://gateway.bnb.boba.network/wallet",
@@ -680,7 +935,10 @@
     "type": "Bridge"
   },
   {
-    "icon": "officialbridge-ethereum",
+    "icon": {
+      "light": "white/official bridge - ethereum.svg",
+      "dark": "black/official bridge - ethereum.svg"
+    },
     "name": "Official Bridge - Ethereum",
     "website": "gateway.boba.network/bridge",
     "link": "https://gateway.boba.network/bridge",
@@ -688,7 +946,10 @@
     "type": "Bridge"
   },
   {
-    "icon": "officialbridge-fantom",
+    "icon": {
+      "light": "white/official bridge - fantom.svg",
+      "dark": "black/official bridge - fantom.svg"
+    },
     "name": "Official Bridge - Fantom",
     "website": "gateway.bobaopera.boba.network/",
     "link": "https://gateway.bobaopera.boba.network/",
@@ -696,7 +957,10 @@
     "type": "Bridge"
   },
   {
-    "icon": "officialbridge-moonbeam",
+    "icon": {
+      "light": "white/official bridge - moonbeam.svg",
+      "dark": "black/official bridge - moonbeam.svg"
+    },
     "name": "Official Bridge - Moonbeam",
     "website": "gateway.bobabeam.boba.network/",
     "link": "https://gateway.bobabeam.boba.network/",
@@ -704,7 +968,10 @@
     "type": "Bridge"
   },
   {
-    "icon": "oku",
+    "icon": {
+      "light": "white/oku.svg",
+      "dark": "black/oku.svg"
+    },
     "name": "Oku",
     "website": "oku.trade",
     "link": "https://oku.trade/",
@@ -712,7 +979,10 @@
     "type": ""
   },
   {
-    "icon": "okxcom",
+    "icon": {
+      "light": "white/okx.com.svg",
+      "dark": "black/okx.com.svg"
+    },
     "name": "OKX.com",
     "website": "okx.com",
     "link": "https://www.okx.com/web3",
@@ -720,7 +990,10 @@
     "type": "Tools"
   },
   {
-    "icon": "onto",
+    "icon": {
+      "light": "white/onto.svg",
+      "dark": "black/onto.svg"
+    },
     "name": "Onto",
     "website": "onto.app",
     "link": "https://onto.app/",
@@ -728,7 +1001,10 @@
     "type": "Wallet"
   },
   {
-    "icon": "oolongswap",
+    "icon": {
+      "light": "white/oolongswap.svg",
+      "dark": "black/oolongswap.svg"
+    },
     "name": "Oolongswap",
     "website": "oolongswap.com",
     "link": "https://oolongswap.com/#/swap",
@@ -736,7 +1012,10 @@
     "type": "Decentralized finance"
   },
   {
-    "icon": "poloniex",
+    "icon": {
+      "light": "white/poloniex.svg",
+      "dark": "black/poloniex.svg"
+    },
     "name": "Poloniex",
     "website": "poloniex.com",
     "link": "https://poloniex.com/spot/BOBA_USDT",
@@ -744,7 +1023,10 @@
     "type": "Centralized exchange"
   },
   {
-    "icon": "push",
+    "icon": {
+      "light": "white/push.svg",
+      "dark": "black/push.svg"
+    },
     "name": "Push",
     "website": "push.org",
     "link": "https://push.org/",
@@ -752,7 +1034,10 @@
     "type": "Tools"
   },
   {
-    "icon": "pythnetwork",
+    "icon": {
+      "light": "white/pyth network.svg",
+      "dark": "black/pyth network.svg"
+    },
     "name": "Pyth Network",
     "website": "pyth.network",
     "link": "https://www.pyth.network/",
@@ -760,7 +1045,10 @@
     "type": ""
   },
   {
-    "icon": "rangoexchange",
+    "icon": {
+      "light": "white/rango exchange.svg",
+      "dark": "black/rango exchange.svg"
+    },
     "name": "Rango exchange",
     "website": "app.rango.exchange",
     "link": "https://app.rango.exchange/swap/ETH.BOBA--0x42bbfa2e77757c645eeaad1655e0911a7553efbc/BOBA.ETH",
@@ -768,7 +1056,10 @@
     "type": "Bridge"
   },
   {
-    "icon": "redstone",
+    "icon": {
+      "light": "white/redstone.svg",
+      "dark": "black/redstone.svg"
+    },
     "name": "Redstone",
     "website": "redstone.finance",
     "link": "https://redstone.finance/",
@@ -776,7 +1067,10 @@
     "type": "Tools"
   },
   {
-    "icon": "relay",
+    "icon": {
+      "light": "white/relay.svg",
+      "dark": "black/relay.svg"
+    },
     "name": "Relay",
     "website": "relay.link",
     "link": "https://relay.link/",
@@ -784,7 +1078,10 @@
     "type": ""
   },
   {
-    "icon": "remedy",
+    "icon": {
+      "light": "white/remedy.svg",
+      "dark": "black/remedy.svg"
+    },
     "name": "Remedy",
     "website": "r.xyz",
     "link": "https://r.xyz/",
@@ -792,7 +1089,10 @@
     "type": ""
   },
   {
-    "icon": "routernitro",
+    "icon": {
+      "light": "white/router nitro.svg",
+      "dark": "black/router nitro.svg"
+    },
     "name": "Router Nitro",
     "website": "nitro.routerprotocol.com",
     "link": "https://nitro.routerprotocol.com/",
@@ -800,7 +1100,10 @@
     "type": ""
   },
   {
-    "icon": "rovi",
+    "icon": {
+      "light": "white/rovi.svg",
+      "dark": "black/rovi.svg"
+    },
     "name": "Rovi",
     "website": "rovi.network",
     "link": "http://www.rovi.network/",
@@ -808,7 +1111,10 @@
     "type": ""
   },
   {
-    "icon": "rubicexchange",
+    "icon": {
+      "light": "white/rubic.exchange.svg",
+      "dark": "black/rubic.exchange.svg"
+    },
     "name": "Rubic.exchange",
     "website": "app.rubic.exchange",
     "link": "https://app.rubic.exchange/",
@@ -816,7 +1122,10 @@
     "type": "Bridge"
   },
   {
-    "icon": "safepal",
+    "icon": {
+      "light": "white/safepal.svg",
+      "dark": "black/safepal.svg"
+    },
     "name": "Safepal",
     "website": "safepal.com",
     "link": "http://safepal.com/",
@@ -824,7 +1133,10 @@
     "type": "Wallet"
   },
   {
-    "icon": "seedify",
+    "icon": {
+      "light": "white/seedify.svg",
+      "dark": "black/seedify.svg"
+    },
     "name": "Seedify",
     "website": "seedify.fund",
     "link": "https://seedify.fund/",
@@ -832,7 +1144,10 @@
     "type": "Decentralized finance"
   },
   {
-    "icon": "subquery",
+    "icon": {
+      "light": "white/subquery.svg",
+      "dark": "black/subquery.svg"
+    },
     "name": "Subquery",
     "website": "subquery.network/home",
     "link": "https://subquery.network/home",
@@ -840,7 +1155,10 @@
     "type": ""
   },
   {
-    "icon": "supraoracles",
+    "icon": {
+      "light": "white/supra oracles.svg",
+      "dark": "black/supra oracles.svg"
+    },
     "name": "Supra Oracles",
     "website": "supra.com",
     "link": "https://supra.com/",
@@ -848,7 +1166,10 @@
     "type": ""
   },
   {
-    "icon": "sushi",
+    "icon": {
+      "light": "white/sushi.svg",
+      "dark": "black/sushi.svg"
+    },
     "name": "Sushi",
     "website": "sushi.com",
     "link": "https://www.sushi.com/",
@@ -856,7 +1177,10 @@
     "type": "Decentralized finance"
   },
   {
-    "icon": "symbiosis",
+    "icon": {
+      "light": "white/symbiosis.svg",
+      "dark": "black/symbiosis.svg"
+    },
     "name": "Symbiosis",
     "website": "symbiosis.finance",
     "link": "https://app.symbiosis.finance/swap?chainIn=Boba&tokenIn=ETH",
@@ -864,7 +1188,10 @@
     "type": "Decentralized finance"
   },
   {
-    "icon": "synapse",
+    "icon": {
+      "light": "white/synapse.svg",
+      "dark": "black/synapse.svg"
+    },
     "name": "Synapse",
     "website": "synapseprotocol.com",
     "link": "https://synapseprotocol.com/?inputCurrency=ETH&outputCurrency=ETH&outputChain=288",
@@ -872,7 +1199,10 @@
     "type": "Bridge"
   },
   {
-    "icon": "teahouse",
+    "icon": {
+      "light": "white/teahouse.svg",
+      "dark": "black/teahouse.svg"
+    },
     "name": "Teahouse",
     "website": "teahouse.finance",
     "link": "https://teahouse.finance/",
@@ -880,7 +1210,10 @@
     "type": ""
   },
   {
-    "icon": "thegraph",
+    "icon": {
+      "light": "white/the graph.svg",
+      "dark": "black/the graph.svg"
+    },
     "name": "The Graph",
     "website": "thegraph.com",
     "link": "https://thegraph.com/en/",
@@ -888,7 +1221,10 @@
     "type": "Tools"
   },
   {
-    "icon": "uma",
+    "icon": {
+      "light": "white/uma.svg",
+      "dark": "black/uma.svg"
+    },
     "name": "UMA",
     "website": "umaproject.org",
     "link": "https://umaproject.org/",
@@ -896,7 +1232,10 @@
     "type": "Oracles"
   },
   {
-    "icon": "unidex",
+    "icon": {
+      "light": "white/unidex.svg",
+      "dark": "black/unidex.svg"
+    },
     "name": "Unidex",
     "website": "unidex.exchange",
     "link": "https://app.unidex.exchange/trading/288/",
@@ -904,7 +1243,10 @@
     "type": "Decentralized finance"
   },
   {
-    "icon": "viaprotocol",
+    "icon": {
+      "light": "white/via protocol.svg",
+      "dark": "black/via protocol.svg"
+    },
     "name": "Via protocol",
     "website": "via.exchange",
     "link": "https://router.via.exchange/ethereum/ETH/boba/ETH",
@@ -912,7 +1254,10 @@
     "type": "Bridge"
   },
   {
-    "icon": "wefi",
+    "icon": {
+      "light": "white/wefi.svg",
+      "dark": "black/wefi.svg"
+    },
     "name": "WeFi",
     "website": "wefi.xyz",
     "link": "https://wefi.xyz/",
@@ -920,7 +1265,10 @@
     "type": ""
   },
   {
-    "icon": "witnet",
+    "icon": {
+      "light": "white/witnet.svg",
+      "dark": "black/witnet.svg"
+    },
     "name": "Witnet",
     "website": "witnet.io",
     "link": "https://witnet.io/",
@@ -928,7 +1276,10 @@
     "type": "Oracles"
   },
   {
-    "icon": "woonetwork",
+    "icon": {
+      "light": "white/woo network.svg",
+      "dark": "black/woo network.svg"
+    },
     "name": "Woo Network",
     "website": "x.woo.org",
     "link": "https://x.woo.org/en/markets",
@@ -936,7 +1287,10 @@
     "type": "Centralized exchange"
   },
   {
-    "icon": "xdao",
+    "icon": {
+      "light": "white/xdao.svg",
+      "dark": "black/xdao.svg"
+    },
     "name": "Xdao",
     "website": "xdao.app",
     "link": "http://xdao.app/",
@@ -944,7 +1298,10 @@
     "type": "DAO"
   },
   {
-    "icon": "yetiswap",
+    "icon": {
+      "light": "white/yetiswap.svg",
+      "dark": "black/yetiswap.svg"
+    },
     "name": "Yetiswap",
     "website": "yetiswap.app",
     "link": "https://bobamarket.yetiswap.app/",
@@ -952,7 +1309,10 @@
     "type": "NFT"
   },
   {
-    "icon": "znsconnect",
+    "icon": {
+      "light": "white/zns connect.svg",
+      "dark": "black/zns connect.svg"
+    },
     "name": "ZNS Connect",
     "website": "zns.bio",
     "link": "https://zns.bio/",
@@ -960,7 +1320,10 @@
     "type": ""
   },
   {
-    "icon": "zokyo",
+    "icon": {
+      "light": "white/zokyo.svg",
+      "dark": "black/zokyo.svg"
+    },
     "name": "Zokyo",
     "website": "zokyo.io",
     "link": "https://www.zokyo.io/",
@@ -968,7 +1331,10 @@
     "type": "Tools"
   },
   {
-    "icon": "zoth",
+    "icon": {
+      "light": "white/zoth.svg",
+      "dark": "black/zoth.svg"
+    },
     "name": "Zoth",
     "website": "zoth.io",
     "link": "https://zoth.io/",

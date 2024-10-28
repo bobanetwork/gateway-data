@@ -2,10 +2,10 @@ const fs = require('fs');
 const path = require('path');
 
 // Paths for folders and JSON files
-const jsonFilePath = './original.json'; // Path to the original JSON file
-const whiteFolderPath = './White'; // Path to the White folder for light icons
-const blackFolderPath = './Black'; // Path to the Black folder for dark icons
-const outputJsonFilePath = './updated.json'; // Path for the new JSON file
+const jsonFilePath = './cex.list.json'; // Path to the original JSON file
+const whiteFolderPath = './white'; // Path to the White folder for light icons
+const blackFolderPath = './black'; // Path to the Black folder for dark icons
+const outputJsonFilePath = './u_cex.list.json'; // Path for the new JSON file
 
 // Function to read SVG content
 function getSvgContent(filePath) {
@@ -44,13 +44,13 @@ function appendIconsToJSON() {
       const blackIconPath = path.join(blackFolderPath,`${baseName}.svg`);
 
       // Get SVG contents
-      const lightSvg = getSvgContent(whiteIconPath);
-      const darkSvg = getSvgContent(blackIconPath);
+      // const lightSvg = getSvgContent(whiteIconPath);
+      // const darkSvg = getSvgContent(blackIconPath);
 
       // Add the `icon` property with light and dark SVGs if available
       item.icon = {
-        light: lightSvg || 'Icon not found',
-        dark: darkSvg || 'Icon not found',
+        light: whiteIconPath.toLowerCase() || null,
+        dark: blackIconPath.toLowerCase() || null,
       };
 
       return item;
