@@ -8,7 +8,8 @@
     "website": "1rpc.io",
     "link": "https://www.1rpc.io/",
     "description": "A Web3 relay that eliminates metadata exposure for users with one-click ease, safeguarding over 5 billion relays since launch across 25 networks.",
-    "type": ""
+    "type": "",
+    "visible": true
   },
   {
     "icon": {
@@ -19,7 +20,8 @@
     "website": "add3.io",
     "link": "https://www.add3.io/",
     "description": "Launch your Web3 EVM project in under a minute. Impress VC investors and build loyalty with rewards and a custom dApp, just Add3.",
-    "type": ""
+    "type": "",
+    "visible": true
   },
   {
     "icon": {
@@ -30,7 +32,8 @@
     "website": "antiersolutions.com",
     "link": "https://www.antiersolutions.com/",
     "description": "A full-stack blockchain consulting firm with a strong foundation in building DeFi products, Metaverse/gaming ecosystems, and a wide range of enterprise blockchain dApps.",
-    "type": ""
+    "type": "",
+    "visible": true
   },
   {
     "icon": {
@@ -41,7 +44,8 @@
     "website": "apeboard.finance",
     "link": "https://apeboard.finance/dashboard",
     "description": "Apeboard is a decentralized finance (DeFi) sector via crypto-asset aggregator and portfolio dashboard.",
-    "type": "Tools"
+    "type": "Tools",
+    "visible": true
   },
   {
     "icon": {
@@ -52,7 +56,8 @@
     "website": "api3.org",
     "link": "https://api3.org/",
     "description": "First-party oracles are the next-generation technology to access off-chain data.",
-    "type": "Oracles"
+    "type": "Oracles",
+    "visible": true
   },
   {
     "icon": {
@@ -63,18 +68,20 @@
     "website": "balmy.xyz/",
     "link": "https://app.balmy.xyz/swap",
     "description": "Get access to a meta-aggregator and find the best routes",
-    "type": ""
+    "type": "",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/band protocol.svg",
-      "dark": "black/band protocol.svg"
+      "light": "white/band_protocol.svg",
+      "dark": "black/band_protocol.svg"
     },
     "name": "Band protocol",
     "website": "bandprotocol.com",
     "link": "https://bandprotocol.com/",
     "description": "Band Protocol is a cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts.",
-    "type": "Oracles"
+    "type": "Oracles",
+    "visible": true
   },
   {
     "icon": {
@@ -85,18 +92,20 @@
     "website": "banxa.com",
     "link": "https://banxa.com/",
     "description": "Banxa is the leading global Web3 on-and-off ramp solution.",
-    "type": "Fiat on-ramp"
+    "type": "Fiat on-ramp",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/beamer bridge.svg",
-      "dark": "black/beamer bridge.svg"
+      "light": "white/beamer_bridge.svg",
+      "dark": "black/beamer_bridge.svg"
     },
     "name": "Beamer bridge",
     "website": "beamerbridge.com",
     "link": "https://app.beamerbridge.com/#/",
     "description": "Beam your ERC20 assets between EVM compatible rollups with certainty, speed and security.",
-    "type": "Bridge"
+    "type": "Bridge",
+    "visible": true
   },
   {
     "icon": {
@@ -107,7 +116,8 @@
     "website": "bitbank.cc",
     "link": "https://app.bitbank.cc/trade/boba_jpy",
     "description": "Bitbank is the Crypto Assets Exchange which can buy and sell the popular Crypto Assets.",
-    "type": "Centralized exchange"
+    "type": "Centralized exchange",
+    "visible": true
   },
   {
     "icon": {
@@ -118,7 +128,8 @@
     "website": "bitfinex.com",
     "link": "https://trading.bitfinex.com/t/BOBA:USD",
     "description": "Bitfinex is a digital asset trading platform founded in 2012.",
-    "type": "Centralized exchange"
+    "type": "Centralized exchange",
+    "visible": true
   },
   {
     "icon": {
@@ -129,7 +140,8 @@
     "website": "bithumb.com",
     "link": "https://en.bithumb.com/trade/order/BOBA_KRW",
     "description": "Bithumb is a South Korean cryptocurrency exchange founding in 2014.",
-    "type": "Centralized exchange"
+    "type": "Centralized exchange",
+    "visible": true
   },
   {
     "icon": {
@@ -140,7 +152,8 @@
     "website": "bitkeep.com",
     "link": "https://bitkeep.com/en/swap/boba/0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7",
     "description": "An easy-to-use Web3 wallet.",
-    "type": "Wallet"
+    "type": "Wallet",
+    "visible": true
   },
   {
     "icon": {
@@ -151,7 +164,8 @@
     "website": "bitstamp.net",
     "link": "https://www.bitstamp.net/",
     "description": "Bitstamp is one of the longest-standing crypto exchange.",
-    "type": "Centralized exchange"
+    "type": "Centralized exchange",
+    "visible": false
   },
   {
     "icon": {
@@ -162,7 +176,8 @@
     "website": "bizilabs.io",
     "link": "https://bizilabs.io/",
     "description": "BIZI is a mobile platform that utilises Web3.0 software and associated hardware.",
-    "type": "Wallet"
+    "type": "Wallet",
+    "visible": true
   },
   {
     "icon": {
@@ -173,7 +188,8 @@
     "website": "bkex.com",
     "link": "https://www.bkex.com/trade/BOBA_USDT",
     "description": "BKEX is a blockchain derivatives service platform.",
-    "type": "Centralized exchange"
+    "type": "Centralized exchange",
+    "visible": true
   },
   {
     "icon": {
@@ -184,29 +200,32 @@
     "website": "blockvision.org",
     "link": "https://blockvision.org/",
     "description": "BlockVision is a one-stop development platform and on-chain data retrieval portal.",
-    "type": "Tools"
+    "type": "Tools",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/boba multisig.svg",
-      "dark": "black/boba multisig.svg"
+      "light": "white/boba_multisig.svg",
+      "dark": "black/boba_multisig.svg"
     },
     "name": "Boba Multisig",
     "website": "multisig.boba.network",
     "link": "https://multisig.boba.network/",
     "description": "Boba Multisig is implementing the gnosis safe infrastructure, the most trusted platform to manage digital assets.",
-    "type": "Wallet"
+    "type": "Wallet",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/boba punks.svg",
-      "dark": "black/boba punks.svg"
+      "light": "white/boba_punks.svg",
+      "dark": "black/boba_punks.svg"
     },
     "name": "Boba Punks",
     "website": "bobapunks.netlify.app",
     "link": "https://bobapunks.netlify.app/",
     "description": "First punks on Boba network, join the squad.",
-    "type": "NFT"
+    "type": "NFT",
+    "visible": true
   },
   {
     "icon": {
@@ -217,7 +236,8 @@
     "website": "boringdao.com",
     "link": "https://oportal.boringdao.com/twoway?tab=0&target_chain_id=288",
     "description": "BoringDAO The ultimate DAO-driven inter-blockchain hub for Web 3.0. Multi-Chain Solutions for Every Crypto Asset.",
-    "type": "Bridge"
+    "type": "Bridge",
+    "visible": true
   },
   {
     "icon": {
@@ -228,29 +248,32 @@
     "website": "bkex.com",
     "link": "https://www.btcex.com/en-us/spot?target=BOBA-USDT",
     "description": "BKEX is a global Fiat trading exchange that offers OTC trading.",
-    "type": "Centralized exchange"
+    "type": "Centralized exchange",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/bundlr network.svg",
-      "dark": "black/bundlr network.svg"
+      "light": "white/bundlr_network.svg",
+      "dark": "black/bundlr_network.svg"
     },
     "name": "Bundlr network",
     "website": "budlr.network",
     "link": "http://bundlr.network/",
     "description": "The fastest, easiest way to store data on Web3.",
-    "type": "Tools"
+    "type": "Tools",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/burrito wallet.svg",
-      "dark": "black/burrito wallet.svg"
+      "light": "white/burrito_wallet.svg",
+      "dark": "black/burrito_wallet.svg"
     },
     "name": "Burrito Wallet",
     "website": "burritowallet.com/en",
     "link": "https://www.burritowallet.com/en",
     "description": "Supports multiple cryptocurrencies and provides access to the most popular Dapps, Defi Platforms, and NFT Marketplaces.",
-    "type": ""
+    "type": "",
+    "visible": true
   },
   {
     "icon": {
@@ -261,7 +284,8 @@
     "website": "bybit.com",
     "link": "https://www.bybit.com/en-US/trade/spot/BOBA/USDT",
     "description": "Bybit is a cryptocurrency exchange established in March 2018.",
-    "type": "Centralized exchange"
+    "type": "Centralized exchange",
+    "visible": true
   },
   {
     "icon": {
@@ -272,7 +296,8 @@
     "website": "celer.network",
     "link": "https://cbridge.celer.network/1/288/BOBA",
     "description": "Celer Bridge introduces the best-in-class cross-chain token bridging experience with deep liquidity for the user.",
-    "type": "Bridge"
+    "type": "Bridge",
+    "visible": true
   },
   {
     "icon": {
@@ -283,7 +308,8 @@
     "website": "chainswap.com",
     "link": "http://chainswap.com/",
     "description": "The cross-chain hub for all ecosystems.",
-    "type": "Bridge"
+    "type": "Bridge",
+    "visible": true
   },
   {
     "icon": {
@@ -294,7 +320,8 @@
     "website": "changenow.io",
     "link": "https://changenow.io/?gclid=CjwKCAjwysipBhBXEiwApJOcuxvagnIShjArlbaDghhF0ZWl5gRkHf3puyb4K82blvNzRia3T_70OxoCokgQAvD_BwE",
     "description": "ChangeNOW is a non-custodial service created for simple and fast cryptocurrency exchanges.",
-    "type": ""
+    "type": "",
+    "visible": true
   },
   {
     "icon": {
@@ -305,7 +332,8 @@
     "website": "charm.fi",
     "link": "https://www.charm.fi/",
     "description": "The easiest way to provide and manage liquidity. Charm’s mission is to connect crypto value to real value.",
-    "type": ""
+    "type": "",
+    "visible": true
   },
   {
     "icon": {
@@ -316,7 +344,8 @@
     "website": "coin98.com",
     "link": "https://wallet.coin98.com/",
     "description": "All in one defi wallet.",
-    "type": "Wallet"
+    "type": "Wallet",
+    "visible": true
   },
   {
     "icon": {
@@ -327,18 +356,8 @@
     "website": "coinbase.com",
     "link": "https://www.coinbase.com/advanced-trade/BOBA-USD",
     "description": "Coinbase is one of the most known cryptocurrency trading and investment platforms in the world.",
-    "type": "Centralized exchange"
-  },
-  {
-    "icon": {
-      "light": "white/coinbase logo.svg",
-      "dark": "black/coinbase logo.svg"
-    },
-    "name": "coinbase logo",
-    "website": "",
-    "link": "",
-    "description": "",
-    "type": ""
+    "type": "Centralized exchange",
+    "visible": true
   },
   {
     "icon": {
@@ -349,7 +368,8 @@
     "website": "coindcx.com",
     "link": "https://coindcx.com/",
     "description": "India’s most valuable crypto investment app, dedicated to make crypto accessible in a simple way.",
-    "type": ""
+    "type": "",
+    "visible": true
   },
   {
     "icon": {
@@ -360,7 +380,8 @@
     "website": "coinex.com",
     "link": "https://www.coinex.com/info/BOBA",
     "description": "CoinEx is a professional global cryptocurrency exchange.",
-    "type": "Centralized exchange"
+    "type": "Centralized exchange",
+    "visible": true
   },
   {
     "icon": {
@@ -371,7 +392,8 @@
     "website": "connext.network",
     "link": "https://bridge.connext.network/?sendingChainId=288",
     "description": "Connext powers fast, secure bridging between blockchains and rollups.",
-    "type": "Bridge"
+    "type": "Bridge",
+    "visible": true
   },
   {
     "icon": {
@@ -382,7 +404,8 @@
     "website": "cosmicuniverse.io",
     "link": "https://cosmicuniverse.io/",
     "description": "Cosmic Universe is an immersive open-world fantasy metaverse world-builder MMORPG",
-    "type": "Gaming"
+    "type": "Gaming",
+    "visible": false
   },
   {
     "icon": {
@@ -393,18 +416,20 @@
     "website": "covalenthq.com",
     "link": "https://www.covalenthq.com/",
     "description": "Covalent provides a unified API bringing visibility to billions of Web3 data points.",
-    "type": "Tools"
+    "type": "Tools",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/crypto.com (app).svg",
-      "dark": "black/crypto.com (app).svg"
+      "light": "white/cryptocom.svg",
+      "dark": "black/cryptocom.svg"
     },
     "name": "Crypto.com (app)",
     "website": "crypto.com",
     "link": "https://crypto.com/eea/app",
     "description": "Crypto.com is one of the leading cryptocurrency exchanges in the world.",
-    "type": "Centralized exchange"
+    "type": "Centralized exchange",
+    "visible": true
   },
   {
     "icon": {
@@ -415,18 +440,20 @@
     "website": "curioinvest.com",
     "link": "https://curioinvest.com/",
     "description": "The future of real assets belongs to everyone.",
-    "type": "DAO"
+    "type": "DAO",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/d’cent.svg",
-      "dark": "black/d’cent.svg"
+      "light": "white/dcent.svg",
+      "dark": "black/dcent.svg"
     },
     "name": "D’Cent",
     "website": "dcentwallet.com",
     "link": "https://dcentwallet.com/",
     "description": "The easiest and safest hardware wallet.",
-    "type": "Wallet"
+    "type": "Wallet",
+    "visible": true
   },
   {
     "icon": {
@@ -437,7 +464,8 @@
     "website": "debank.com",
     "link": "https://debank.com/",
     "description": "Debank is a dashboard for tracking your DeFi portfolio",
-    "type": "Tools"
+    "type": "Tools",
+    "visible": true
   },
   {
     "icon": {
@@ -448,7 +476,8 @@
     "website": "defiyield.app",
     "link": "http://defiyield.app/",
     "description": "Control your digital assets with a full suite of innovative tools.",
-    "type": "Tools"
+    "type": "Tools",
+    "visible": true
   },
   {
     "icon": {
@@ -459,7 +488,8 @@
     "website": ".defungify.app/",
     "link": "https://www2.defungify.app/",
     "description": "Convert your in-game items into NFTs and more with Defungify’s full suite of blockchain agnostic tools for game development.",
-    "type": "Gaming"
+    "type": "Gaming",
+    "visible": true
   },
   {
     "icon": {
@@ -470,7 +500,8 @@
     "website": "dega.org",
     "link": "https://www.dega.org/",
     "description": "Dega develops cutting-edge Web3 tools, accelerating game and Metaverse development since its founding in November 2022",
-    "type": ""
+    "type": "",
+    "visible": true
   },
   {
     "icon": {
@@ -481,7 +512,8 @@
     "website": "dexsport.io",
     "link": "https://dexsport.io/",
     "description": "The first decentralized crypto betting platform",
-    "type": ""
+    "type": "",
+    "visible": true
   },
   {
     "icon": {
@@ -492,7 +524,8 @@
     "website": "diadata.org",
     "link": "https://app.diadata.org/",
     "description": "DIA is an open-source, multi-chain data and oracle platform for Web3.",
-    "type": "Oracles"
+    "type": "Oracles",
+    "visible": true
   },
   {
     "icon": {
@@ -503,7 +536,8 @@
     "website": "digifinex.com",
     "link": "https://www.digifinex.com/en-ww/trade/USDT/BOBA",
     "description": "DigiFinex is a digital assets trading platform.",
-    "type": "Centralized exchange"
+    "type": "Centralized exchange",
+    "visible": true
   },
   {
     "icon": {
@@ -514,7 +548,8 @@
     "website": "dmail.ai",
     "link": "https://dmail.ai/",
     "description": "AI-powered decentralized communication infrastructure built to provide encrypted emails, and unified notifications, and targeted marketing across multiple chains and dApps for users, developers, and marketers",
-    "type": ""
+    "type": "",
+    "visible": true
   },
   {
     "icon": {
@@ -525,7 +560,8 @@
     "website": "dodoex.io",
     "link": "https://app.dodoex.io/?network=boba-mainnet&from=ETH&to=BOBA",
     "description": "Dodo is a decentralized trading platform that uses proactive market maker to provide liquidity.",
-    "type": "Decentralized finance"
+    "type": "Decentralized finance",
+    "visible": true
   },
   {
     "icon": {
@@ -536,7 +572,8 @@
     "website": "donton.net",
     "link": "https://donton.net/",
     "description": "Massively multiplayer Web3 game.",
-    "type": ""
+    "type": "",
+    "visible": true
   },
   {
     "icon": {
@@ -547,7 +584,8 @@
     "website": "dua.com",
     "link": "https://www.dua.com/",
     "description": "Reconnecting: Communities, Families, Union.",
-    "type": "Decentralized finance"
+    "type": "Decentralized finance",
+    "visible": true
   },
   {
     "icon": {
@@ -558,7 +596,8 @@
     "website": "epiko.io",
     "link": "https://www.epiko.io/",
     "description": "Cutting-edge multichain NFT marketplace that revolutionizes the trading of digital assets within the gaming ecosystem.",
-    "type": ""
+    "type": "",
+    "visible": true
   },
   {
     "icon": {
@@ -569,7 +608,8 @@
     "website": "evoverses.com",
     "link": "https://evoverses.com/",
     "description": "Evoverses is a 3D game on Avalanche.",
-    "type": "Gaming"
+    "type": "Gaming",
+    "visible": true
   },
   {
     "icon": {
@@ -580,40 +620,44 @@
     "website": "firefly.exchange",
     "link": "https://firefly.exchange/",
     "description": "Decentralized Digital Asset Trading Trade perpetuals from anywhere with up to 20x leverage.",
-    "type": "Decentralized finance"
+    "type": "Decentralized finance",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/forward protocol.svg",
-      "dark": "black/forward protocol.svg"
+      "light": "white/forward_protocol.svg",
+      "dark": "black/forward_protocol.svg"
     },
     "name": "Forward Protocol",
     "website": "forwardprotocol.io/",
     "link": "https://forwardfactory.net/dashboard/getting-started",
     "description": "Create Blockchains, Subnets, and dApps with A No-Code Interface",
-    "type": "Tools"
+    "type": "Tools",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/fota - fight of the ages.svg",
-      "dark": "black/fota - fight of the ages.svg"
+    "light": "white/fota.svg",
+    "dark": "black/fota.svg"
     },
     "name": "Fota - Fight of the Ages",
     "website": "fota.io",
     "link": "https://www.fota.io/",
     "description": "FOTA is a blockchain-based triple-A gaming project that utilizes NFT assets and its native cryptocurrency, FOTA.",
-    "type": "Gaming"
+    "type": "Gaming",
+    "visible": false
   },
   {
     "icon": {
-      "light": "white/foxtrot command.svg",
-      "dark": "black/foxtrot command.svg"
+      "light": "white/foxtrot_command.svg",
+      "dark": "black/foxtrot_command.svg"
     },
     "name": "Foxtrot Command",
     "website": "foxtrotcommand.com",
     "link": "https://foxtrotcommand.com/",
     "description": "Build an incredible NFT collection, compete against other players and upgrade your deck to reach the top of the leaderboard.",
-    "type": "Gaming"
+    "type": "Gaming",
+    "visible": false
   },
   {
     "icon": {
@@ -624,7 +668,8 @@
     "website": "frax.finance",
     "link": "https://app.frax.finance/swap/main",
     "description": "Frax is the world’s first fractional stablecoin and crypto native consumer price index.",
-    "type": "Decentralized finance"
+    "type": "Decentralized finance",
+    "visible": true
   },
   {
     "icon": {
@@ -635,18 +680,20 @@
     "website": "frontier.xyz",
     "link": "https://frontier.xyz/",
     "description": "Experience the power of Boba Network on your Frontier non-custodial, multi-chain DeFi wallet app.",
-    "type": "Wallet"
+    "type": "Wallet",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/gate.io.svg",
-      "dark": "black/gate.io.svg"
+      "light": "white/gate.svg",
+      "dark": "black/gate.svg"
     },
     "name": "Gate.io",
     "website": "gate.io",
     "link": "https://www.gate.io/trade/BOBA_USDT",
     "description": "Gate.io is one of the oldest crypto-to-crypto exchange from China, operating since 2013.",
-    "type": "Centralized exchange"
+    "type": "Centralized exchange",
+    "visible": true
   },
   {
     "icon": {
@@ -657,18 +704,20 @@
     "website": "gelato.network",
     "link": "https://www.gelato.network/",
     "description": "Web3’s decentralized backend; empowering builders to create automated, gasless & off-chain aware applications.",
-    "type": "Tools"
+    "type": "Tools",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/gin finance.svg",
-      "dark": "black/gin finance.svg"
+      "light": "white/gin_finance.svg",
+      "dark": "black/gin_finance.svg"
     },
     "name": "Gin Finance",
     "website": "gin.finance",
     "link": "https://www.gin.finance/",
     "description": "Gin is an open-source protocol for providing liquidity and trading ERC20 tokens on BOBA.",
-    "type": "Decentralized finance"
+    "type": "Decentralized finance",
+    "visible": true
   },
   {
     "icon": {
@@ -679,18 +728,20 @@
     "website": "hedgey.finance",
     "link": "https://hedgey.finance/",
     "description": "We create financial infrastructure for DAO treasuries.",
-    "type": "DAO"
+    "type": "DAO",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/homie wars.svg",
-      "dark": "black/homie wars.svg"
+      "light": "white/homie_wars.svg",
+      "dark": "black/homie_wars.svg"
     },
     "name": "Homie Wars",
     "website": "homiewars.com",
     "link": "https://homiewars.com/",
     "description": "Homie Wars is the first free-to-play battle royale game with Web3 integrations.",
-    "type": "Gaming"
+    "type": "Gaming",
+    "visible": true
   },
   {
     "icon": {
@@ -701,18 +752,20 @@
     "website": "huobi.com",
     "link": "https://www.huobi.com/en-us/exchange/boba_usdt/",
     "description": "Huobi Global is a cryptocurrency exchange with a strong presence in the Asian markets.",
-    "type": "Centralized exchange"
+    "type": "Centralized exchange",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/open\nicecreamswap.svg",
-      "dark": "black/open\nicecreamswap.svg"
+      "light": "white/icecreamswap.svg",
+      "dark": "black/icecreamswap.svg"
     },
-    "name": "OPEN\nIcecreamSwap",
+    "name": "OPEN IcecreamSwap",
     "website": "icecreamswap.com",
     "link": "https://icecreamswap.com/",
     "description": "Trade any tokens at the best rates with IceCreamSwap AI DEX aggregator, without the tokens ever leaving your wallet.",
-    "type": ""
+    "type": "",
+    "visible": true
   },
   {
     "icon": {
@@ -723,7 +776,8 @@
     "website": "ichi.org",
     "link": "https://app.ichi.org/",
     "description": "Vaults reward liquidity providers and benefit crypto projects through sustainable liquidity.",
-    "type": "Decentralized finance"
+    "type": "Decentralized finance",
+    "visible": true
   },
   {
     "icon": {
@@ -734,7 +788,8 @@
     "website": "immunefi.com",
     "link": "https://immunefi.com/bounty/bobanetwork/",
     "description": "The leading bug bounty platform for blockchain with the world's largest bug bounties.",
-    "type": "Tools"
+    "type": "Tools",
+    "visible": true
   },
   {
     "icon": {
@@ -745,7 +800,8 @@
     "website": "iolyworld.io",
     "link": "https://www.iolyworld.io/",
     "description": "Digitized gaming world where all items are NFTs.",
-    "type": ""
+    "type": "",
+    "visible": true
   },
   {
     "icon": {
@@ -756,7 +812,8 @@
     "website": "kraken.com",
     "link": "https://www.kraken.com/prices/boba-network?quote=usd&interval=24h",
     "description": "Kraken is one of the world's largest digital asset exchanges and the leader in euro volume and liquidity.",
-    "type": "Centralized exchange"
+    "type": "Centralized exchange",
+    "visible": true
   },
   {
     "icon": {
@@ -767,18 +824,20 @@
     "website": "kucoin.com",
     "link": "https://www.kucoin.com/price/BOBA",
     "description": "KuCoin is a well known cryptocurrency exchange.",
-    "type": "Centralized exchange"
+    "type": "Centralized exchange",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/l2 charts.svg",
-      "dark": "black/l2 charts.svg"
+      "light": "white/l2_charts.svg",
+      "dark": "black/l2_charts.svg"
     },
     "name": "L2 Charts",
     "website": "l2charts.com",
     "link": "https://www.l2charts.com/?net=BOBA",
     "description": "Your Favorite L2 Charts",
-    "type": "Tools"
+    "type": "Tools",
+    "visible": false
   },
   {
     "icon": {
@@ -789,18 +848,20 @@
     "website": "latoken.com",
     "link": "https://latoken.com/exchange/BOBA_USDT",
     "description": "LATOKEN is a cutting edge exchange which makes investing and payments easy and safe worldwide.",
-    "type": "Centralized exchange"
+    "type": "Centralized exchange",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/layerswap.io.svg",
-      "dark": "black/layerswap.io.svg"
+      "light": "white/layerswap.svg",
+      "dark": "black/layerswap.svg"
     },
     "name": "Layerswap.io",
     "website": "layerswap.io",
     "link": "https://www.layerswap.io/",
     "description": "Save fees when moving crypto from Coinbase, Binance or FTX to Boba.",
-    "type": "Bridge"
+    "type": "Bridge",
+    "visible": false
   },
   {
     "icon": {
@@ -811,7 +872,8 @@
     "website": "lbank.com",
     "link": "https://www.lbank.info/exchange/boba1/usdt/#etf",
     "description": "LBank is a cryptocurrency exchange.",
-    "type": "Centralized exchange"
+    "type": "Centralized exchange",
+    "visible": true
   },
   {
     "icon": {
@@ -822,7 +884,8 @@
     "website": "lendland.io",
     "link": "https://lendland.io/",
     "description": "Boba Network’s first lending platform, redefining lending with user-friendly tools for DeFi fans.",
-    "type": ""
+    "type": "",
+    "visible": true
   },
   {
     "icon": {
@@ -833,7 +896,8 @@
     "website": "megaworld.io",
     "link": "https://megaworld.io/",
     "description": "Megaworld is a multiplayer decentralised city-builder multiverse game. Build, trade, own, sell, and much more.",
-    "type": "Gaming"
+    "type": "Gaming",
+    "visible": true
   },
   {
     "icon": {
@@ -844,7 +908,8 @@
     "website": "metaforra.com/",
     "link": "https://metaforra.com/futuructa",
     "description": "Metaforra is a play & earn gaming ecosystem. Launching our first crypto mobile game called Futuructa.",
-    "type": "Gaming"
+    "type": "Gaming",
+    "visible": false
   },
   {
     "icon": {
@@ -855,29 +920,32 @@
     "website": "metamask.io",
     "link": "https://metamask.io/download/",
     "description": "MetaMask is the leading cryptocurrency wallet that enables users to connect with Web3.",
-    "type": "Wallet"
+    "type": "Wallet",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/mexc global.svg",
-      "dark": "black/mexc global.svg"
+      "light": "white/mexc.svg",
+      "dark": "black/mexc.svg"
     },
     "name": "MEXC Global",
     "website": "mexc.com",
     "link": "https://www.mexc.com/exchange/BOBA_USDT",
     "description": "MEXC Global is a digital asset exchanges.",
-    "type": "Centralized exchange"
+    "type": "Centralized exchange",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/multichain “warning got hacked”.svg",
-      "dark": "black/multichain “warning got hacked”.svg"
+      "light": "white/multichain.svg",
+      "dark": "black/multichain”.svg"
     },
     "name": "Multichain “WARNING GOT HACKED”",
     "website": "app.multichain.org",
     "link": "https://app.multichain.org/#/router",
     "description": "Multichain is the ultimate Router for Web3.",
-    "type": "Bridge"
+    "type": "Bridge",
+    "visible": true
   },
   {
     "icon": {
@@ -888,73 +956,80 @@
     "website": "myetherwallet.com",
     "link": "https://www.myetherwallet.com/",
     "description": "Mew is an open-source, client-side interface that allows users to interact directly with the Ethereum blockchain.",
-    "type": "Wallet"
+    "type": "Wallet",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/now payments.svg",
-      "dark": "black/now payments.svg"
+      "light": "white/now_payments.svg",
+      "dark": "black/now_payments.svg"
     },
     "name": "Now Payments",
     "website": "nowpayments.io",
     "link": "https://nowpayments.io/",
     "description": "NowPayments is a cryptocurrency payment gateway for accepting Bitcoin, Ethereum, stablecoins, and over 160 other cryptos.",
-    "type": ""
+    "type": "",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/now wallet.svg",
-      "dark": "black/now wallet.svg"
+      "light": "white/now_wallet.svg",
+      "dark": "black/now_wallet.svg"
     },
     "name": "Now wallet",
     "website": "walletnow.app",
     "link": "https://walletnow.app/",
     "description": "NOW Wallet is a fast, secure and non-custodial crypto wallet developed by the team of ChangeNOW Crypto Exchange service.",
-    "type": "Wallet"
+    "type": "Wallet",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/official bridge - avalanche.svg",
-      "dark": "black/official bridge - avalanche.svg"
+      "light": "white/avalanche.svg",
+      "dark": "black/avalanche.svg"
     },
     "name": "Official Bridge - Avalanche",
     "website": "gateway.avax.boba.network/wallet",
     "link": "https://gateway.avax.boba.network/wallet",
     "description": "Use the official Boba bridge to transfer assets from Avalanche to Boba.",
-    "type": "Bridge"
+    "type": "Bridge",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/official bridge - binance.svg",
-      "dark": "black/official bridge - binance.svg"
+      "light": "white/binance.svg",
+      "dark": "black/binance.svg"
     },
     "name": "Official Bridge - Binance",
     "website": "gateway.bnb.boba.network/wallet",
     "link": "https://gateway.bnb.boba.network/wallet",
     "description": "Use the official Boba bridge to transfer assets from Binance chain to Boba.",
-    "type": "Bridge"
+    "type": "Bridge",
+    "visible": false
   },
   {
     "icon": {
-      "light": "white/official bridge - ethereum.svg",
-      "dark": "black/official bridge - ethereum.svg"
+      "light": "white/ethereum.svg",
+      "dark": "black/ethereum.svg"
     },
     "name": "Official Bridge - Ethereum",
     "website": "gateway.boba.network/bridge",
     "link": "https://gateway.boba.network/bridge",
     "description": "Use the official Boba bridge to transfer assets from Ethereum to Boba.",
-    "type": "Bridge"
+    "type": "Bridge",
+    "visible": false
   },
   {
     "icon": {
-      "light": "white/official bridge - fantom.svg",
-      "dark": "black/official bridge - fantom.svg"
+      "light": "white/fantom.svg",
+      "dark": "black/fantom.svg"
     },
     "name": "Official Bridge - Fantom",
     "website": "gateway.bobaopera.boba.network/",
     "link": "https://gateway.bobaopera.boba.network/",
     "description": "Use the official Boba bridge to transfer assets from Fantom to Boba.",
-    "type": "Bridge"
+    "type": "Bridge",
+    "visible": false
   },
   {
     "icon": {
@@ -965,7 +1040,8 @@
     "website": "gateway.bobabeam.boba.network/",
     "link": "https://gateway.bobabeam.boba.network/",
     "description": "Use the official Boba bridge to transfer assets from Moonbeam to Boba.",
-    "type": "Bridge"
+    "type": "Bridge",
+    "visible": false
   },
   {
     "icon": {
@@ -976,18 +1052,20 @@
     "website": "oku.trade",
     "link": "https://oku.trade/",
     "description": "Trade professionally with Oku, and advanced frontend for the Uniswap v3 protocol.",
-    "type": ""
+    "type": "",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/okx.com.svg",
-      "dark": "black/okx.com.svg"
+      "light": "white/okx.svg",
+      "dark": "black/okx.svg"
     },
     "name": "OKX.com",
     "website": "okx.com",
     "link": "https://www.okx.com/web3",
     "description": "OKX is an interoperable and powerful Web 3.0 wallet.",
-    "type": "Tools"
+    "type": "Tools",
+    "visible": true
   },
   {
     "icon": {
@@ -998,7 +1076,8 @@
     "website": "onto.app",
     "link": "https://onto.app/",
     "description": "A decentralized multi-chain gateway for identity and asset management.",
-    "type": "Wallet"
+    "type": "Wallet",
+    "visible": true
   },
   {
     "icon": {
@@ -1009,7 +1088,8 @@
     "website": "oolongswap.com",
     "link": "https://oolongswap.com/#/swap",
     "description": "Oolongswap is the liquidity hub of Boba Network, a decentralized exchange.",
-    "type": "Decentralized finance"
+    "type": "Decentralized finance",
+    "visible": true
   },
   {
     "icon": {
@@ -1020,7 +1100,8 @@
     "website": "poloniex.com",
     "link": "https://poloniex.com/spot/BOBA_USDT",
     "description": "Poloniex is a cryptocurrency exchange that allows you to buy or sell digital assets.",
-    "type": "Centralized exchange"
+    "type": "Centralized exchange",
+    "visible": true
   },
   {
     "icon": {
@@ -1031,29 +1112,32 @@
     "website": "push.org",
     "link": "https://push.org/",
     "description": "Push Protocol is a Web3 communication network, enabling cross-chain notifications and messaging for dapps, wallets, and services.",
-    "type": "Tools"
+    "type": "Tools",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/pyth network.svg",
-      "dark": "black/pyth network.svg"
+      "light": "white/pyth_network.svg",
+      "dark": "black/pyth_network.svg"
     },
     "name": "Pyth Network",
     "website": "pyth.network",
     "link": "https://www.pyth.network/",
     "description": "Pyth connects high-fidelity market data from the world’s largest professional traders and exchanges to any smart contract, anywhere",
-    "type": ""
+    "type": "",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/rango exchange.svg",
-      "dark": "black/rango exchange.svg"
+      "light": "white/rango_exchange.svg",
+      "dark": "black/rango_exchange.svg"
     },
     "name": "Rango exchange",
     "website": "app.rango.exchange",
     "link": "https://app.rango.exchange/swap/ETH.BOBA--0x42bbfa2e77757c645eeaad1655e0911a7553efbc/BOBA.ETH",
     "description": "The First Multichain Dex/Bridge Aggregator.",
-    "type": "Bridge"
+    "type": "Bridge",
+    "visible": true
   },
   {
     "icon": {
@@ -1064,7 +1148,8 @@
     "website": "redstone.finance",
     "link": "https://redstone.finance/",
     "description": "Data ecosystem with custom and real-world data for DeFi, Smart Contracts & Web3",
-    "type": "Tools"
+    "type": "Tools",
+    "visible": true
   },
   {
     "icon": {
@@ -1075,7 +1160,8 @@
     "website": "relay.link",
     "link": "https://relay.link/",
     "description": "Relay is a cross-chain payments system that enables instant, low-cost bridging and cross-chain execution",
-    "type": ""
+    "type": "",
+    "visible": true
   },
   {
     "icon": {
@@ -1086,18 +1172,20 @@
     "website": "r.xyz",
     "link": "https://r.xyz/",
     "description": "Remedy is a 360 cybersecurity platform equipped with bleeding-edge tech purpose-built to reshape Web3 security.",
-    "type": ""
+    "type": "",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/router nitro.svg",
-      "dark": "black/router nitro.svg"
+      "light": "white/router_nitro.svg",
+      "dark": "black/router_nitro.svg"
     },
     "name": "Router Nitro",
     "website": "nitro.routerprotocol.com",
     "link": "https://nitro.routerprotocol.com/",
     "description": "Router Nitro, developed by Router Protocol, offers swift, secure asset transfers across chains, supporting both EVM and non-EVM transactions with exceptional cost-effectiveness.",
-    "type": ""
+    "type": "",
+    "visible": true
   },
   {
     "icon": {
@@ -1108,18 +1196,20 @@
     "website": "rovi.network",
     "link": "http://www.rovi.network/",
     "description": "Rovi Network is a Web3 powerhouse making crypto accessible to billions via its infrastructure and $ROVI its infrastructure and $ROVI token ecosystem.",
-    "type": ""
+    "type": "",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/rubic.exchange.svg",
-      "dark": "black/rubic.exchange.svg"
+      "light": "white/rubic_exchange.svg",
+      "dark": "black/rubic_exchange.svg"
     },
     "name": "Rubic.exchange",
     "website": "app.rubic.exchange",
     "link": "https://app.rubic.exchange/",
     "description": "Rubic is a multichain DeFi ecosystem, which features multi-chain swaps, on-chain swaps and much more.",
-    "type": "Bridge"
+    "type": "Bridge",
+    "visible": true
   },
   {
     "icon": {
@@ -1130,7 +1220,8 @@
     "website": "safepal.com",
     "link": "http://safepal.com/",
     "description": "Own your crypto with our mobile, hardware and extensions wallet.",
-    "type": "Wallet"
+    "type": "Wallet",
+    "visible": true
   },
   {
     "icon": {
@@ -1141,7 +1232,8 @@
     "website": "seedify.fund",
     "link": "https://seedify.fund/",
     "description": "Seedify is a decentralized incubator, and launchpad, for empowering next innovations of the blockchain ecosystem.",
-    "type": "Decentralized finance"
+    "type": "Decentralized finance",
+    "visible": true
   },
   {
     "icon": {
@@ -1152,18 +1244,20 @@
     "website": "subquery.network/home",
     "link": "https://subquery.network/home",
     "description": "Pioneering fast, flexible, and scalable decentralized infrastructure, they power Web3’s transition to an open, efficient and user-centric future.",
-    "type": ""
+    "type": "",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/supra oracles.svg",
-      "dark": "black/supra oracles.svg"
+      "light": "white/supra_oracles.svg",
+      "dark": "black/supra_oracles.svg"
     },
     "name": "Supra Oracles",
     "website": "supra.com",
     "link": "https://supra.com/",
     "description": "Supra provides decentralized Oracle price feeds for Web3 ecosystems, ensuring accurate real-world data for dApps.",
-    "type": ""
+    "type": "",
+    "visible": true
   },
   {
     "icon": {
@@ -1174,7 +1268,8 @@
     "website": "sushi.com",
     "link": "https://www.sushi.com/",
     "description": "Sushi is one of the biggest decentralized trading platform.",
-    "type": "Decentralized finance"
+    "type": "Decentralized finance",
+    "visible": true
   },
   {
     "icon": {
@@ -1185,7 +1280,8 @@
     "website": "symbiosis.finance",
     "link": "https://app.symbiosis.finance/swap?chainIn=Boba&tokenIn=ETH",
     "description": "The Symbiosis protocol acts as a cross-chain AMM DEX.",
-    "type": "Decentralized finance"
+    "type": "Decentralized finance",
+    "visible": true
   },
   {
     "icon": {
@@ -1196,7 +1292,8 @@
     "website": "synapseprotocol.com",
     "link": "https://synapseprotocol.com/?inputCurrency=ETH&outputCurrency=ETH&outputChain=288",
     "description": "Synapse is a defi multichain bridge that lets users seamlessly transfer native assets.",
-    "type": "Bridge"
+    "type": "Bridge",
+    "visible": true
   },
   {
     "icon": {
@@ -1207,18 +1304,20 @@
     "website": "teahouse.finance",
     "link": "https://teahouse.finance/",
     "description": "Teahouse is a multi-strategy DeFi asset manager like a hedge fund, helping enterprise and individual clients grow their crypto assets securely and transparently.",
-    "type": ""
+    "type": "",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/the graph.svg",
-      "dark": "black/the graph.svg"
+      "light": "white/the_graph.svg",
+      "dark": "black/the_graph.svg"
     },
     "name": "The Graph",
     "website": "thegraph.com",
     "link": "https://thegraph.com/en/",
     "description": "The Graph is an indexing protocol for querying networks like Ethereum and IPFS.",
-    "type": "Tools"
+    "type": "Tools",
+    "visible": true
   },
   {
     "icon": {
@@ -1229,7 +1328,8 @@
     "website": "umaproject.org",
     "link": "https://umaproject.org/",
     "description": "UMA is an optimistic oracle that serves data to smart contracts using a \"true unless disputed\" escalation game.",
-    "type": "Oracles"
+    "type": "Oracles",
+    "visible": true
   },
   {
     "icon": {
@@ -1240,18 +1340,20 @@
     "website": "unidex.exchange",
     "link": "https://app.unidex.exchange/trading/288/",
     "description": "UniDex's mission is to provide the most seamless trading experience in a truly decentralized fashion.",
-    "type": "Decentralized finance"
+    "type": "Decentralized finance",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/via protocol.svg",
-      "dark": "black/via protocol.svg"
+      "light": "white/via_protocol.png",
+      "dark": "black/via_protocol.svg"
     },
     "name": "Via protocol",
     "website": "via.exchange",
     "link": "https://router.via.exchange/ethereum/ETH/boba/ETH",
     "description": "Via Router, cross-chain router to ensure users can find the most efficient way to bridge assets.",
-    "type": "Bridge"
+    "type": "Bridge",
+    "visible": true
   },
   {
     "icon": {
@@ -1262,7 +1364,8 @@
     "website": "wefi.xyz",
     "link": "https://wefi.xyz/",
     "description": "Decentralized leverage engine for undercollateralized loans.",
-    "type": ""
+    "type": "",
+    "visible": true
   },
   {
     "icon": {
@@ -1273,18 +1376,20 @@
     "website": "witnet.io",
     "link": "https://witnet.io/",
     "description": "The decentralized oracle that is true to the censorship resistant nature of blockchains.",
-    "type": "Oracles"
+    "type": "Oracles",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/woo network.svg",
-      "dark": "black/woo network.svg"
+      "light": "white/woo_network.svg",
+      "dark": "black/woo_network.svg"
     },
     "name": "Woo Network",
     "website": "x.woo.org",
     "link": "https://x.woo.org/en/markets",
     "description": "WOO Network is a liquidity network that connects crypto exchanges, traders, and DeFi platforms.",
-    "type": "Centralized exchange"
+    "type": "Centralized exchange",
+    "visible": true
   },
   {
     "icon": {
@@ -1295,7 +1400,8 @@
     "website": "xdao.app",
     "link": "http://xdao.app/",
     "description": "Xdao is a unique tool for creating Decentralized Autonomous Organizations (DAOs).",
-    "type": "DAO"
+    "type": "DAO",
+    "visible": true
   },
   {
     "icon": {
@@ -1306,18 +1412,20 @@
     "website": "yetiswap.app",
     "link": "https://bobamarket.yetiswap.app/",
     "description": "YetiSwap is a decentralized exchange (DEX) and NFT marketplace , running on the Avalanche blockchain.",
-    "type": "NFT"
+    "type": "NFT",
+    "visible": true
   },
   {
     "icon": {
-      "light": "white/zns connect.svg",
-      "dark": "black/zns connect.svg"
+      "light": "white/znsconnect.svg",
+      "dark": "black/znsconnect.svg"
     },
     "name": "ZNS Connect",
     "website": "zns.bio",
     "link": "https://zns.bio/",
     "description": "Cutting-edge decentralized communication ID platform powered by decentralized",
-    "type": ""
+    "type": "",
+    "visible": true
   },
   {
     "icon": {
@@ -1328,7 +1436,8 @@
     "website": "zokyo.io",
     "link": "https://www.zokyo.io/",
     "description": "Zokyo is a venture studio that builds, secures, and funds crypto, DeFi, and NFT companies.",
-    "type": "Tools"
+    "type": "Tools",
+    "visible": true
   },
   {
     "icon": {
@@ -1339,6 +1448,7 @@
     "website": "zoth.io",
     "link": "https://zoth.io/",
     "description": "Zoth fosters global capital flow for transparent, efficient finance, connecting traditional and blockchain-based assets for greater inclusion",
-    "type": ""
+    "type": "",
+    "visible": true
   }
 ]
