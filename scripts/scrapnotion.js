@@ -35,3 +35,38 @@ function scrapnow() {
 }
 
 scrapnow();
+
+
+// scrap from the coingecko for all the available exchanges for boba.
+
+function scapExchanges() {
+  console.log("Started Exchange scraping!");
+
+  let scrapedData = []; // Array to hold the scraped objects
+
+  // Select all rows in the table
+  const rows = $0.querySelectorAll('tr.hover\\:tw-bg-gray-50');
+
+  rows.forEach(row => {
+    // Select the cells within the row
+    const cells = row.querySelectorAll("td");
+
+    // Extract the name from the second cell
+    const name = cells[1]?.querySelector("a div")?.innerText.trim() || "";
+
+    // Extract the link and pair name from the fourth cell
+    const linkElement = cells[3]?.querySelector("a");
+    const link = linkElement?.getAttribute("href") || "";
+    const pairName = linkElement?.innerText.trim() || "";
+
+    // Check if both name and link exist before adding to the data
+    if (name && link && pairName) {
+      scrapedData.push({name,link,pairName});
+    }
+  });
+
+  console.log("Scraped Data:",scrapedData);
+  return scrapedData;
+}
+
+scapExchanges();
