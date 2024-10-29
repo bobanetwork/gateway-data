@@ -985,30 +985,6 @@
   },
   {
     "icon": {
-      "light": "white/avalanche.svg",
-      "dark": "black/avalanche.svg"
-    },
-    "name": "Official Bridge - Avalanche",
-    "website": "gateway.avax.boba.network/wallet",
-    "link": "https://gateway.avax.boba.network/wallet",
-    "description": "Use the official Boba bridge to transfer assets from Avalanche to Boba.",
-    "type": "Bridge",
-    "visible": false
-  },
-  {
-    "icon": {
-      "light": "white/binance.svg",
-      "dark": "black/binance.svg"
-    },
-    "name": "Official Bridge - Binance",
-    "website": "gateway.bnb.boba.network/wallet",
-    "link": "https://gateway.bnb.boba.network/wallet",
-    "description": "Use the official Boba bridge to transfer assets from Binance chain to Boba.",
-    "type": "Bridge",
-    "visible": false
-  },
-  {
-    "icon": {
       "light": "white/ethereum.svg",
       "dark": "black/ethereum.svg"
     },
@@ -1016,30 +992,6 @@
     "website": "gateway.boba.network/bridge",
     "link": "https://gateway.boba.network/bridge",
     "description": "Use the official Boba bridge to transfer assets from Ethereum to Boba.",
-    "type": "Bridge",
-    "visible": false
-  },
-  {
-    "icon": {
-      "light": "white/fantom.svg",
-      "dark": "black/fantom.svg"
-    },
-    "name": "Official Bridge - Fantom",
-    "website": "gateway.bobaopera.boba.network/",
-    "link": "https://gateway.bobaopera.boba.network/",
-    "description": "Use the official Boba bridge to transfer assets from Fantom to Boba.",
-    "type": "Bridge",
-    "visible": false
-  },
-  {
-    "icon": {
-      "light": "white/official bridge - moonbeam.svg",
-      "dark": "black/official bridge - moonbeam.svg"
-    },
-    "name": "Official Bridge - Moonbeam",
-    "website": "gateway.bobabeam.boba.network/",
-    "link": "https://gateway.bobabeam.boba.network/",
-    "description": "Use the official Boba bridge to transfer assets from Moonbeam to Boba.",
     "type": "Bridge",
     "visible": false
   },
@@ -1346,7 +1298,7 @@
   {
     "icon": {
       "light": "white/via_protocol.png",
-      "dark": "black/via_protocol.svg"
+      "dark": "black/via_protocol.png"
     },
     "name": "Via protocol",
     "website": "via.exchange",

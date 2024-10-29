@@ -4,10 +4,10 @@
     "link": "https://www.huobi.com/en-us/exchange/boba_usdt?invite_code=d8c53",
     "pairName": "BOBA/USDT",
     "icon": {
-      "light": "white/htx.svg",
-      "dark": "black/htx.svg"
+      "light": "white/htx.png",
+      "dark": "black/htx.png"
     },
-    "visible": false
+    "visible": true
   },
   {
     "name": "DigiFinex",
@@ -41,32 +41,32 @@
   },
   {
     "name": "XT.COM",
-    "visible": false,
+    "visible": true,
     "link": "https://www.xt.com/en/trade/boba_usdt?ref=ZHOJUG5",
     "pairName": "BOBA/USDT",
     "icon": {
-      "light": "white/xt.com.svg",
-      "dark": "black/xt.com.svg"
+      "light": "white/xt.png",
+      "dark": "black/xt.png"
     }
   },
   {
     "name": "OrangeX",
-    "visible": false,
+    "visible": true,
     "link": "https://www.orangex.com/spot/BOBA-USDT-SPOT",
     "pairName": "BOBA/USDT",
     "icon": {
-      "light": "white/orangex.svg",
-      "dark": "black/orangex.svg"
+      "light": "white/orangex.png",
+      "dark": "black/orangex.png"
     }
   },
   {
     "name": "BingX",
-    "visible": false,
+    "visible": true,
     "link": "https://bingx.com/en-us/spot/BOBAUSDT?ch=cgk_organic",
     "pairName": "BOBA/USDT",
     "icon": {
-      "light": "white/bingx.svg",
-      "dark": "black/bingx.svg"
+      "light": "white/bingx.png",
+      "dark": "black/bingx.png"
     }
   },
   {
@@ -125,8 +125,8 @@
     "link": "https://crypto.com/exchange/trade/spot/BOBA_USD",
     "pairName": "BOBA/USD",
     "icon": {
-      "light": "white/cryptocom.svg",
-      "dark": "black/cryptocom.svg"
+      "light": "white/cryptocom.png",
+      "dark": "black/cryptocom.png"
     }
   },
   {
@@ -134,10 +134,10 @@
     "link": "https://www.hotcoin.com/currencyExchange/boba_usdt",
     "pairName": "BOBA/USDT",
     "icon": {
-      "light": "white/hotcoin.svg",
-    "dark": "black/hotcoin.svg"
+      "light": "white/hotcoin.png",
+      "dark": "black/hotcoin.png"
     },
-    "visible": false
+    "visible": true
   },
   {
     "name": "Kraken",
@@ -151,22 +151,22 @@
   },
   {
     "name": "Uniswap V3 (Ethereum)",
-    "visible": false,
+    "visible": true,
     "link": "https://app.uniswap.org/explore/tokens/ethereum/0x42bbfa2e77757c645eeaad1655e0911a7553efbc",
     "pairName": "BOBA/WETH",
     "icon": {
-      "light": "white/uniswap v3 (ethereum).svg",
-      "dark": "black/uniswap v3 (ethereum).svg"
+      "light": "white/uniswapv3.png",
+      "dark": "black/uniswapv3.png"
     }
   },
   {
     "name": "Cryptology",
-    "visible": false,
+    "visible": true,
     "link": "https://cryptology.com/app/next/trading/BOBA_USDT",
     "pairName": "BOBA/USDT",
     "icon": {
-      "light": "white/cryptology.svg",
-      "dark": "black/cryptology.svg"
+      "light": "white/cryptology.png",
+      "dark": "black/cryptology.png"
     }
   },
   {
@@ -201,32 +201,32 @@
   },
   {
     "name": "BitTrade",
-    "visible": false,
+    "visible": true,
     "link": "https://www.bittrade.co.jp/ja-jp/exchange/boba_jpy/",
     "pairName": "BOBA/JPY",
     "icon": {
-      "light": "white/bittrade.svg",
-      "dark": "black/bittrade.svg"
+      "light": "white/bittrade.png",
+      "dark": "black/bittrade.png"
     }
   },
   {
     "name": "Bit2Me",
-    "visible": false,
+    "visible": true,
     "link": "https://pro.bit2me.com/exchange/BOBA-EUR?ref=285-6HY-TPA&mkt_kind=referral&prm=5DH100",
     "pairName": "BOBA/EUR",
     "icon": {
-      "light": "white/bit2me.svg",
-      "dark": "black/bit2me.svg"
+      "light": "white/bit2me.png",
+      "dark": "black/bit2me.png"
     }
   },
   {
     "name": "BitMart",
-    "visible": false,
+    "visible": true,
     "link": "https://www.bitmart.com/trade/en?symbol=BOBA_USDT&r=PjkAFy",
     "pairName": "BOBA/USDT",
     "icon": {
-      "light": "white/bitmart.svg",
-      "dark": "black/bitmart.svg"
+      "light": "white/bitmart.png",
+      "dark": "black/bitmart.png"
     }
   },
   {
@@ -265,18 +265,18 @@
     "link": "https://poloniex.com/trade/BOBA_USDT/?type=spot?c=U5BHAX92",
     "pairName": "BOBA/USDT",
     "icon": {
-      "light": "white/poloniex.svg",
-      "dark": "black/poloniex.svg"
+      "light": "white/poloniex.png",
+      "dark": "black/poloniex.png"
     }
   },
   {
     "name": "GoPax",
-    "visible": false,
+    "visible": true,
     "link": "https://www.gopax.co.kr/exchange/BOBA-KRW",
     "pairName": "BOBA/KRW",
     "icon": {
-      "light": "white/gopax.svg",
-      "dark": "black/gopax.svg"
+      "light": "white/gopax.png",
+      "dark": "black/gopax.png"
     }
   }
 ]
