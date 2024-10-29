@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1080 1080">
+  <!-- Generator: Adobe Illustrator 29.0.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 186)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+      }
+
+      .st1 {
+        isolation: isolate;
+      }
+
+      .st2 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st3 {
+        fill: #fff;
+      }
+
+      .st4 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st0" x="310.9" y="310.9" width="458.2" height="458.2" transform="translate(-223.7 540) rotate(-45)"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="st0" x="144" y="144" width="792" height="792"/>
+    </clipPath>
+  </defs>
+  <path class="st3" d="M540,0h0c298.2,0,540,241.8,540,540h0c0,298.2-241.8,540-540,540h0C241.8,1080,0,838.2,0,540h0C0,241.8,241.8,0,540,0Z"/>
+  <path class="st3" d="M769.9,769.9h-459.9v-459.9h459.9v459.9ZM321,759h438v-438h-438v438Z"/>
+  <g class="st4">
+    <g class="st2">
+      <image class="st1" width="112" height="112" transform="translate(141.7 141.7) scale(7.1)" xlink:href="Epiko logo-1.png"/>
+    </g>
+  </g>
+  <polygon class="st3" points="501 459.2 501 519.3 611 519.3 611 553.7 501 553.7 501 620.8 611 620.8 611 655.2 469 655.2 469 424.8 611 424.8 611 459.2 501 459.2"/>
+  <path d="M759,759h-111l-12,12h135v-135l-12,12v111ZM636,310.1l12,12h111v111l12,12v-135h-135ZM322.1,759v-111l-12-12v135h135l-12-12h-111ZM322.1,322.1h111l12-12h-135v135l12-12v-111Z"/>
+</svg>
