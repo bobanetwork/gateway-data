@@ -35,12 +35,17 @@ function saveJson(filePath,data) {
   console.log(`Data saved to ${filePath}`);
 }
 
+function sortData(data) {
+  return data.sort((a,b) => a.name > b.name ? 1 : -1);
+}
+
 // Main function
 function processJson(inputFile,outputFile,uniqueKey) {
   const jsonData = loadJson(inputFile);
-  const cleanedData = removeDuplicates(jsonData,uniqueKey);
+  // const cleanedData = removeDuplicates(jsonData,uniqueKey);
+  const cleanedData = sortData(jsonData);
   saveJson(outputFile,cleanedData);
 }
 
 // Run the function
-processJson('projects.json','output.json','name');
+processJson('list.json','output.json','name');

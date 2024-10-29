@@ -15,8 +15,10 @@ function renameFiles(directory) {
       // Create the new filename: lowercase, remove "logo", replace spaces with underscores
       const newBaseName = baseName
         .toLowerCase() // Convert to lowercase
-        .replace(/logo/gi,"") // Remove "logo" if present (case insensitive)
-        .replace(/\s+/g,"_") // Replace spaces with underscores
+        .split(" ").join("") // split by space and join by ';
+        .replace(/black/gi,"") // Remove "logo" if present (case insensitive)
+        .replace(/white/gi,"") // Remove "logo" if present (case insensitive)
+        // .replace(/\s+/g,"_") // Replace spaces with underscores
         .replace(/_+/g,"_") // Remove any consecutive underscores
         .replace(/_$/,"") // Remove trailing underscore if present
         .trim();
@@ -40,5 +42,5 @@ function renameFiles(directory) {
 }
 
 // Usage: pass the directory path
-renameFiles('./icons/Black'); // Replace './your_directory' with your target folder path
-renameFiles('./icons/White'); // Replace './your_directory' with your target folder path
+renameFiles('./trade_icons/black'); // Replace './your_directory' with your target folder path
+renameFiles('./trade_icons/white'); // Replace './your_directory' with your target folder path

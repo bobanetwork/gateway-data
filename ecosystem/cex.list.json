@@ -1,22 +1,42 @@
 [
   {
-    "name": "HTX",
-    "link": "https://www.huobi.com/en-us/exchange/boba_usdt?invite_code=d8c53",
+    "name": "BingX",
+    "visible": true,
+    "link": "https://bingx.com/en-us/spot/BOBAUSDT?ch=cgk_organic",
     "pairName": "BOBA/USDT",
     "icon": {
-      "light": "white/htx.png",
-      "dark": "black/htx.png"
-    },
-    "visible": true
+      "light": "white/bingx.svg",
+      "dark": "black/bingx.svg"
+    }
   },
   {
-    "name": "DigiFinex",
+    "name": "Bit2Me",
     "visible": true,
-    "link": "https://www.digifinex.com/en-ww/trade/USDT/BOBA",
+    "link": "https://pro.bit2me.com/exchange/BOBA-EUR?ref=285-6HY-TPA&mkt_kind=referral&prm=5DH100",
+    "pairName": "BOBA/EUR",
+    "icon": {
+      "light": "white/bit2me.svg",
+      "dark": "black/bit2me.svg"
+    }
+  },
+  {
+    "name": "BitMart",
+    "visible": true,
+    "link": "https://www.bitmart.com/trade/en?symbol=BOBA_USDT&r=PjkAFy",
     "pairName": "BOBA/USDT",
     "icon": {
-      "light": "white/digifinex.svg",
-      "dark": "black/digifinex.svg"
+      "light": "white/bitmart.svg",
+      "dark": "black/bitmart.svg"
+    }
+  },
+  {
+    "name": "BitTrade",
+    "visible": true,
+    "link": "https://www.bittrade.co.jp/ja-jp/exchange/boba_jpy/",
+    "pairName": "BOBA/JPY",
+    "icon": {
+      "light": "white/bittrade.svg",
+      "dark": "black/bittrade.svg"
     }
   },
   {
@@ -30,43 +50,13 @@
     }
   },
   {
-    "name": "LATOKEN",
+    "name": "Bitfinex",
     "visible": true,
-    "link": "https://latoken.com/exchange/USDT-BOBA?r=8x59d2h3",
-    "pairName": "BOBA/USDT",
+    "link": "https://trading.bitfinex.com/t/BOBA:USD?type=exchange?refcode=6dwJVwfb",
+    "pairName": "BOBA/USD",
     "icon": {
-      "light": "white/latoken.svg",
-      "dark": "black/latoken.svg"
-    }
-  },
-  {
-    "name": "XT.COM",
-    "visible": true,
-    "link": "https://www.xt.com/en/trade/boba_usdt?ref=ZHOJUG5",
-    "pairName": "BOBA/USDT",
-    "icon": {
-      "light": "white/xt.png",
-      "dark": "black/xt.png"
-    }
-  },
-  {
-    "name": "OrangeX",
-    "visible": true,
-    "link": "https://www.orangex.com/spot/BOBA-USDT-SPOT",
-    "pairName": "BOBA/USDT",
-    "icon": {
-      "light": "white/orangex.png",
-      "dark": "black/orangex.png"
-    }
-  },
-  {
-    "name": "BingX",
-    "visible": true,
-    "link": "https://bingx.com/en-us/spot/BOBAUSDT?ch=cgk_organic",
-    "pairName": "BOBA/USDT",
-    "icon": {
-      "light": "white/bingx.png",
-      "dark": "black/bingx.png"
+      "light": "white/bitfinex.svg",
+      "dark": "black/bitfinex.svg"
     }
   },
   {
@@ -80,163 +70,13 @@
     }
   },
   {
-    "name": "Gate.io",
+    "name": "CoinDCX",
     "visible": true,
-    "link": "https://www.gate.io/trade/BOBA_USDT?ref=3018394",
-    "pairName": "BOBA/USDT",
+    "link": "https://coindcx.com/trade/BOBAINR?r=78990356$$Zlfk",
+    "pairName": "BOBA/INR",
     "icon": {
-      "light": "white/gate.svg",
-      "dark": "black/gate.svg"
-    }
-  },
-  {
-    "name": "KuCoin",
-    "visible": true,
-    "link": "https://www.kucoin.com/trade/BOBA-USDT?rcode=e21sNJ",
-    "pairName": "BOBA/USDT",
-    "icon": {
-      "light": "white/kucoin.svg",
-      "dark": "black/kucoin.svg"
-    }
-  },
-  {
-    "name": "Coinbase Exchange",
-    "visible": true,
-    "link": "https://www.coinbase.com/advanced-trade/spot/BOBA-USD",
-    "pairName": "BOBA/USD",
-    "icon": {
-      "light": "white/coinbase.svg",
-      "dark": "black/coinbase.svg"
-    }
-  },
-  {
-    "name": "MEXC",
-    "visible": true,
-    "link": "https://www.mexc.com/exchange/BOBA_USDT?inviteCode=1498J",
-    "pairName": "BOBA/USDT",
-    "icon": {
-      "light": "white/mexc.svg",
-      "dark": "black/mexc.svg"
-    }
-  },
-  {
-    "name": "Crypto.com Exchange",
-    "visible": true,
-    "link": "https://crypto.com/exchange/trade/spot/BOBA_USD",
-    "pairName": "BOBA/USD",
-    "icon": {
-      "light": "white/cryptocom.svg",
-      "dark": "black/cryptocom.svg"
-    }
-  },
-  {
-    "name": "Hotcoin",
-    "link": "https://www.hotcoin.com/currencyExchange/boba_usdt",
-    "pairName": "BOBA/USDT",
-    "icon": {
-      "light": "white/hotcoin.png",
-      "dark": "black/hotcoin.png"
-    },
-    "visible": true
-  },
-  {
-    "name": "Kraken",
-    "visible": true,
-    "link": "https://pro.kraken.com/app/trade/BOBA-USD?c/2223866/1766749/10583",
-    "pairName": "BOBA/USD",
-    "icon": {
-      "light": "white/kraken.svg",
-      "dark": "black/kraken.svg"
-    }
-  },
-  {
-    "name": "Uniswap V3 (Ethereum)",
-    "visible": true,
-    "link": "https://app.uniswap.org/explore/tokens/ethereum/0x42bbfa2e77757c645eeaad1655e0911a7553efbc",
-    "pairName": "BOBA/WETH",
-    "icon": {
-      "light": "white/uniswapv3.png",
-      "dark": "black/uniswapv3.png"
-    }
-  },
-  {
-    "name": "Cryptology",
-    "visible": true,
-    "link": "https://cryptology.com/app/next/trading/BOBA_USDT",
-    "pairName": "BOBA/USDT",
-    "icon": {
-      "light": "white/cryptology.png",
-      "dark": "black/cryptology.png"
-    }
-  },
-  {
-    "name": "Gate.io",
-    "visible": true,
-    "link": "https://www.gate.io/trade/BOBA_ETH?ref=3018394",
-    "pairName": "BOBA/ETH",
-    "icon": {
-      "light": "white/gate.svg",
-      "dark": "black/gate.svg"
-    }
-  },
-  {
-    "name": "CoinEx",
-    "visible": true,
-    "link": "https://www.coinex.com/trading?currency=BTC&dest=BOBA#limitrefer_code=mdw67",
-    "pairName": "BOBA/BTC",
-    "icon": {
-      "light": "white/coinex.svg",
-      "dark": "black/coinex.svg"
-    }
-  },
-  {
-    "name": "Kraken",
-    "visible": true,
-    "link": "https://pro.kraken.com/app/trade/BOBA-EUR?c/2223866/1766749/10583",
-    "pairName": "BOBA/EUR",
-    "icon": {
-      "light": "white/kraken.svg",
-      "dark": "black/kraken.svg"
-    }
-  },
-  {
-    "name": "BitTrade",
-    "visible": true,
-    "link": "https://www.bittrade.co.jp/ja-jp/exchange/boba_jpy/",
-    "pairName": "BOBA/JPY",
-    "icon": {
-      "light": "white/bittrade.png",
-      "dark": "black/bittrade.png"
-    }
-  },
-  {
-    "name": "Bit2Me",
-    "visible": true,
-    "link": "https://pro.bit2me.com/exchange/BOBA-EUR?ref=285-6HY-TPA&mkt_kind=referral&prm=5DH100",
-    "pairName": "BOBA/EUR",
-    "icon": {
-      "light": "white/bit2me.png",
-      "dark": "black/bit2me.png"
-    }
-  },
-  {
-    "name": "BitMart",
-    "visible": true,
-    "link": "https://www.bitmart.com/trade/en?symbol=BOBA_USDT&r=PjkAFy",
-    "pairName": "BOBA/USDT",
-    "icon": {
-      "light": "white/bitmart.png",
-      "dark": "black/bitmart.png"
-    }
-  },
-  {
-    "name": "Bitfinex",
-    "visible": true,
-    "link": "https://trading.bitfinex.com/t/BOBA:USD?type=exchange?refcode=6dwJVwfb",
-    "pairName": "BOBA/USD",
-    "icon": {
-      "light": "white/bitfinex.svg",
-      "dark": "black/bitfinex.svg"
+      "light": "white/coindcx.svg",
+      "dark": "black/coindcx.svg"
     }
   },
   {
@@ -250,23 +90,73 @@
     }
   },
   {
-    "name": "CoinDCX",
+    "name": "CoinEx",
     "visible": true,
-    "link": "https://coindcx.com/trade/BOBAINR?r=78990356$$Zlfk",
-    "pairName": "BOBA/INR",
+    "link": "https://www.coinex.com/trading?currency=BTC&dest=BOBA#limitrefer_code=mdw67",
+    "pairName": "BOBA/BTC",
     "icon": {
-      "light": "white/coindcx.svg",
-      "dark": "black/coindcx.svg"
+      "light": "white/coinex.svg",
+      "dark": "black/coinex.svg"
     }
   },
   {
-    "name": "Poloniex",
+    "name": "Coinbase Exchange",
     "visible": true,
-    "link": "https://poloniex.com/trade/BOBA_USDT/?type=spot?c=U5BHAX92",
+    "link": "https://www.coinbase.com/advanced-trade/spot/BOBA-USD",
+    "pairName": "BOBA/USD",
+    "icon": {
+      "light": "white/coinbase.svg",
+      "dark": "black/coinbase.svg"
+    }
+  },
+  {
+    "name": "Crypto.com Exchange",
+    "visible": true,
+    "link": "https://crypto.com/exchange/trade/spot/BOBA_USD",
+    "pairName": "BOBA/USD",
+    "icon": {
+      "light": "white/cryptocom.svg",
+      "dark": "black/cryptocom.svg"
+    }
+  },
+  {
+    "name": "Cryptology",
+    "visible": true,
+    "link": "https://cryptology.com/app/next/trading/BOBA_USDT",
     "pairName": "BOBA/USDT",
     "icon": {
-      "light": "white/poloniex.png",
-      "dark": "black/poloniex.png"
+      "light": "white/cryptology.svg",
+      "dark": "black/cryptology.svg"
+    }
+  },
+  {
+    "name": "DigiFinex",
+    "visible": true,
+    "link": "https://www.digifinex.com/en-ww/trade/USDT/BOBA",
+    "pairName": "BOBA/USDT",
+    "icon": {
+      "light": "white/digifinex.svg",
+      "dark": "black/digifinex.svg"
+    }
+  },
+  {
+    "name": "Gate.io",
+    "visible": true,
+    "link": "https://www.gate.io/trade/BOBA_ETH?ref=3018394",
+    "pairName": "BOBA/ETH",
+    "icon": {
+      "light": "white/gate.svg",
+      "dark": "black/gate.svg"
+    }
+  },
+  {
+    "name": "Gate.io",
+    "visible": true,
+    "link": "https://www.gate.io/trade/BOBA_USDT?ref=3018394",
+    "pairName": "BOBA/USDT",
+    "icon": {
+      "light": "white/gate.svg",
+      "dark": "black/gate.svg"
     }
   },
   {
@@ -275,8 +165,118 @@
     "link": "https://www.gopax.co.kr/exchange/BOBA-KRW",
     "pairName": "BOBA/KRW",
     "icon": {
-      "light": "white/gopax.png",
-      "dark": "black/gopax.png"
+      "light": "white/gopax.svg",
+      "dark": "black/gopax.svg"
+    }
+  },
+  {
+    "name": "HTX",
+    "link": "https://www.huobi.com/en-us/exchange/boba_usdt?invite_code=d8c53",
+    "pairName": "BOBA/USDT",
+    "icon": {
+      "light": "white/htx.svg",
+      "dark": "black/htx.svg"
+    },
+    "visible": true
+  },
+  {
+    "name": "Hotcoin",
+    "link": "https://www.hotcoin.com/currencyExchange/boba_usdt",
+    "pairName": "BOBA/USDT",
+    "icon": {
+      "light": "white/hotcoin.svg",
+      "dark": "black/hotcoin.svg"
+    },
+    "visible": true
+  },
+  {
+    "name": "Kraken",
+    "visible": true,
+    "link": "https://pro.kraken.com/app/trade/BOBA-EUR?c/2223866/1766749/10583",
+    "pairName": "BOBA/EUR",
+    "icon": {
+      "light": "white/kraken.svg",
+      "dark": "black/kraken.svg"
+    }
+  },
+  {
+    "name": "Kraken",
+    "visible": true,
+    "link": "https://pro.kraken.com/app/trade/BOBA-USD?c/2223866/1766749/10583",
+    "pairName": "BOBA/USD",
+    "icon": {
+      "light": "white/kraken.svg",
+      "dark": "black/kraken.svg"
+    }
+  },
+  {
+    "name": "KuCoin",
+    "visible": true,
+    "link": "https://www.kucoin.com/trade/BOBA-USDT?rcode=e21sNJ",
+    "pairName": "BOBA/USDT",
+    "icon": {
+      "light": "white/kucoin.svg",
+      "dark": "black/kucoin.svg"
+    }
+  },
+  {
+    "name": "LATOKEN",
+    "visible": true,
+    "link": "https://latoken.com/exchange/USDT-BOBA?r=8x59d2h3",
+    "pairName": "BOBA/USDT",
+    "icon": {
+      "light": "white/latoken.svg",
+      "dark": "black/latoken.svg"
+    }
+  },
+  {
+    "name": "MEXC",
+    "visible": true,
+    "link": "https://www.mexc.com/exchange/BOBA_USDT?inviteCode=1498J",
+    "pairName": "BOBA/USDT",
+    "icon": {
+      "light": "white/mexc.svg",
+      "dark": "black/mexc.svg"
+    }
+  },
+  {
+    "name": "OrangeX",
+    "visible": true,
+    "link": "https://www.orangex.com/spot/BOBA-USDT-SPOT",
+    "pairName": "BOBA/USDT",
+    "icon": {
+      "light": "white/orangex.svg",
+      "dark": "black/orangex.svg"
+    }
+  },
+  {
+    "name": "Poloniex",
+    "visible": true,
+    "link": "https://poloniex.com/trade/BOBA_USDT/?type=spot?c=U5BHAX92",
+    "pairName": "BOBA/USDT",
+    "icon": {
+      "light": "white/poloniex.svg",
+      "dark": "black/poloniex.svg"
+    }
+  },
+  {
+    "name": "Uniswap V3 (Ethereum)",
+    "visible": true,
+    "link": "https://app.uniswap.org/explore/tokens/ethereum/0x42bbfa2e77757c645eeaad1655e0911a7553efbc",
+    "pairName": "BOBA/WETH",
+    "icon": {
+      "light": "white/uniswapv3.svg",
+      "dark": "black/uniswapv3.svg"
+    }
+  },
+  {
+    "name": "XT.COM",
+    "visible": true,
+    "link": "https://www.xt.com/en/trade/boba_usdt?ref=ZHOJUG5",
+    "pairName": "BOBA/USDT",
+    "icon": {
+      "light": "white/xt.svg",
+      "dark": "black/xt.svg"
     }
   }
 ]
