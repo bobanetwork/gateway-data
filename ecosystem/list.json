@@ -49,18 +49,6 @@
   },
   {
     "icon": {
-      "light": "white/apeboard.svg",
-      "dark": "black/apeboard.svg"
-    },
-    "name": "Apeboard",
-    "website": "apeboard.finance",
-    "link": "https://apeboard.finance/dashboard",
-    "description": "Apeboard is a decentralized finance (DeFi) sector via crypto-asset aggregator and portfolio dashboard.",
-    "type": "Tools",
-    "visible": false
-  },
-  {
-    "icon": {
       "light": "white/bizi.svg",
       "dark": "black/bizi.svg"
     },
@@ -166,18 +154,6 @@
     "description": "An easy-to-use Web3 wallet.",
     "type": "Wallet",
     "visible": true
-  },
-  {
-    "icon": {
-      "light": "white/bitstamp (soon).svg",
-      "dark": "black/bitstamp (soon).svg"
-    },
-    "name": "Bitstamp (soon)",
-    "website": "bitstamp.net",
-    "link": "https://www.bitstamp.net/",
-    "description": "Bitstamp is one of the longest-standing crypto exchange.",
-    "type": "Centralized exchange",
-    "visible": false
   },
   {
     "icon": {
@@ -361,8 +337,8 @@
   },
   {
     "icon": {
-      "light": "white/connext.png",
-      "dark": "black/connext.png"
+      "light": "white/connext.svg",
+      "dark": "black/connext.svg"
     },
     "name": "Connext",
     "website": "connext.network",
@@ -697,18 +673,6 @@
   },
   {
     "icon": {
-      "light": "white/l2_charts.svg",
-      "dark": "black/l2_charts.svg"
-    },
-    "name": "L2 Charts",
-    "website": "l2charts.com",
-    "link": "https://www.l2charts.com/?net=BOBA",
-    "description": "Your Favorite L2 Charts",
-    "type": "Tools",
-    "visible": false
-  },
-  {
-    "icon": {
       "light": "white/lbank.svg",
       "dark": "black/lbank.svg"
     },
@@ -829,18 +793,6 @@
   },
   {
     "icon": {
-      "light": "white/open\ndefiyield.svg",
-      "dark": "black/open\ndefiyield.svg"
-    },
-    "name": "OPEN\nDefiyield",
-    "website": "defiyield.app",
-    "link": "http://defiyield.app/",
-    "description": "Control your digital assets with a full suite of innovative tools.",
-    "type": "Tools",
-    "visible": false
-  },
-  {
-    "icon": {
       "light": "white/icecreamswap.svg",
       "dark": "black/icecreamswap.svg"
     },
@@ -853,8 +805,8 @@
   },
   {
     "icon": {
-      "light": "white/ethereum.svg",
-      "dark": "black/ethereum.svg"
+      "light": "white/bobaEth.svg",
+      "dark": "black/bobaEth.svg"
     },
     "name": "Official Bridge - Ethereum",
     "website": "gateway.boba.network/bridge",
@@ -993,18 +945,6 @@
     "link": "https://nitro.routerprotocol.com/",
     "description": "Router Nitro, developed by Router Protocol, offers swift, secure asset transfers across chains, supporting both EVM and non-EVM transactions with exceptional cost-effectiveness.",
     "type": "Bridge",
-    "visible": true
-  },
-  {
-    "icon": {
-      "light": "white/rovi.svg",
-      "dark": "black/rovi.svg"
-    },
-    "name": "Rovi",
-    "website": "rovi.network",
-    "link": "http://www.rovi.network/",
-    "description": "Rovi Network is a Web3 powerhouse making crypto accessible to billions via its infrastructure and $ROVI its infrastructure and $ROVI token ecosystem.",
-    "type": "Gaming",
     "visible": true
   },
   {
@@ -1153,8 +1093,8 @@
   },
   {
     "icon": {
-      "light": "white/via_protocol.png",
-      "dark": "black/via_protocol.png"
+      "light": "white/via.svg",
+      "dark": "black/via.svg"
     },
     "name": "Via protocol",
     "website": "via.exchange",
