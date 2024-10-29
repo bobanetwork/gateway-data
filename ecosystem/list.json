@@ -8,7 +8,7 @@
     "website": "1rpc.io",
     "link": "https://www.1rpc.io/",
     "description": "A Web3 relay that eliminates metadata exposure for users with one-click ease, safeguarding over 5 billion relays since launch across 25 networks.",
-    "type": "",
+    "type": "Tools",
     "visible": true
   },
   {
@@ -20,7 +20,7 @@
     "website": "add3.io",
     "link": "https://www.add3.io/",
     "description": "Launch your Web3 EVM project in under a minute. Impress VC investors and build loyalty with rewards and a custom dApp, just Add3.",
-    "type": "",
+    "type": "Tools",
     "visible": true
   },
   {
@@ -272,7 +272,7 @@
     "website": "burritowallet.com/en",
     "link": "https://www.burritowallet.com/en",
     "description": "Supports multiple cryptocurrencies and provides access to the most popular Dapps, Defi Platforms, and NFT Marketplaces.",
-    "type": "",
+    "type": "Wallet",
     "visible": true
   },
   {
@@ -500,7 +500,7 @@
     "website": "dega.org",
     "link": "https://www.dega.org/",
     "description": "Dega develops cutting-edge Web3 tools, accelerating game and Metaverse development since its founding in November 2022",
-    "type": "",
+    "type": "Tools",
     "visible": true
   },
   {
@@ -548,7 +548,7 @@
     "website": "dmail.ai",
     "link": "https://dmail.ai/",
     "description": "AI-powered decentralized communication infrastructure built to provide encrypted emails, and unified notifications, and targeted marketing across multiple chains and dApps for users, developers, and marketers",
-    "type": "",
+    "type": "Tools",
     "visible": true
   },
   {
@@ -572,7 +572,7 @@
     "website": "donton.net",
     "link": "https://donton.net/",
     "description": "Massively multiplayer Web3 game.",
-    "type": "",
+    "type": "Gaming",
     "visible": true
   },
   {
@@ -596,7 +596,7 @@
     "website": "epiko.io",
     "link": "https://www.epiko.io/",
     "description": "Cutting-edge multichain NFT marketplace that revolutionizes the trading of digital assets within the gaming ecosystem.",
-    "type": "",
+    "type": "NFT",
     "visible": true
   },
   {
@@ -764,7 +764,7 @@
     "website": "icecreamswap.com",
     "link": "https://icecreamswap.com/",
     "description": "Trade any tokens at the best rates with IceCreamSwap AI DEX aggregator, without the tokens ever leaving your wallet.",
-    "type": "",
+    "type": "Swap",
     "visible": true
   },
   {
@@ -1160,7 +1160,7 @@
     "website": "relay.link",
     "link": "https://relay.link/",
     "description": "Relay is a cross-chain payments system that enables instant, low-cost bridging and cross-chain execution",
-    "type": "",
+    "type": "Bridge",
     "visible": true
   },
   {
@@ -1184,7 +1184,7 @@
     "website": "nitro.routerprotocol.com",
     "link": "https://nitro.routerprotocol.com/",
     "description": "Router Nitro, developed by Router Protocol, offers swift, secure asset transfers across chains, supporting both EVM and non-EVM transactions with exceptional cost-effectiveness.",
-    "type": "",
+    "type": "Bridge",
     "visible": true
   },
   {
@@ -1204,7 +1204,7 @@
       "light": "white/rubic_exchange.svg",
       "dark": "black/rubic_exchange.svg"
     },
-    "name": "Rubic.exchange",
+    "name": "Rubic exchange",
     "website": "app.rubic.exchange",
     "link": "https://app.rubic.exchange/",
     "description": "Rubic is a multichain DeFi ecosystem, which features multi-chain swaps, on-chain swaps and much more.",
