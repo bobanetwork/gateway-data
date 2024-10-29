@@ -1172,7 +1172,7 @@
     "website": "r.xyz",
     "link": "https://r.xyz/",
     "description": "Remedy is a 360 cybersecurity platform equipped with bleeding-edge tech purpose-built to reshape Web3 security.",
-    "type": "",
+    "type": "Tools",
     "visible": true
   },
   {
@@ -1244,7 +1244,7 @@
     "website": "subquery.network/home",
     "link": "https://subquery.network/home",
     "description": "Pioneering fast, flexible, and scalable decentralized infrastructure, they power Web3’s transition to an open, efficient and user-centric future.",
-    "type": "",
+    "type": "Tools",
     "visible": true
   },
   {
@@ -1424,7 +1424,7 @@
     "website": "zns.bio",
     "link": "https://zns.bio/",
     "description": "Cutting-edge decentralized communication ID platform powered by decentralized",
-    "type": "",
+    "type": "Tools",
     "visible": true
   },
   {
