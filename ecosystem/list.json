@@ -68,7 +68,7 @@
     "website": "balmy.xyz/",
     "link": "https://app.balmy.xyz/swap",
     "description": "Get access to a meta-aggregator and find the best routes",
-    "type": "",
+    "type": "Decentralized finance",
     "visible": true
   },
   {
@@ -320,7 +320,7 @@
     "website": "changenow.io",
     "link": "https://changenow.io/?gclid=CjwKCAjwysipBhBXEiwApJOcuxvagnIShjArlbaDghhF0ZWl5gRkHf3puyb4K82blvNzRia3T_70OxoCokgQAvD_BwE",
     "description": "ChangeNOW is a non-custodial service created for simple and fast cryptocurrency exchanges.",
-    "type": "",
+    "type": "Decentralized finance",
     "visible": true
   },
   {
@@ -332,7 +332,7 @@
     "website": "charm.fi",
     "link": "https://www.charm.fi/",
     "description": "The easiest way to provide and manage liquidity. Charm’s mission is to connect crypto value to real value.",
-    "type": "",
+    "type": "Decentralized finance",
     "visible": true
   },
   {
@@ -368,7 +368,7 @@
     "website": "coindcx.com",
     "link": "https://coindcx.com/",
     "description": "India’s most valuable crypto investment app, dedicated to make crypto accessible in a simple way.",
-    "type": "",
+    "type": "Centralized exchange",
     "visible": true
   },
   {
@@ -512,7 +512,7 @@
     "website": "dexsport.io",
     "link": "https://dexsport.io/",
     "description": "The first decentralized crypto betting platform",
-    "type": "",
+    "type": "Decentralized finance",
     "visible": true
   },
   {
@@ -764,7 +764,7 @@
     "website": "icecreamswap.com",
     "link": "https://icecreamswap.com/",
     "description": "Trade any tokens at the best rates with IceCreamSwap AI DEX aggregator, without the tokens ever leaving your wallet.",
-    "type": "Swap",
+    "type": "Decentralized finance",
     "visible": true
   },
   {
@@ -884,7 +884,7 @@
     "website": "lendland.io",
     "link": "https://lendland.io/",
     "description": "Boba Network’s first lending platform, redefining lending with user-friendly tools for DeFi fans.",
-    "type": "",
+    "type": "Decentralized finance",
     "visible": true
   },
   {
@@ -968,7 +968,7 @@
     "website": "nowpayments.io",
     "link": "https://nowpayments.io/",
     "description": "NowPayments is a cryptocurrency payment gateway for accepting Bitcoin, Ethereum, stablecoins, and over 160 other cryptos.",
-    "type": "",
+    "type": "Decentralized finance",
     "visible": true
   },
   {
@@ -1052,7 +1052,7 @@
     "website": "oku.trade",
     "link": "https://oku.trade/",
     "description": "Trade professionally with Oku, and advanced frontend for the Uniswap v3 protocol.",
-    "type": "",
+    "type": "Decentralized finance",
     "visible": true
   },
   {
@@ -1364,7 +1364,7 @@
     "website": "wefi.xyz",
     "link": "https://wefi.xyz/",
     "description": "Decentralized leverage engine for undercollateralized loans.",
-    "type": "",
+    "type": "Decentralized finance",
     "visible": true
   },
   {
@@ -1448,7 +1448,7 @@
     "website": "zoth.io",
     "link": "https://zoth.io/",
     "description": "Zoth fosters global capital flow for transparent, efficient finance, connecting traditional and blockchain-based assets for greater inclusion",
-    "type": "",
+    "type": "Decentralized finance",
     "visible": true
   }
 ]
