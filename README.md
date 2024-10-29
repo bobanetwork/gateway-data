@@ -2,6 +2,9 @@
 
 ⚙ static files and config for the driving boba network gateway!.
 
+[Ecosystem Project List](https://bobanetwork.github.io/gateway-data/ecosystem/index.html)
+[Trade Project List](https://bobanetwork.github.io/gateway-data/ecosystem/dex.html)
+
 # To review bridges and exchanges listed on gateway.
  - open file `ecosystem/index.html` file in browser.
  - open file `ecosystem/dex.html` file in browser. 
