@@ -73,18 +73,6 @@
   },
   {
     "icon": {
-      "light": "white/band_protocol.svg",
-      "dark": "black/band_protocol.svg"
-    },
-    "name": "Band protocol",
-    "website": "bandprotocol.com",
-    "link": "https://bandprotocol.com/",
-    "description": "Band Protocol is a cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts.",
-    "type": "Oracles",
-    "visible": false
-  },
-  {
-    "icon": {
       "light": "white/banxa.svg",
       "dark": "black/banxa.svg"
     },
@@ -301,18 +289,6 @@
   },
   {
     "icon": {
-      "light": "white/chainswap.svg",
-      "dark": "black/chainswap.svg"
-    },
-    "name": "Chainswap",
-    "website": "chainswap.com",
-    "link": "http://chainswap.com/",
-    "description": "The cross-chain hub for all ecosystems.",
-    "type": "Bridge",
-    "visible": false
-  },
-  {
-    "icon": {
       "light": "white/changenow.svg",
       "dark": "black/changenow.svg"
     },
@@ -393,18 +369,6 @@
     "link": "https://bridge.connext.network/?sendingChainId=288",
     "description": "Connext powers fast, secure bridging between blockchains and rollups.",
     "type": "Bridge",
-    "visible": false
-  },
-  {
-    "icon": {
-      "light": "white/cosmic_universe.svg",
-      "dark": "black/cosmic_universe.svg"
-    },
-    "name": "Cosmic Universe",
-    "website": "cosmicuniverse.io",
-    "link": "https://cosmicuniverse.io/",
-    "description": "Cosmic Universe is an immersive open-world fantasy metaverse world-builder MMORPG",
-    "type": "Gaming",
     "visible": false
   },
   {
@@ -577,18 +541,6 @@
   },
   {
     "icon": {
-      "light": "white/dua.svg",
-      "dark": "black/dua.svg"
-    },
-    "name": "Dua",
-    "website": "dua.com",
-    "link": "https://www.dua.com/",
-    "description": "Reconnecting: Communities, Families, Union.",
-    "type": "Decentralized finance",
-    "visible": false
-  },
-  {
-    "icon": {
       "light": "white/epiko.svg",
       "dark": "black/epiko.svg"
     },
@@ -601,30 +553,6 @@
   },
   {
     "icon": {
-      "light": "white/evoverses.svg",
-      "dark": "black/evoverses.svg"
-    },
-    "name": "Evoverses",
-    "website": "evoverses.com",
-    "link": "https://evoverses.com/",
-    "description": "Evoverses is a 3D game on Avalanche.",
-    "type": "Gaming",
-    "visible": false
-  },
-  {
-    "icon": {
-      "light": "white/firefly.svg",
-      "dark": "black/firefly.svg"
-    },
-    "name": "Firefly",
-    "website": "firefly.exchange",
-    "link": "https://firefly.exchange/",
-    "description": "Decentralized Digital Asset Trading Trade perpetuals from anywhere with up to 20x leverage.",
-    "type": "Decentralized finance",
-    "visible": false
-  },
-  {
-    "icon": {
       "light": "white/forward_protocol.svg",
       "dark": "black/forward_protocol.svg"
     },
@@ -634,30 +562,6 @@
     "description": "Create Blockchains, Subnets, and dApps with A No-Code Interface",
     "type": "Tools",
     "visible": true
-  },
-  {
-    "icon": {
-    "light": "white/fota.svg",
-    "dark": "black/fota.svg"
-    },
-    "name": "Fota - Fight of the Ages",
-    "website": "fota.io",
-    "link": "https://www.fota.io/",
-    "description": "FOTA is a blockchain-based triple-A gaming project that utilizes NFT assets and its native cryptocurrency, FOTA.",
-    "type": "Gaming",
-    "visible": false
-  },
-  {
-    "icon": {
-      "light": "white/foxtrot_command.svg",
-      "dark": "black/foxtrot_command.svg"
-    },
-    "name": "Foxtrot Command",
-    "website": "foxtrotcommand.com",
-    "link": "https://foxtrotcommand.com/",
-    "description": "Build an incredible NFT collection, compete against other players and upgrade your deck to reach the top of the leaderboard.",
-    "type": "Gaming",
-    "visible": false
   },
   {
     "icon": {
@@ -730,18 +634,6 @@
     "description": "We create financial infrastructure for DAO treasuries.",
     "type": "DAO",
     "visible": true
-  },
-  {
-    "icon": {
-      "light": "white/homie_wars.svg",
-      "dark": "black/homie_wars.svg"
-    },
-    "name": "Homie Wars",
-    "website": "homiewars.com",
-    "link": "https://homiewars.com/",
-    "description": "Homie Wars is the first free-to-play battle royale game with Web3 integrations.",
-    "type": "Gaming",
-    "visible": false
   },
   {
     "icon": {
@@ -853,18 +745,6 @@
   },
   {
     "icon": {
-      "light": "white/layerswap.svg",
-      "dark": "black/layerswap.svg"
-    },
-    "name": "Layerswap.io",
-    "website": "layerswap.io",
-    "link": "https://www.layerswap.io/",
-    "description": "Save fees when moving crypto from Coinbase, Binance or FTX to Boba.",
-    "type": "Bridge",
-    "visible": false
-  },
-  {
-    "icon": {
       "light": "white/lbank.svg",
       "dark": "black/lbank.svg"
     },
@@ -934,18 +814,6 @@
     "description": "MEXC Global is a digital asset exchanges.",
     "type": "Centralized exchange",
     "visible": true
-  },
-  {
-    "icon": {
-      "light": "white/multichain.svg",
-      "dark": "black/multichain”.svg"
-    },
-    "name": "Multichain “WARNING GOT HACKED”",
-    "website": "app.multichain.org",
-    "link": "https://app.multichain.org/#/router",
-    "description": "Multichain is the ultimate Router for Web3.",
-    "type": "Bridge",
-    "visible": false
   },
   {
     "icon": {
@@ -1342,18 +1210,6 @@
     "description": "WOO Network is a liquidity network that connects crypto exchanges, traders, and DeFi platforms.",
     "type": "Centralized exchange",
     "visible": true
-  },
-  {
-    "icon": {
-      "light": "white/xdao.svg",
-      "dark": "black/xdao.svg"
-    },
-    "name": "Xdao",
-    "website": "xdao.app",
-    "link": "http://xdao.app/",
-    "description": "Xdao is a unique tool for creating Decentralized Autonomous Organizations (DAOs).",
-    "type": "DAO",
-    "visible": false
   },
   {
     "icon": {
