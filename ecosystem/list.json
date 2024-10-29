@@ -92,7 +92,7 @@
     "website": "banxa.com",
     "link": "https://banxa.com/",
     "description": "Banxa is the leading global Web3 on-and-off ramp solution.",
-    "type": "Fiat on-ramp",
+    "type": "Onramp",
     "visible": true
   },
   {
@@ -500,7 +500,7 @@
     "website": "dega.org",
     "link": "https://www.dega.org/",
     "description": "Dega develops cutting-edge Web3 tools, accelerating game and Metaverse development since its founding in November 2022",
-    "type": "Tools",
+    "type": "Gaming",
     "visible": true
   },
   {
@@ -800,7 +800,7 @@
     "website": "iolyworld.io",
     "link": "https://www.iolyworld.io/",
     "description": "Digitized gaming world where all items are NFTs.",
-    "type": "",
+    "type": "Gaming",
     "visible": true
   },
   {
@@ -1124,7 +1124,7 @@
     "website": "pyth.network",
     "link": "https://www.pyth.network/",
     "description": "Pyth connects high-fidelity market data from the world’s largest professional traders and exchanges to any smart contract, anywhere",
-    "type": "",
+    "type": "Oracles",
     "visible": true
   },
   {
@@ -1256,7 +1256,7 @@
     "website": "supra.com",
     "link": "https://supra.com/",
     "description": "Supra provides decentralized Oracle price feeds for Web3 ecosystems, ensuring accurate real-world data for dApps.",
-    "type": "",
+    "type": "Oracles",
     "visible": true
   },
   {
