@@ -125,8 +125,8 @@
     "link": "https://crypto.com/exchange/trade/spot/BOBA_USD",
     "pairName": "BOBA/USD",
     "icon": {
-      "light": "white/cryptocom.png",
-      "dark": "black/cryptocom.png"
+      "light": "white/cryptocom.svg",
+      "dark": "black/cryptocom.svg"
     }
   },
   {

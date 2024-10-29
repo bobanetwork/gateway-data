@@ -361,8 +361,8 @@
   },
   {
     "icon": {
-      "light": "white/connext.svg",
-      "dark": "black/connext.svg"
+      "light": "white/connext.png",
+      "dark": "black/connext.png"
     },
     "name": "Connext",
     "website": "connext.network",
@@ -778,18 +778,6 @@
     "description": "Megaworld is a multiplayer decentralised city-builder multiverse game. Build, trade, own, sell, and much more.",
     "type": "Gaming",
     "visible": true
-  },
-  {
-    "icon": {
-      "light": "white/metaforra.svg",
-      "dark": "black/metaforra.svg"
-    },
-    "name": "Metaforra",
-    "website": "metaforra.com/",
-    "link": "https://metaforra.com/futuructa",
-    "description": "Metaforra is a play & earn gaming ecosystem. Launching our first crypto mobile game called Futuructa.",
-    "type": "Gaming",
-    "visible": false
   },
   {
     "icon": {
