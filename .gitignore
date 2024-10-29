@@ -1,0 +1,22 @@
+.DS_Store
+node_modules
+results
+temp
+.nyc_output
+coverage.json
+*.tsbuildinfo
+
+integration-tests/result/output.xml
+
+.env
+
+coverage
+
+# vim
+*.swp
+
+*.log
+
+# gateway
+/build
+.idea/
