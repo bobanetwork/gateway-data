@@ -44,7 +44,7 @@
     "website": "antiersolutions.com",
     "link": "https://www.antiersolutions.com/",
     "description": "A full-stack blockchain consulting firm with a strong foundation in building DeFi products, Metaverse/gaming ecosystems, and a wide range of enterprise blockchain dApps.",
-    "type": "Decentralized finance",
+    "type": "",
     "visible": true
   },
   {
@@ -1004,7 +1004,7 @@
     "website": "rovi.network",
     "link": "http://www.rovi.network/",
     "description": "Rovi Network is a Web3 powerhouse making crypto accessible to billions via its infrastructure and $ROVI its infrastructure and $ROVI token ecosystem.",
-    "type": "Gaming",
+    "type": "",
     "visible": true
   },
   {
@@ -1112,7 +1112,7 @@
     "website": "teahouse.finance",
     "link": "https://teahouse.finance/",
     "description": "Teahouse is a multi-strategy DeFi asset manager like a hedge fund, helping enterprise and individual clients grow their crypto assets securely and transparently.",
-    "type": "Decentralized finance",
+    "type": "",
     "visible": true
   },
   {
