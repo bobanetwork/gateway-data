@@ -1,27 +1,36 @@
 # Gateway Data
 
-⚙ static files and config for the driving boba network gateway!.
+⚙ Static files and config for the Driving Boba Network gateway!
 
-[Ecosystem Project List](https://bobanetwork.github.io/gateway-data/ecosystem/index.html)
-[Trade Project List](https://bobanetwork.github.io/gateway-data/ecosystem/dex.html)
+## Local Development
 
-# To review bridges and exchanges listed on gateway.
- - open file `ecosystem/index.html` file in browser.
- - open file `ecosystem/dex.html` file in browser. 
-
-## you can run the light server like below to see the icons loaded correcly.
-open the server url provided.
-```shell
-cd ./ecosystem
-npx serve .
-```
-
-# OR 
-
-you can start server with python if have installed. 
+You can run the light server locally to validate that the changes have been added correctly with content URL, type, and icon.
 
 ```shell
-# default will start at localhost:8000
+# Default will start at localhost:8000
 python3 -m http.server
-
 ```
+
+Once your changes are merged, they can be visible for review purposes.
+
+## Demos
+[Ecosystem Project Review Demo](https://bobanetwork.github.io/gateway-data/ecosystem/index.html)
+[Trade Project Review Demo](https://bobanetwork.github.io/gateway-data/ecosystem/dex.html)
+
+
+# Project Update Process
+To add or remove projects from the JSON data, please follow these steps:
+
+## Create an Issue:
+
+### Use the appropriate issue template to request the addition or removal of a project:
+  - [Add Project Template](.github/ISSUE_TEMPLATE/add-ecosystem-project.md)
+  - [Remove Project Template](.github/ISSUE_TEMPLATE/remove-ecosystem-project.md)
+  
+### Review Process:
+  - Assigned team members will review your request and provide feedback.
+  - Once approved, the changes will be made to the JSON data.
+  
+### Create a Pull Request:
+  - After your issue is approved, create a pull request using the Project Update Pull Request Template.
+  - Ensure to provide all necessary details, including project information and reason for removal (if applicable).

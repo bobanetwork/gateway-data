@@ -98,8 +98,6 @@
     <label for="typeFilter">Filter by type:</label>
     <select id="typeFilter">
       <option value="all">All</option>
-      <option value="social">Social</option>
-      <option value="communication">Communication</option>
     </select>
   </div>
 
@@ -125,7 +123,7 @@
                       <img src="./icons/${card.icon.dark}" alt="${card.name} dark" class="icon dark">
                     </div>
                     <div class="content"> 
-                      <h3>${card.name}</h3>
+                      <h4>${card.name} - [${card.type}]</h4>
                       <a target="_blank" href="${card.link}">${card.website}</a>
                       <p>${card.description}</p>
                     </div>
@@ -139,6 +137,21 @@
       return cards.filter(card => card.type === type);
     }
 
+                function setOption(cards) {
+                  const types = [...new Set(cards.map((c) => c.type))]
+                  const selectEle = document.getElementById('typeFilter');
+
+                  // Clear existing options (if needed)
+                  selectEle.innerHTML = '';
+                  // Create and append new options
+                  types.forEach((type) => {
+                    const option = document.createElement('option');
+                    option.value = type; // Set the value of the option
+                    option.textContent = type; // Set the text displayed for the option
+                    selectEle.appendChild(option); // Append the option to the select element
+                  });
+                }
+
     document.getElementById('typeFilter').addEventListener('change',async (event) => {
       const selectedType = event.target.value;
       const cards = await fetchData();
@@ -146,8 +159,13 @@
       displayCards(filteredCards);
     });
 
+
+
     // Initial load
-    fetchData().then(displayCards).catch((e) => console.log(e));
+                fetchData().then((d) => {
+                  displayCards(d);
+                  setOption(d)
+                }).catch((e) => console.log(e));
   </script>
 </body>
 

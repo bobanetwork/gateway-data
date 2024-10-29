@@ -20,6 +20,9 @@ assignees: ''
 - **Logo URL (Dark):**  //  only svg supported
 - **visible:**  //  true or false - determine to show or hide project on gateway.
 
+- [] Light icon file has been attached?
+- [] Dark icon file has been attached?
+
 ---
 
 ### Additional Notes
