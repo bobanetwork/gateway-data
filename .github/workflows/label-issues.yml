@@ -1,0 +1,32 @@
+name: Issues - setup owner and label
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  label:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add labels based on template
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const templateName = context.payload.issue.title.includes('[Add]') ? 'add-project' : 'remove-project';
+            const label = templateName === 'add-project' ? 'Add Project' : 'Remove Project';
+            await github.issues.addLabels({
+              ...context.repo,
+              issue_number: context.payload.issue.number,
+              labels: [label],
+            });
+      - name: Assign the issue to a default owner
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const owner = '@sk-enya';
+            
+            await github.issues.addAssignees({
+              ...context.repo,
+              issue_number: context.payload.issue.number,
+              assignees: [owner],
+            });
