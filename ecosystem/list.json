@@ -57,7 +57,7 @@
     "link": "https://bizilabs.io/",
     "description": "BIZI is a mobile platform that utilises Web3.0 software and associated hardware.",
     "type": "Wallet",
-    "visible": false
+    "visible": true
   },
   {
     "icon": {
@@ -345,7 +345,7 @@
     "link": "https://bridge.connext.network/?sendingChainId=288",
     "description": "Connext powers fast, secure bridging between blockchains and rollups.",
     "type": "Bridge",
-    "visible": false
+    "visible": true
   },
   {
     "icon": {
@@ -813,7 +813,7 @@
     "link": "https://gateway.boba.network/bridge",
     "description": "Use the official Boba bridge to transfer assets from Ethereum to Boba.",
     "type": "Bridge",
-    "visible": false
+    "visible": true
   },
   {
     "icon": {
@@ -1149,7 +1149,7 @@
     "link": "https://bobamarket.yetiswap.app/",
     "description": "YetiSwap is a decentralized exchange (DEX) and NFT marketplace , running on the Avalanche blockchain.",
     "type": "NFT",
-    "visible": false
+    "visible": true
   },
   {
     "icon": {
@@ -1173,7 +1173,7 @@
     "link": "https://www.zokyo.io/",
     "description": "Zokyo is a venture studio that builds, secures, and funds crypto, DeFi, and NFT companies.",
     "type": "Tools",
-    "visible": false
+    "visible": true
   },
   {
     "icon": {
