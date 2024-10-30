@@ -105,7 +105,7 @@
 
   <script>
     async function fetchData() {
-      const response = await fetch('list.json');
+      const response = await fetch('../list.json');
       const data = await response.json();
       console.log(data)
       return data;
@@ -119,8 +119,8 @@
         cardElement.classList.add('card');
         cardElement.innerHTML = `
                     <div class="iconContainer">
-                      <img src="./icons/${card.icon.light}" alt="${card.name} icon" class="icon">
-                      <img src="./icons/${card.icon.dark}" alt="${card.name} dark" class="icon dark">
+                      <img src="../icons/${card.icon.light}" alt="${card.name} icon" class="icon">
+                      <img src="../icons/${card.icon.dark}" alt="${card.name} dark" class="icon dark">
                     </div>
                     <div class="content"> 
                       <h4>${card.name} - [${card.type}]</h4>

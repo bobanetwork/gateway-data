@@ -16,12 +16,17 @@
       /* Dark text color for contrast */
     }
 
+    h1{
+      margin: 10px auto;
+      text-transform: uppercase;
+      font-family: ui-monospace;
+    }
     h1,
     h2,
     h3,
     p {
-      text-align: justify;
       margin: 5px;
+      text-align: justify;
     }
 
     .filters {
@@ -99,7 +104,7 @@
 
   <script>
     async function fetchData() {
-      const response = await fetch('cex.list.json');
+      const response = await fetch('../cex.list.json');
       const data = await response.json();
       console.log(data)
       return data;
@@ -113,12 +118,12 @@
         cardElement.classList.add('card');
         cardElement.innerHTML = `
                     <div class="iconContainer">
-                      <img src="./icons/${card.icon.light}" alt="${card.name} icon" class="icon">
-                      <img src="./icons/${card.icon.dark}" alt="${card.name} dark" class="icon dark">
+                      <img src="../icons/${card.icon.light}" alt="${card.name} icon" class="icon">
+                      <img src="../icons/${card.icon.dark}" alt="${card.name} dark" class="icon dark">
                     </div>
                     <div class="content"> 
                       <h3>${card.name}</h3>
-                      <p>${card.link || ''}</p>
+                      <a href="${card.link}" target="_blank">${card.link || ''}</a>
                       <p>${card.description || card.pairName}</p>
                     </div>
                 `;
@@ -130,14 +135,6 @@
       if (type === 'all') return cards;
       return cards.filter(card => card.type === type);
     }
-
-    document.getElementById('typeFilter').addEventListener('change',async (event) => {
-      const selectedType = event.target.value;
-      const cards = await fetchData();
-      const filteredCards = filterCards(cards,selectedType);
-      displayCards(filteredCards);
-    });
-
     // Initial load
     fetchData().then(displayCards).catch((e) => console.log(e));
   </script>
