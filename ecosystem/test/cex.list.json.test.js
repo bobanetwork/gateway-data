@@ -16,7 +16,7 @@ const expectedStructure = {
 
 // Load the JSON data
 const ecosystemData = JSON.parse(
-  fs.readFileSync(path.join(__dirname,'./cex.list.json'),'utf8')
+  fs.readFileSync(path.join(__dirname,'../cex.list.json'),'utf8')
 );
 
 describe('Validate Trade application List',() => {

@@ -32,7 +32,7 @@ const allowedTypes = [
 
 // Load the JSON data
 const ecosystemData = JSON.parse(
-  fs.readFileSync(path.join(__dirname,'./list.json'),'utf8')
+  fs.readFileSync(path.join(__dirname,'../list.json'),'utf8')
 );
 
 describe('Validate Ecosystem List',() => {
