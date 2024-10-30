@@ -1,8 +1,8 @@
 [
   {
     "icon": {
-      "light": "white/1rpc.svg",
-      "dark": "black/1rpc.svg"
+      "light": "light/1rpc.svg",
+      "dark": "dark/1rpc.svg"
     },
     "name": "1RPC",
     "website": "1rpc.io",
@@ -13,8 +13,8 @@
   },
   {
     "icon": {
-      "light": "white/api3.svg",
-      "dark": "black/api3.svg"
+      "light": "light/api3.svg",
+      "dark": "dark/api3.svg"
     },
     "name": "API3",
     "website": "api3.org",
@@ -25,8 +25,8 @@
   },
   {
     "icon": {
-      "light": "white/add3.svg",
-      "dark": "black/add3.svg"
+      "light": "light/add3.svg",
+      "dark": "dark/add3.svg"
     },
     "name": "Add3",
     "website": "add3.io",
@@ -37,8 +37,8 @@
   },
   {
     "icon": {
-      "light": "white/antiersolutions.svg",
-      "dark": "black/antiersolutions.svg"
+      "light": "light/antiersolutions.svg",
+      "dark": "dark/antiersolutions.svg"
     },
     "name": "AntierSolutions",
     "website": "antiersolutions.com",
@@ -49,8 +49,8 @@
   },
   {
     "icon": {
-      "light": "white/bizi.svg",
-      "dark": "black/bizi.svg"
+      "light": "light/bizi.svg",
+      "dark": "dark/bizi.svg"
     },
     "name": "BIZI",
     "website": "bizilabs.io",
@@ -61,8 +61,8 @@
   },
   {
     "icon": {
-      "light": "white/bkex.svg",
-      "dark": "black/bkex.svg"
+      "light": "light/bkex.svg",
+      "dark": "dark/bkex.svg"
     },
     "name": "BTCEX",
     "website": "bkex.com",
@@ -73,8 +73,8 @@
   },
   {
     "icon": {
-      "light": "white/balmy.svg",
-      "dark": "black/balmy.svg"
+      "light": "light/balmy.svg",
+      "dark": "dark/balmy.svg"
     },
     "name": "Balmy",
     "website": "balmy.xyz/",
@@ -85,8 +85,8 @@
   },
   {
     "icon": {
-      "light": "white/banxa.svg",
-      "dark": "black/banxa.svg"
+      "light": "light/banxa.svg",
+      "dark": "dark/banxa.svg"
     },
     "name": "Banxa",
     "website": "banxa.com",
@@ -97,8 +97,8 @@
   },
   {
     "icon": {
-      "light": "white/beamer_bridge.svg",
-      "dark": "black/beamer_bridge.svg"
+      "light": "light/beamer_bridge.svg",
+      "dark": "dark/beamer_bridge.svg"
     },
     "name": "Beamer bridge",
     "website": "beamerbridge.com",
@@ -109,8 +109,8 @@
   },
   {
     "icon": {
-      "light": "white/bitbank.svg",
-      "dark": "black/bitbank.svg"
+      "light": "light/bitbank.svg",
+      "dark": "dark/bitbank.svg"
     },
     "name": "Bitbank",
     "website": "bitbank.cc",
@@ -121,8 +121,8 @@
   },
   {
     "icon": {
-      "light": "white/bitfinex.svg",
-      "dark": "black/bitfinex.svg"
+      "light": "light/bitfinex.svg",
+      "dark": "dark/bitfinex.svg"
     },
     "name": "Bitfinex",
     "website": "bitfinex.com",
@@ -133,8 +133,8 @@
   },
   {
     "icon": {
-      "light": "white/bithumb.svg",
-      "dark": "black/bithumb.svg"
+      "light": "light/bithumb.svg",
+      "dark": "dark/bithumb.svg"
     },
     "name": "Bithumb",
     "website": "bithumb.com",
@@ -145,8 +145,8 @@
   },
   {
     "icon": {
-      "light": "white/bitkeep.svg",
-      "dark": "black/bitkeep.svg"
+      "light": "light/bitkeep.svg",
+      "dark": "dark/bitkeep.svg"
     },
     "name": "Bitkeep",
     "website": "bitkeep.com",
@@ -157,8 +157,8 @@
   },
   {
     "icon": {
-      "light": "white/bkex.svg",
-      "dark": "black/bkex.svg"
+      "light": "light/bkex.svg",
+      "dark": "dark/bkex.svg"
     },
     "name": "Bkex",
     "website": "bkex.com",
@@ -169,8 +169,8 @@
   },
   {
     "icon": {
-      "light": "white/blockvision.svg",
-      "dark": "black/blockvision.svg"
+      "light": "light/blockvision.svg",
+      "dark": "dark/blockvision.svg"
     },
     "name": "Blockvision",
     "website": "blockvision.org",
@@ -181,8 +181,8 @@
   },
   {
     "icon": {
-      "light": "white/boba_multisig.svg",
-      "dark": "black/boba_multisig.svg"
+      "light": "light/boba_multisig.svg",
+      "dark": "dark/boba_multisig.svg"
     },
     "name": "Boba Multisig",
     "website": "multisig.boba.network",
@@ -193,8 +193,8 @@
   },
   {
     "icon": {
-      "light": "white/boba_punks.svg",
-      "dark": "black/boba_punks.svg"
+      "light": "light/boba_punks.svg",
+      "dark": "dark/boba_punks.svg"
     },
     "name": "Boba Punks",
     "website": "bobapunks.netlify.app",
@@ -205,8 +205,8 @@
   },
   {
     "icon": {
-      "light": "white/boringdao.svg",
-      "dark": "black/boringdao.svg"
+      "light": "light/boringdao.svg",
+      "dark": "dark/boringdao.svg"
     },
     "name": "BoringDAO",
     "website": "boringdao.com",
@@ -217,8 +217,8 @@
   },
   {
     "icon": {
-      "light": "white/bundlr_network.svg",
-      "dark": "black/bundlr_network.svg"
+      "light": "light/bundlr_network.svg",
+      "dark": "dark/bundlr_network.svg"
     },
     "name": "Bundlr network",
     "website": "budlr.network",
@@ -229,8 +229,8 @@
   },
   {
     "icon": {
-      "light": "white/burrito_wallet.svg",
-      "dark": "black/burrito_wallet.svg"
+      "light": "light/burrito_wallet.svg",
+      "dark": "dark/burrito_wallet.svg"
     },
     "name": "Burrito Wallet",
     "website": "burritowallet.com/en",
@@ -241,8 +241,8 @@
   },
   {
     "icon": {
-      "light": "white/bybit.svg",
-      "dark": "black/bybit.svg"
+      "light": "light/bybit.svg",
+      "dark": "dark/bybit.svg"
     },
     "name": "Bybit",
     "website": "bybit.com",
@@ -253,8 +253,8 @@
   },
   {
     "icon": {
-      "light": "white/celer_bridge.svg",
-      "dark": "black/celer_bridge.svg"
+      "light": "light/celer_bridge.svg",
+      "dark": "dark/celer_bridge.svg"
     },
     "name": "Celer",
     "website": "celer.network",
@@ -265,8 +265,8 @@
   },
   {
     "icon": {
-      "light": "white/changenow.svg",
-      "dark": "black/changenow.svg"
+      "light": "light/changenow.svg",
+      "dark": "dark/changenow.svg"
     },
     "name": "ChangeNOW",
     "website": "changenow.io",
@@ -277,8 +277,8 @@
   },
   {
     "icon": {
-      "light": "white/charm.svg",
-      "dark": "black/charm.svg"
+      "light": "light/charm.svg",
+      "dark": "dark/charm.svg"
     },
     "name": "Charm",
     "website": "charm.fi",
@@ -289,8 +289,8 @@
   },
   {
     "icon": {
-      "light": "white/coin98.svg",
-      "dark": "black/coin98.svg"
+      "light": "light/coin98.svg",
+      "dark": "dark/coin98.svg"
     },
     "name": "Coin98",
     "website": "coin98.com",
@@ -301,8 +301,8 @@
   },
   {
     "icon": {
-      "light": "white/coindcx.svg",
-      "dark": "black/coindcx.svg"
+      "light": "light/coindcx.svg",
+      "dark": "dark/coindcx.svg"
     },
     "name": "CoinDCX",
     "website": "coindcx.com",
@@ -313,8 +313,8 @@
   },
   {
     "icon": {
-      "light": "white/coinbase.svg",
-      "dark": "black/coinbase.svg"
+      "light": "light/coinbase.svg",
+      "dark": "dark/coinbase.svg"
     },
     "name": "Coinbase",
     "website": "coinbase.com",
@@ -325,8 +325,8 @@
   },
   {
     "icon": {
-      "light": "white/coinex.svg",
-      "dark": "black/coinex.svg"
+      "light": "light/coinex.svg",
+      "dark": "dark/coinex.svg"
     },
     "name": "Coinex",
     "website": "coinex.com",
@@ -337,8 +337,8 @@
   },
   {
     "icon": {
-      "light": "white/connext.svg",
-      "dark": "black/connext.svg"
+      "light": "light/connext.svg",
+      "dark": "dark/connext.svg"
     },
     "name": "Connext",
     "website": "connext.network",
@@ -349,8 +349,8 @@
   },
   {
     "icon": {
-      "light": "white/covalent.svg",
-      "dark": "black/covalent.svg"
+      "light": "light/covalent.svg",
+      "dark": "dark/covalent.svg"
     },
     "name": "Covalent",
     "website": "covalenthq.com",
@@ -361,8 +361,8 @@
   },
   {
     "icon": {
-      "light": "white/cryptocom.svg",
-      "dark": "black/cryptocom.svg"
+      "light": "light/cryptocom.svg",
+      "dark": "dark/cryptocom.svg"
     },
     "name": "Crypto.com (app)",
     "website": "crypto.com",
@@ -373,8 +373,8 @@
   },
   {
     "icon": {
-      "light": "white/curiodao.svg",
-      "dark": "black/curiodao.svg"
+      "light": "light/curiodao.svg",
+      "dark": "dark/curiodao.svg"
     },
     "name": "CurioDAO",
     "website": "curioinvest.com",
@@ -385,8 +385,8 @@
   },
   {
     "icon": {
-      "light": "white/dia.svg",
-      "dark": "black/dia.svg"
+      "light": "light/dia.svg",
+      "dark": "dark/dia.svg"
     },
     "name": "DIA",
     "website": "diadata.org",
@@ -397,8 +397,8 @@
   },
   {
     "icon": {
-      "light": "white/debank.svg",
-      "dark": "black/debank.svg"
+      "light": "light/debank.svg",
+      "dark": "dark/debank.svg"
     },
     "name": "Debank",
     "website": "debank.com",
@@ -409,8 +409,8 @@
   },
   {
     "icon": {
-      "light": "white/defungify.svg",
-      "dark": "black/defungify.svg"
+      "light": "light/defungify.svg",
+      "dark": "dark/defungify.svg"
     },
     "name": "Defungify",
     "website": ".defungify.app/",
@@ -421,8 +421,8 @@
   },
   {
     "icon": {
-      "light": "white/dega.svg",
-      "dark": "black/dega.svg"
+      "light": "light/dega.svg",
+      "dark": "dark/dega.svg"
     },
     "name": "Dega",
     "website": "dega.org",
@@ -433,8 +433,8 @@
   },
   {
     "icon": {
-      "light": "white/dexsport.svg",
-      "dark": "black/dexsport.svg"
+      "light": "light/dexsport.svg",
+      "dark": "dark/dexsport.svg"
     },
     "name": "Dexsport",
     "website": "dexsport.io",
@@ -445,8 +445,8 @@
   },
   {
     "icon": {
-      "light": "white/digifinex.svg",
-      "dark": "black/digifinex.svg"
+      "light": "light/digifinex.svg",
+      "dark": "dark/digifinex.svg"
     },
     "name": "Digifinex",
     "website": "digifinex.com",
@@ -457,8 +457,8 @@
   },
   {
     "icon": {
-      "light": "white/dmail.svg",
-      "dark": "black/dmail.svg"
+      "light": "light/dmail.svg",
+      "dark": "dark/dmail.svg"
     },
     "name": "Dmail",
     "website": "dmail.ai",
@@ -469,8 +469,8 @@
   },
   {
     "icon": {
-      "light": "white/dodo.svg",
-      "dark": "black/dodo.svg"
+      "light": "light/dodo.svg",
+      "dark": "dark/dodo.svg"
     },
     "name": "Dodo",
     "website": "dodoex.io",
@@ -481,8 +481,8 @@
   },
   {
     "icon": {
-      "light": "white/donton.svg",
-      "dark": "black/donton.svg"
+      "light": "light/donton.svg",
+      "dark": "dark/donton.svg"
     },
     "name": "DonTon",
     "website": "donton.net",
@@ -493,8 +493,8 @@
   },
   {
     "icon": {
-      "light": "white/dcent.svg",
-      "dark": "black/dcent.svg"
+      "light": "light/dcent.svg",
+      "dark": "dark/dcent.svg"
     },
     "name": "D’Cent",
     "website": "dcentwallet.com",
@@ -505,8 +505,8 @@
   },
   {
     "icon": {
-      "light": "white/epiko.svg",
-      "dark": "black/epiko.svg"
+      "light": "light/epiko.svg",
+      "dark": "dark/epiko.svg"
     },
     "name": "Epiko",
     "website": "epiko.io",
@@ -517,8 +517,8 @@
   },
   {
     "icon": {
-      "light": "white/forward_protocol.svg",
-      "dark": "black/forward_protocol.svg"
+      "light": "light/forward_protocol.svg",
+      "dark": "dark/forward_protocol.svg"
     },
     "name": "Forward Protocol",
     "website": "forwardprotocol.io/",
@@ -529,8 +529,8 @@
   },
   {
     "icon": {
-      "light": "white/frax.svg",
-      "dark": "black/frax.svg"
+      "light": "light/frax.svg",
+      "dark": "dark/frax.svg"
     },
     "name": "Frax",
     "website": "frax.finance",
@@ -541,8 +541,8 @@
   },
   {
     "icon": {
-      "light": "white/frontier.svg",
-      "dark": "black/frontier.svg"
+      "light": "light/frontier.svg",
+      "dark": "dark/frontier.svg"
     },
     "name": "Frontier",
     "website": "frontier.xyz",
@@ -553,8 +553,8 @@
   },
   {
     "icon": {
-      "light": "white/gate.svg",
-      "dark": "black/gate.svg"
+      "light": "light/gate.svg",
+      "dark": "dark/gate.svg"
     },
     "name": "Gate.io",
     "website": "gate.io",
@@ -565,8 +565,8 @@
   },
   {
     "icon": {
-      "light": "white/gelato.svg",
-      "dark": "black/gelato.svg"
+      "light": "light/gelato.svg",
+      "dark": "dark/gelato.svg"
     },
     "name": "Gelato",
     "website": "gelato.network",
@@ -577,8 +577,8 @@
   },
   {
     "icon": {
-      "light": "white/gin_finance.svg",
-      "dark": "black/gin_finance.svg"
+      "light": "light/gin_finance.svg",
+      "dark": "dark/gin_finance.svg"
     },
     "name": "Gin Finance",
     "website": "gin.finance",
@@ -589,8 +589,8 @@
   },
   {
     "icon": {
-      "light": "white/hedgey.svg",
-      "dark": "black/hedgey.svg"
+      "light": "light/hedgey.svg",
+      "dark": "dark/hedgey.svg"
     },
     "name": "Hedgey",
     "website": "hedgey.finance",
@@ -601,8 +601,8 @@
   },
   {
     "icon": {
-      "light": "white/huobi.svg",
-      "dark": "black/huobi.svg"
+      "light": "light/huobi.svg",
+      "dark": "dark/huobi.svg"
     },
     "name": "Huobi",
     "website": "huobi.com",
@@ -613,8 +613,8 @@
   },
   {
     "icon": {
-      "light": "white/ichi.svg",
-      "dark": "black/ichi.svg"
+      "light": "light/ichi.svg",
+      "dark": "dark/ichi.svg"
     },
     "name": "ICHI",
     "website": "ichi.org",
@@ -625,8 +625,8 @@
   },
   {
     "icon": {
-      "light": "white/immunefi.svg",
-      "dark": "black/immunefi.svg"
+      "light": "light/immunefi.svg",
+      "dark": "dark/immunefi.svg"
     },
     "name": "Immunefi",
     "website": "immunefi.com",
@@ -637,8 +637,8 @@
   },
   {
     "icon": {
-      "light": "white/iolyworld.svg",
-      "dark": "black/iolyworld.svg"
+      "light": "light/iolyworld.svg",
+      "dark": "dark/iolyworld.svg"
     },
     "name": "IolyWorld",
     "website": "iolyworld.io",
@@ -649,8 +649,8 @@
   },
   {
     "icon": {
-      "light": "white/kraken.svg",
-      "dark": "black/kraken.svg"
+      "light": "light/kraken.svg",
+      "dark": "dark/kraken.svg"
     },
     "name": "Kraken",
     "website": "kraken.com",
@@ -661,8 +661,8 @@
   },
   {
     "icon": {
-      "light": "white/kucoin.svg",
-      "dark": "black/kucoin.svg"
+      "light": "light/kucoin.svg",
+      "dark": "dark/kucoin.svg"
     },
     "name": "Kucoin",
     "website": "kucoin.com",
@@ -673,8 +673,8 @@
   },
   {
     "icon": {
-      "light": "white/lbank.svg",
-      "dark": "black/lbank.svg"
+      "light": "light/lbank.svg",
+      "dark": "dark/lbank.svg"
     },
     "name": "LBank",
     "website": "lbank.com",
@@ -685,8 +685,8 @@
   },
   {
     "icon": {
-      "light": "white/latoken.svg",
-      "dark": "black/latoken.svg"
+      "light": "light/latoken.svg",
+      "dark": "dark/latoken.svg"
     },
     "name": "Latoken",
     "website": "latoken.com",
@@ -697,8 +697,8 @@
   },
   {
     "icon": {
-      "light": "white/lendland.svg",
-      "dark": "black/lendland.svg"
+      "light": "light/lendland.svg",
+      "dark": "dark/lendland.svg"
     },
     "name": "LendLand",
     "website": "lendland.io",
@@ -709,8 +709,8 @@
   },
   {
     "icon": {
-      "light": "white/mexc.svg",
-      "dark": "black/mexc.svg"
+      "light": "light/mexc.svg",
+      "dark": "dark/mexc.svg"
     },
     "name": "MEXC Global",
     "website": "mexc.com",
@@ -721,8 +721,8 @@
   },
   {
     "icon": {
-      "light": "white/megaworld.svg",
-      "dark": "black/megaworld.svg"
+      "light": "light/megaworld.svg",
+      "dark": "dark/megaworld.svg"
     },
     "name": "Megaworld",
     "website": "megaworld.io",
@@ -733,8 +733,8 @@
   },
   {
     "icon": {
-      "light": "white/metamask.svg",
-      "dark": "black/metamask.svg"
+      "light": "light/metamask.svg",
+      "dark": "dark/metamask.svg"
     },
     "name": "Metamask",
     "website": "metamask.io",
@@ -745,8 +745,8 @@
   },
   {
     "icon": {
-      "light": "white/myetherwallet.svg",
-      "dark": "black/myetherwallet.svg"
+      "light": "light/myetherwallet.svg",
+      "dark": "dark/myetherwallet.svg"
     },
     "name": "MyEtherWallet",
     "website": "myetherwallet.com",
@@ -757,8 +757,8 @@
   },
   {
     "icon": {
-      "light": "white/now_payments.svg",
-      "dark": "black/now_payments.svg"
+      "light": "light/now_payments.svg",
+      "dark": "dark/now_payments.svg"
     },
     "name": "Now Payments",
     "website": "nowpayments.io",
@@ -769,8 +769,8 @@
   },
   {
     "icon": {
-      "light": "white/now_wallet.svg",
-      "dark": "black/now_wallet.svg"
+      "light": "light/now_wallet.svg",
+      "dark": "dark/now_wallet.svg"
     },
     "name": "Now wallet",
     "website": "walletnow.app",
@@ -781,8 +781,8 @@
   },
   {
     "icon": {
-      "light": "white/okx.svg",
-      "dark": "black/okx.svg"
+      "light": "light/okx.svg",
+      "dark": "dark/okx.svg"
     },
     "name": "OKX.com",
     "website": "okx.com",
@@ -793,8 +793,8 @@
   },
   {
     "icon": {
-      "light": "white/icecreamswap.svg",
-      "dark": "black/icecreamswap.svg"
+      "light": "light/icecreamswap.svg",
+      "dark": "dark/icecreamswap.svg"
     },
     "name": "OPEN IcecreamSwap",
     "website": "icecreamswap.com",
@@ -805,8 +805,8 @@
   },
   {
     "icon": {
-      "light": "white/bobaEth.svg",
-      "dark": "black/bobaEth.svg"
+      "light": "light/bobaEth.svg",
+      "dark": "dark/bobaEth.svg"
     },
     "name": "Official Bridge - Ethereum",
     "website": "gateway.boba.network/bridge",
@@ -817,8 +817,8 @@
   },
   {
     "icon": {
-      "light": "white/oku.svg",
-      "dark": "black/oku.svg"
+      "light": "light/oku.svg",
+      "dark": "dark/oku.svg"
     },
     "name": "Oku",
     "website": "oku.trade",
@@ -829,8 +829,8 @@
   },
   {
     "icon": {
-      "light": "white/onto.svg",
-      "dark": "black/onto.svg"
+      "light": "light/onto.svg",
+      "dark": "dark/onto.svg"
     },
     "name": "Onto",
     "website": "onto.app",
@@ -841,8 +841,8 @@
   },
   {
     "icon": {
-      "light": "white/oolongswap.svg",
-      "dark": "black/oolongswap.svg"
+      "light": "light/oolongswap.svg",
+      "dark": "dark/oolongswap.svg"
     },
     "name": "Oolongswap",
     "website": "oolongswap.com",
@@ -853,8 +853,8 @@
   },
   {
     "icon": {
-      "light": "white/poloniex.svg",
-      "dark": "black/poloniex.svg"
+      "light": "light/poloniex.svg",
+      "dark": "dark/poloniex.svg"
     },
     "name": "Poloniex",
     "website": "poloniex.com",
@@ -865,8 +865,8 @@
   },
   {
     "icon": {
-      "light": "white/push.svg",
-      "dark": "black/push.svg"
+      "light": "light/push.svg",
+      "dark": "dark/push.svg"
     },
     "name": "Push",
     "website": "push.org",
@@ -877,8 +877,8 @@
   },
   {
     "icon": {
-      "light": "white/pyth_network.svg",
-      "dark": "black/pyth_network.svg"
+      "light": "light/pyth_network.svg",
+      "dark": "dark/pyth_network.svg"
     },
     "name": "Pyth Network",
     "website": "pyth.network",
@@ -889,8 +889,8 @@
   },
   {
     "icon": {
-      "light": "white/rango_exchange.svg",
-      "dark": "black/rango_exchange.svg"
+      "light": "light/rango_exchange.svg",
+      "dark": "dark/rango_exchange.svg"
     },
     "name": "Rango exchange",
     "website": "app.rango.exchange",
@@ -901,8 +901,8 @@
   },
   {
     "icon": {
-      "light": "white/redstone.svg",
-      "dark": "black/redstone.svg"
+      "light": "light/redstone.svg",
+      "dark": "dark/redstone.svg"
     },
     "name": "Redstone",
     "website": "redstone.finance",
@@ -913,8 +913,8 @@
   },
   {
     "icon": {
-      "light": "white/relay.svg",
-      "dark": "black/relay.svg"
+      "light": "light/relay.svg",
+      "dark": "dark/relay.svg"
     },
     "name": "Relay",
     "website": "relay.link",
@@ -925,8 +925,8 @@
   },
   {
     "icon": {
-      "light": "white/remedy.svg",
-      "dark": "black/remedy.svg"
+      "light": "light/remedy.svg",
+      "dark": "dark/remedy.svg"
     },
     "name": "Remedy",
     "website": "r.xyz",
@@ -937,8 +937,8 @@
   },
   {
     "icon": {
-      "light": "white/router_nitro.svg",
-      "dark": "black/router_nitro.svg"
+      "light": "light/router_nitro.svg",
+      "dark": "dark/router_nitro.svg"
     },
     "name": "Router Nitro",
     "website": "nitro.routerprotocol.com",
@@ -949,8 +949,8 @@
   },
   {
     "icon": {
-      "light": "white/rubic_exchange.svg",
-      "dark": "black/rubic_exchange.svg"
+      "light": "light/rubic_exchange.svg",
+      "dark": "dark/rubic_exchange.svg"
     },
     "name": "Rubic exchange",
     "website": "app.rubic.exchange",
@@ -961,8 +961,8 @@
   },
   {
     "icon": {
-      "light": "white/safepal.svg",
-      "dark": "black/safepal.svg"
+      "light": "light/safepal.svg",
+      "dark": "dark/safepal.svg"
     },
     "name": "Safepal",
     "website": "safepal.com",
@@ -973,8 +973,8 @@
   },
   {
     "icon": {
-      "light": "white/seedify.svg",
-      "dark": "black/seedify.svg"
+      "light": "light/seedify.svg",
+      "dark": "dark/seedify.svg"
     },
     "name": "Seedify",
     "website": "seedify.fund",
@@ -985,8 +985,8 @@
   },
   {
     "icon": {
-      "light": "white/subquery.svg",
-      "dark": "black/subquery.svg"
+      "light": "light/subquery.svg",
+      "dark": "dark/subquery.svg"
     },
     "name": "Subquery",
     "website": "subquery.network/home",
@@ -997,8 +997,8 @@
   },
   {
     "icon": {
-      "light": "white/supra_oracles.svg",
-      "dark": "black/supra_oracles.svg"
+      "light": "light/supra_oracles.svg",
+      "dark": "dark/supra_oracles.svg"
     },
     "name": "Supra Oracles",
     "website": "supra.com",
@@ -1009,8 +1009,8 @@
   },
   {
     "icon": {
-      "light": "white/sushi.svg",
-      "dark": "black/sushi.svg"
+      "light": "light/sushi.svg",
+      "dark": "dark/sushi.svg"
     },
     "name": "Sushi",
     "website": "sushi.com",
@@ -1021,8 +1021,8 @@
   },
   {
     "icon": {
-      "light": "white/symbiosis.svg",
-      "dark": "black/symbiosis.svg"
+      "light": "light/symbiosis.svg",
+      "dark": "dark/symbiosis.svg"
     },
     "name": "Symbiosis",
     "website": "symbiosis.finance",
@@ -1033,8 +1033,8 @@
   },
   {
     "icon": {
-      "light": "white/synapse.svg",
-      "dark": "black/synapse.svg"
+      "light": "light/synapse.svg",
+      "dark": "dark/synapse.svg"
     },
     "name": "Synapse",
     "website": "synapseprotocol.com",
@@ -1045,8 +1045,8 @@
   },
   {
     "icon": {
-      "light": "white/teahouse.svg",
-      "dark": "black/teahouse.svg"
+      "light": "light/teahouse.svg",
+      "dark": "dark/teahouse.svg"
     },
     "name": "Teahouse",
     "website": "teahouse.finance",
@@ -1057,8 +1057,8 @@
   },
   {
     "icon": {
-      "light": "white/the_graph.svg",
-      "dark": "black/the_graph.svg"
+      "light": "light/the_graph.svg",
+      "dark": "dark/the_graph.svg"
     },
     "name": "The Graph",
     "website": "thegraph.com",
@@ -1069,8 +1069,8 @@
   },
   {
     "icon": {
-      "light": "white/uma.svg",
-      "dark": "black/uma.svg"
+      "light": "light/uma.svg",
+      "dark": "dark/uma.svg"
     },
     "name": "UMA",
     "website": "umaproject.org",
@@ -1081,8 +1081,8 @@
   },
   {
     "icon": {
-      "light": "white/unidex.svg",
-      "dark": "black/unidex.svg"
+      "light": "light/unidex.svg",
+      "dark": "dark/unidex.svg"
     },
     "name": "Unidex",
     "website": "unidex.exchange",
@@ -1093,8 +1093,8 @@
   },
   {
     "icon": {
-      "light": "white/via.svg",
-      "dark": "black/via.svg"
+      "light": "light/via.svg",
+      "dark": "dark/via.svg"
     },
     "name": "Via protocol",
     "website": "via.exchange",
@@ -1105,8 +1105,8 @@
   },
   {
     "icon": {
-      "light": "white/wefi.svg",
-      "dark": "black/wefi.svg"
+      "light": "light/wefi.svg",
+      "dark": "dark/wefi.svg"
     },
     "name": "WeFi",
     "website": "wefi.xyz",
@@ -1117,8 +1117,8 @@
   },
   {
     "icon": {
-      "light": "white/witnet.svg",
-      "dark": "black/witnet.svg"
+      "light": "light/witnet.svg",
+      "dark": "dark/witnet.svg"
     },
     "name": "Witnet",
     "website": "witnet.io",
@@ -1129,8 +1129,8 @@
   },
   {
     "icon": {
-      "light": "white/woo_network.svg",
-      "dark": "black/woo_network.svg"
+      "light": "light/woo_network.svg",
+      "dark": "dark/woo_network.svg"
     },
     "name": "Woo Network",
     "website": "x.woo.org",
@@ -1141,8 +1141,8 @@
   },
   {
     "icon": {
-      "light": "white/yetiswap.svg",
-      "dark": "black/yetiswap.svg"
+      "light": "light/yetiswap.svg",
+      "dark": "dark/yetiswap.svg"
     },
     "name": "Yetiswap",
     "website": "yetiswap.app",
@@ -1153,8 +1153,8 @@
   },
   {
     "icon": {
-      "light": "white/znsconnect.svg",
-      "dark": "black/znsconnect.svg"
+      "light": "light/znsconnect.svg",
+      "dark": "dark/znsconnect.svg"
     },
     "name": "ZNS Connect",
     "website": "zns.bio",
@@ -1165,8 +1165,8 @@
   },
   {
     "icon": {
-      "light": "white/zokyo.svg",
-      "dark": "black/zokyo.svg"
+      "light": "light/zokyo.svg",
+      "dark": "dark/zokyo.svg"
     },
     "name": "Zokyo",
     "website": "zokyo.io",
@@ -1177,8 +1177,8 @@
   },
   {
     "icon": {
-      "light": "white/zoth.svg",
-      "dark": "black/zoth.svg"
+      "light": "light/zoth.svg",
+      "dark": "dark/zoth.svg"
     },
     "name": "Zoth",
     "website": "zoth.io",
