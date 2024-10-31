@@ -349,18 +349,6 @@
   },
   {
     "icon": {
-      "light": "light/curiodao.svg",
-      "dark": "dark/curiodao.svg"
-    },
-    "name": "CurioDAO",
-    "website": "curioinvest.com",
-    "link": "https://curioinvest.com/",
-    "description": "The future of real assets belongs to everyone.",
-    "type": "DAO",
-    "visible": true
-  },
-  {
-    "icon": {
       "light": "light/dia.svg",
       "dark": "dark/dia.svg"
     },
