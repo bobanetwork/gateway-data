@@ -49,18 +49,6 @@
   },
   {
     "icon": {
-      "light": "light/bizi.svg",
-      "dark": "dark/bizi.svg"
-    },
-    "name": "BIZI",
-    "website": "bizilabs.io",
-    "link": "https://bizilabs.io/",
-    "description": "BIZI is a mobile platform that utilises Web3.0 software and associated hardware.",
-    "type": "Wallet",
-    "visible": true
-  },
-  {
-    "icon": {
       "light": "light/bkex.svg",
       "dark": "dark/bkex.svg"
     },
@@ -337,18 +325,6 @@
   },
   {
     "icon": {
-      "light": "light/connext.svg",
-      "dark": "dark/connext.svg"
-    },
-    "name": "Connext",
-    "website": "connext.network",
-    "link": "https://bridge.connext.network/?sendingChainId=288",
-    "description": "Connext powers fast, secure bridging between blockchains and rollups.",
-    "type": "Bridge",
-    "visible": true
-  },
-  {
-    "icon": {
       "light": "light/covalent.svg",
       "dark": "dark/covalent.svg"
     },
@@ -369,18 +345,6 @@
     "link": "https://crypto.com/eea/app",
     "description": "Crypto.com is one of the leading cryptocurrency exchanges in the world.",
     "type": "Centralized exchange",
-    "visible": true
-  },
-  {
-    "icon": {
-      "light": "light/curiodao.svg",
-      "dark": "dark/curiodao.svg"
-    },
-    "name": "CurioDAO",
-    "website": "curioinvest.com",
-    "link": "https://curioinvest.com/",
-    "description": "The future of real assets belongs to everyone.",
-    "type": "DAO",
     "visible": true
   },
   {
@@ -525,18 +489,6 @@
     "link": "https://forwardfactory.net/dashboard/getting-started",
     "description": "Create Blockchains, Subnets, and dApps with A No-Code Interface",
     "type": "Tools",
-    "visible": true
-  },
-  {
-    "icon": {
-      "light": "light/frax.svg",
-      "dark": "dark/frax.svg"
-    },
-    "name": "Frax",
-    "website": "frax.finance",
-    "link": "https://app.frax.finance/swap/main",
-    "description": "Frax is the world’s first fractional stablecoin and crypto native consumer price index.",
-    "type": "Decentralized finance",
     "visible": true
   },
   {
@@ -1137,18 +1089,6 @@
     "link": "https://x.woo.org/en/markets",
     "description": "WOO Network is a liquidity network that connects crypto exchanges, traders, and DeFi platforms.",
     "type": "Centralized exchange",
-    "visible": true
-  },
-  {
-    "icon": {
-      "light": "light/yetiswap.svg",
-      "dark": "dark/yetiswap.svg"
-    },
-    "name": "Yetiswap",
-    "website": "yetiswap.app",
-    "link": "https://bobamarket.yetiswap.app/",
-    "description": "YetiSwap is a decentralized exchange (DEX) and NFT marketplace , running on the Avalanche blockchain.",
-    "type": "NFT",
     "visible": true
   },
   {
