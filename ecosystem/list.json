@@ -517,18 +517,6 @@
   },
   {
     "icon": {
-      "light": "light/frax.svg",
-      "dark": "dark/frax.svg"
-    },
-    "name": "Frax",
-    "website": "frax.finance",
-    "link": "https://app.frax.finance/swap/main",
-    "description": "Frax is the world’s first fractional stablecoin and crypto native consumer price index.",
-    "type": "Decentralized finance",
-    "visible": true
-  },
-  {
-    "icon": {
       "light": "light/frontier.svg",
       "dark": "dark/frontier.svg"
     },
