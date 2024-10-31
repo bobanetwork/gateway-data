@@ -325,18 +325,6 @@
   },
   {
     "icon": {
-      "light": "light/connext.svg",
-      "dark": "dark/connext.svg"
-    },
-    "name": "Connext",
-    "website": "connext.network",
-    "link": "https://bridge.connext.network/?sendingChainId=288",
-    "description": "Connext powers fast, secure bridging between blockchains and rollups.",
-    "type": "Bridge",
-    "visible": true
-  },
-  {
-    "icon": {
       "light": "light/covalent.svg",
       "dark": "dark/covalent.svg"
     },
@@ -1113,18 +1101,6 @@
     "link": "https://x.woo.org/en/markets",
     "description": "WOO Network is a liquidity network that connects crypto exchanges, traders, and DeFi platforms.",
     "type": "Centralized exchange",
-    "visible": true
-  },
-  {
-    "icon": {
-      "light": "light/yetiswap.svg",
-      "dark": "dark/yetiswap.svg"
-    },
-    "name": "Yetiswap",
-    "website": "yetiswap.app",
-    "link": "https://bobamarket.yetiswap.app/",
-    "description": "YetiSwap is a decentralized exchange (DEX) and NFT marketplace , running on the Avalanche blockchain.",
-    "type": "NFT",
     "visible": true
   },
   {
