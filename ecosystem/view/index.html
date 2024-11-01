@@ -123,6 +123,7 @@
                       <img src="../icons/${card.icon.dark}" alt="${card.name} dark" class="icon dark">
                     </div>
                     <div class="content"> 
+                      ${!card.visible ? "<span><i>Hidden </i></span>" : ''}
                       <h4>${card.name} - [${card.type}]</h4>
                       <a target="_blank" href="${card.link}">${card.website}</a>
                       <p>${card.description}</p>
