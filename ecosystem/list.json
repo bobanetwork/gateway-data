@@ -537,7 +537,7 @@
     "link": "https://www.gin.finance/",
     "description": "Gin is an open-source protocol for providing liquidity and trading ERC20 tokens on BOBA.",
     "type": "Decentralized finance",
-    "visible": true
+    "visible": false
   },
   {
     "icon": {
@@ -789,18 +789,6 @@
     "link": "https://onto.app/",
     "description": "A decentralized multi-chain gateway for identity and asset management.",
     "type": "Wallet",
-    "visible": true
-  },
-  {
-    "icon": {
-      "light": "light/oolongswap.svg",
-      "dark": "dark/oolongswap.svg"
-    },
-    "name": "Oolongswap",
-    "website": "oolongswap.com",
-    "link": "https://oolongswap.com/#/swap",
-    "description": "Oolongswap is the liquidity hub of Boba Network, a decentralized exchange.",
-    "type": "Decentralized finance",
     "visible": true
   },
   {
