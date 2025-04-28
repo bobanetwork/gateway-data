@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Linx",
+    "visible": true,
+    "link": "https://www.lynx.finance/",
+    "description": "Decentralized, low cost, high-leverage trading on a variety of instruments using your favorite tokens as collateral",
+    "icon": {
+      "light": "light/lynx.jpg",
+      "dark": "dark/lynx.jpg"
+    }
+  },
+  {
+    "name": "Nucleus",
+    "visible": true,
+    "link": "https://www.nucleusearn.io/",
+    "description": "Nucleus-supported networks allow you to passively generate yield while exploring new ecosystems",
+    "icon": {
+      "light": "light/nucleusearn.jpg",
+      "dark": "dark/nucleusearn.jpg"
+    }
+  }
+]
