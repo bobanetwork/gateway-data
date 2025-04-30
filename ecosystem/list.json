@@ -55,7 +55,7 @@
     "name": "BTCEX",
     "website": "bkex.com",
     "link": "https://www.btcex.com/en-us/spot?target=BOBA-USDT",
-    "description": "BKEX is a global Fiat trading exchange that offers OTC trading.",
+    "description": "BKEX is a global Fiat trading exchange that offers OTC trading.",
     "type": "Centralized exchange",
     "visible": true
   },
@@ -151,7 +151,7 @@
     "name": "Bkex",
     "website": "bkex.com",
     "link": "https://www.bkex.com/trade/BOBA_USDT",
-    "description": "BKEX is a blockchain derivatives service platform.",
+    "description": "BKEX is a blockchain derivatives service platform.",
     "type": "Centralized exchange",
     "visible": true
   },
@@ -1112,6 +1112,30 @@
     "website": "zoth.io",
     "link": "https://zoth.io/",
     "description": "Zoth fosters global capital flow for transparent, efficient finance, connecting traditional and blockchain-based assets for greater inclusion",
+    "type": "Decentralized finance",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/lynx.jpg",
+      "dark": "dark/lynx.jpg"
+    },
+    "name": "Lynx",
+    "website": "www.lynx.finance",
+    "link": "https://www.lynx.finance/",
+    "description": "Decentralized, low cost, high-leverage trading on a variety of instruments using your favorite tokens as collateral",
+    "type": "Decentralized finance",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/nucleusearn.jpg",
+      "dark": "dark/nucleusearn.jpg"
+    },
+    "name": "Nucleus",
+    "website": "www.nucleusearn.io",
+    "link": "https://www.nucleusearn.io/",
+    "description": "Nucleus-supported networks allow you to passively generate yield while exploring new ecosystems",
     "type": "Decentralized finance",
     "visible": true
   }
