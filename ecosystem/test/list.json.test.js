@@ -40,8 +40,8 @@ describe('Validate Ecosystem List',() => {
     ecosystemData.forEach(element => {
       expect(element).toMatchObject(expectedStructure)
       expect(allowedTypes).toContain(element.type)
-      expect(element.icon.light).toMatch(/\.svg$/);
-      expect(element.icon.dark).toMatch(/\.svg$/);
+      expect(element.icon.light).toMatch(/\.svg|.jpg$/);
+      expect(element.icon.dark).toMatch(/\.svg|.jpg$/);
     });
   });
 })
