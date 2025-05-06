@@ -1117,8 +1117,8 @@
   },
   {
     "icon": {
-      "light": "light/lynx.jpg",
-      "dark": "dark/lynx.jpg"
+      "light": "light/lynx.svg",
+      "dark": "dark/lynx.svg"
     },
     "name": "Lynx",
     "website": "www.lynx.finance",
@@ -1129,8 +1129,8 @@
   },
   {
     "icon": {
-      "light": "light/nucleusearn.jpg",
-      "dark": "dark/nucleusearn.jpg"
+      "light": "light/nucleusearn.svg",
+      "dark": "dark/nucleusearn.svg"
     },
     "name": "Nucleus",
     "website": "www.nucleusearn.io",
