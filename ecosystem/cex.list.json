@@ -181,7 +181,7 @@
   },
   {
     "name": "Hotcoin",
-    "link": "https://www.hotcoin.com/currencyExchange/boba_usdt",
+    "link": "https://www.hotcoin.com/en_US/trade/exchange/?tradeCode=boba_usdt",
     "pairName": "BOBA/USDT",
     "icon": {
       "light": "light/hotcoin.svg",
