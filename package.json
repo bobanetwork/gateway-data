@@ -4,12 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "prepare:webp": "node ./scripts/svg-to-webp.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jest": "^29.7.0"
+    "glob": "^11.0.2",
+    "jest": "^29.7.0",
+    "sharp": "^0.34.2"
   }
 }
