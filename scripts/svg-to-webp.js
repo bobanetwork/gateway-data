@@ -2,14 +2,14 @@
 const fs = require('fs/promises');
 const path = require('path');
 const sharp = require('sharp');
-const glob = require('glob');
+const {glob} = require('glob');
 
 // Configuration
 const config = {
   // Quality of WebP (0-100)
   quality: 90,
   // Recursively search through these directories
-  directories: ['./bridges', './ecosystem'],
+  directories: ['./bridges/icons','./ecosystem/icons'],
   // Number of conversions to run in parallel
   concurrency: 4
 };
@@ -73,18 +73,18 @@ async function processInChunks(items, fn, concurrency) {
  * Find all SVG files in the specified directories
  * @returns {Promise<Array<string>>} - Array of file paths
  */
-function findSvgFiles() {
-  return new Promise((resolve, reject) => {
+async function findSvgFiles() {
+  try {
     const patterns = config.directories.map(dir => `${dir}/**/*.svg`);
+    console.log('🔍 Searching with patterns:',patterns);
     
-    glob(patterns, (err, files) => {
-      if (err) {
-        reject(err);
-        return;
-      }
-      resolve(files);
-    });
-  });
+    const files = await glob(patterns,{nodir: true});
+    console.log('Found files:',files);
+    return files;
+  } catch (error) {
+    console.error('Error finding SVG files:',error);
+    throw error;
+  }
 }
 
 /**
