@@ -109,18 +109,6 @@
   },
   {
     "icon": {
-      "light": "light/bitfinex.svg",
-      "dark": "dark/bitfinex.svg"
-    },
-    "name": "Bitfinex",
-    "website": "bitfinex.com",
-    "link": "https://trading.bitfinex.com/t/BOBA:USD",
-    "description": "Bitfinex is a digital asset trading platform founded in 2012.",
-    "type": "Centralized exchange",
-    "visible": true
-  },
-  {
-    "icon": {
       "light": "light/bithumb.svg",
       "dark": "dark/bithumb.svg"
     },

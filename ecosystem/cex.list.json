@@ -50,13 +50,13 @@
     }
   },
   {
-    "name": "Bitfinex",
+    "name": "Bithumb",
     "visible": true,
-    "link": "https://trading.bitfinex.com/t/BOBA:USD?type=exchange?refcode=6dwJVwfb",
-    "pairName": "BOBA/USD",
+    "link": "https://en.bithumb.com/trade/auto_trading/BOBA_KRW",
+    "pairName": "BOBA/KRW",
     "icon": {
-      "light": "light/bitfinex.svg",
-      "dark": "dark/bitfinex.svg"
+      "light": "light/bithumb.svg",
+      "dark": "dark/bithumb.svg"
     }
   },
   {
