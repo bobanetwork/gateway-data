@@ -34,3 +34,10 @@ To add or remove projects from the JSON data, please follow these steps:
 ### Create a Pull Request:
   - After your issue is approved, create a pull request using the Project Update Pull Request Template.
   - Ensure to provide all necessary details, including project information and reason for removal (if applicable).
+
+
+## To remove icon files in nested folders. 
+
+```ssh
+find . -type f \( -name '*Dega*.svg' -o -name '*Dega*.webp' \) -delete
+```
