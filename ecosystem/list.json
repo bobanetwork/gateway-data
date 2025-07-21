@@ -253,18 +253,6 @@
   },
   {
     "icon": {
-      "light": "light/charm.svg",
-      "dark": "dark/charm.svg"
-    },
-    "name": "Charm",
-    "website": "charm.fi",
-    "link": "https://www.charm.fi/",
-    "description": "The easiest way to provide and manage liquidity. Charm’s mission is to connect crypto value to real value.",
-    "type": "Decentralized finance",
-    "visible": true
-  },
-  {
-    "icon": {
       "light": "light/coin98.svg",
       "dark": "dark/coin98.svg"
     },
@@ -368,18 +356,6 @@
     "website": ".defungify.app/",
     "link": "https://www2.defungify.app/",
     "description": "Convert your in-game items into NFTs and more with Defungify’s full suite of blockchain agnostic tools for game development.",
-    "type": "Gaming",
-    "visible": true
-  },
-  {
-    "icon": {
-      "light": "light/dega.svg",
-      "dark": "dark/dega.svg"
-    },
-    "name": "Dega",
-    "website": "dega.org",
-    "link": "https://www.dega.org/",
-    "description": "Dega develops cutting-edge Web3 tools, accelerating game and Metaverse development since its founding in November 2022",
     "type": "Gaming",
     "visible": true
   },
