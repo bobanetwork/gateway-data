@@ -253,18 +253,6 @@
   },
   {
     "icon": {
-      "light": "light/charm.svg",
-      "dark": "dark/charm.svg"
-    },
-    "name": "Charm",
-    "website": "charm.fi",
-    "link": "https://www.charm.fi/",
-    "description": "The easiest way to provide and manage liquidity. Charm’s mission is to connect crypto value to real value.",
-    "type": "Decentralized finance",
-    "visible": true
-  },
-  {
-    "icon": {
       "light": "light/coin98.svg",
       "dark": "dark/coin98.svg"
     },
@@ -368,18 +356,6 @@
     "website": ".defungify.app/",
     "link": "https://www2.defungify.app/",
     "description": "Convert your in-game items into NFTs and more with Defungify’s full suite of blockchain agnostic tools for game development.",
-    "type": "Gaming",
-    "visible": true
-  },
-  {
-    "icon": {
-      "light": "light/dega.svg",
-      "dark": "dark/dega.svg"
-    },
-    "name": "Dega",
-    "website": "dega.org",
-    "link": "https://www.dega.org/",
-    "description": "Dega develops cutting-edge Web3 tools, accelerating game and Metaverse development since its founding in November 2022",
     "type": "Gaming",
     "visible": true
   },
@@ -527,18 +503,7 @@
     "type": "Decentralized finance",
     "visible": false
   },
-  {
-    "icon": {
-      "light": "light/hedgey.svg",
-      "dark": "dark/hedgey.svg"
-    },
-    "name": "Hedgey",
-    "website": "hedgey.finance",
-    "link": "https://hedgey.finance/",
-    "description": "We create financial infrastructure for DAO treasuries.",
-    "type": "DAO",
-    "visible": true
-  },
+  
   {
     "icon": {
       "light": "light/huobi.svg",
@@ -553,18 +518,6 @@
   },
   {
     "icon": {
-      "light": "light/ichi.svg",
-      "dark": "dark/ichi.svg"
-    },
-    "name": "ICHI",
-    "website": "ichi.org",
-    "link": "https://app.ichi.org/",
-    "description": "Vaults reward liquidity providers and benefit crypto projects through sustainable liquidity.",
-    "type": "Decentralized finance",
-    "visible": true
-  },
-  {
-    "icon": {
       "light": "light/immunefi.svg",
       "dark": "dark/immunefi.svg"
     },
@@ -573,18 +526,6 @@
     "link": "https://immunefi.com/bounty/bobanetwork/",
     "description": "The leading bug bounty platform for blockchain with the world's largest bug bounties.",
     "type": "Tools",
-    "visible": true
-  },
-  {
-    "icon": {
-      "light": "light/iolyworld.svg",
-      "dark": "dark/iolyworld.svg"
-    },
-    "name": "IolyWorld",
-    "website": "iolyworld.io",
-    "link": "https://www.iolyworld.io/",
-    "description": "Digitized gaming world where all items are NFTs.",
-    "type": "Gaming",
     "visible": true
   },
   {
@@ -608,18 +549,6 @@
     "website": "kucoin.com",
     "link": "https://www.kucoin.com/price/BOBA",
     "description": "KuCoin is a well known cryptocurrency exchange.",
-    "type": "Centralized exchange",
-    "visible": true
-  },
-  {
-    "icon": {
-      "light": "light/lbank.svg",
-      "dark": "dark/lbank.svg"
-    },
-    "name": "LBank",
-    "website": "lbank.com",
-    "link": "https://www.lbank.info/exchange/boba1/usdt/#etf",
-    "description": "LBank is a cryptocurrency exchange.",
     "type": "Centralized exchange",
     "visible": true
   },
@@ -657,18 +586,6 @@
     "link": "https://www.mexc.com/exchange/BOBA_USDT",
     "description": "MEXC Global is a digital asset exchanges.",
     "type": "Centralized exchange",
-    "visible": true
-  },
-  {
-    "icon": {
-      "light": "light/megaworld.svg",
-      "dark": "dark/megaworld.svg"
-    },
-    "name": "Megaworld",
-    "website": "megaworld.io",
-    "link": "https://megaworld.io/",
-    "description": "Megaworld is a multiplayer decentralised city-builder multiverse game. Build, trade, own, sell, and much more.",
-    "type": "Gaming",
     "visible": true
   },
   {
