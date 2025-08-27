@@ -126,7 +126,7 @@
     },
     "name": "BoringDAO",
     "website": "boringdao.com",
-    "link": "https://oportal.boringdao.com/twoway?tab=0&target_chain_id=288",
+    "link": "https://www.boringdao.com/twoway?tab=0&target_chain_id=288",
     "description": "BoringDAO The ultimate DAO-driven inter-blockchain hub for Web 3.0. Multi-Chain Solutions for Every Crypto Asset.",
     "type": "Bridge",
     "visible": true
@@ -136,9 +136,9 @@
       "light": "light/bundlr_network.svg",
       "dark": "dark/bundlr_network.svg"
     },
-    "name": "Bundlr network",
-    "website": "budlr.network",
-    "link": "http://bundlr.network/",
+    "name": "Irys",
+    "website": "irys.xyz",
+    "link": "http://irys.xyz/",
     "description": "The fastest, easiest way to store data on Web3.",
     "type": "Tools",
     "visible": true
@@ -222,7 +222,7 @@
     },
     "name": "Coinbase",
     "website": "coinbase.com",
-    "link": "https://www.coinbase.com/advanced-trade/BOBA-USD",
+    "link": "https://www.coinbase.com",
     "description": "Coinbase is one of the most known cryptocurrency trading and investment platforms in the world.",
     "type": "Centralized exchange",
     "visible": true
@@ -762,8 +762,8 @@
       "dark": "dark/subquery.svg"
     },
     "name": "Subquery",
-    "website": "subquery.network/home",
-    "link": "https://subquery.network/home",
+    "website": "subquery.network",
+    "link": "https://subquery.network",
     "description": "Pioneering fast, flexible, and scalable decentralized infrastructure, they power Web3’s transition to an open, efficient and user-centric future.",
     "type": "Tools",
     "visible": true
@@ -859,7 +859,7 @@
     },
     "name": "Unidex",
     "website": "unidex.exchange",
-    "link": "https://app.unidex.exchange/trading/288/",
+    "link": "https://app.unidex.exchange/?chain=boba",
     "description": "UniDex's mission is to provide the most seamless trading experience in a truly decentralized fashion.",
     "type": "Decentralized finance",
     "visible": true
