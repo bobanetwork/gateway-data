@@ -61,18 +61,6 @@
   },
   {
     "icon": {
-      "light": "light/beamer_bridge.svg",
-      "dark": "dark/beamer_bridge.svg"
-    },
-    "name": "Beamer bridge",
-    "website": "beamerbridge.com",
-    "link": "https://app.beamerbridge.com/#/",
-    "description": "Beam your ERC20 assets between EVM compatible rollups with certainty, speed and security.",
-    "type": "Bridge",
-    "visible": true
-  },
-  {
-    "icon": {
       "light": "light/bitbank.svg",
       "dark": "dark/bitbank.svg"
     },
