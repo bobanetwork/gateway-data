@@ -37,18 +37,6 @@
   },
   {
     "icon": {
-      "light": "light/bkex.svg",
-      "dark": "dark/bkex.svg"
-    },
-    "name": "BTCEX",
-    "website": "bkex.com",
-    "link": "https://www.btcex.com/en-us/spot?target=BOBA-USDT",
-    "description": "BKEX is a global Fiat trading exchange that offers OTC trading.",
-    "type": "Centralized exchange",
-    "visible": true
-  },
-  {
-    "icon": {
       "light": "light/banxa.svg",
       "dark": "dark/banxa.svg"
     },
