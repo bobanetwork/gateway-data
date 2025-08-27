@@ -97,18 +97,6 @@
   },
   {
     "icon": {
-      "light": "light/bkex.svg",
-      "dark": "dark/bkex.svg"
-    },
-    "name": "Bkex",
-    "website": "bkex.com",
-    "link": "https://www.bkex.com/trade/BOBA_USDT",
-    "description": "BKEX is a blockchain derivatives service platform.",
-    "type": "Centralized exchange",
-    "visible": true
-  },
-  {
-    "icon": {
       "light": "light/blockvision.svg",
       "dark": "dark/blockvision.svg"
     },
