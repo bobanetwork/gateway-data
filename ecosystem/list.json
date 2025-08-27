@@ -289,18 +289,6 @@
   },
   {
     "icon": {
-      "light": "light/defungify.svg",
-      "dark": "dark/defungify.svg"
-    },
-    "name": "Defungify",
-    "website": ".defungify.app/",
-    "link": "https://www2.defungify.app/",
-    "description": "Convert your in-game items into NFTs and more with Defungify’s full suite of blockchain agnostic tools for game development.",
-    "type": "Gaming",
-    "visible": true
-  },
-  {
-    "icon": {
       "light": "light/dexsport.svg",
       "dark": "dark/dexsport.svg"
     },
