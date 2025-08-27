@@ -866,18 +866,6 @@
   },
   {
     "icon": {
-      "light": "light/via.svg",
-      "dark": "dark/via.svg"
-    },
-    "name": "Via protocol",
-    "website": "via.exchange",
-    "link": "https://router.via.exchange/ethereum/ETH/boba/ETH",
-    "description": "Via Router, cross-chain router to ensure users can find the most efficient way to bridge assets.",
-    "type": "Bridge",
-    "visible": true
-  },
-  {
-    "icon": {
       "light": "light/wefi.svg",
       "dark": "dark/wefi.svg"
     },
