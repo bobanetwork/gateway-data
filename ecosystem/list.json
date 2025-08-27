@@ -25,18 +25,6 @@
   },
   {
     "icon": {
-      "light": "light/add3.svg",
-      "dark": "dark/add3.svg"
-    },
-    "name": "Add3",
-    "website": "add3.io",
-    "link": "https://www.add3.io/",
-    "description": "Launch your Web3 EVM project in under a minute. Impress VC investors and build loyalty with rewards and a custom dApp, just Add3.",
-    "type": "Tools",
-    "visible": true
-  },
-  {
-    "icon": {
       "light": "light/antiersolutions.svg",
       "dark": "dark/antiersolutions.svg"
     },
