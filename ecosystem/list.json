@@ -25,18 +25,6 @@
   },
   {
     "icon": {
-      "light": "light/add3.svg",
-      "dark": "dark/add3.svg"
-    },
-    "name": "Add3",
-    "website": "add3.io",
-    "link": "https://www.add3.io/",
-    "description": "Launch your Web3 EVM project in under a minute. Impress VC investors and build loyalty with rewards and a custom dApp, just Add3.",
-    "type": "Tools",
-    "visible": true
-  },
-  {
-    "icon": {
       "light": "light/antiersolutions.svg",
       "dark": "dark/antiersolutions.svg"
     },
@@ -45,18 +33,6 @@
     "link": "https://www.antiersolutions.com/",
     "description": "A full-stack blockchain consulting firm with a strong foundation in building DeFi products, Metaverse/gaming ecosystems, and a wide range of enterprise blockchain dApps.",
     "type": "Decentralized finance",
-    "visible": true
-  },
-  {
-    "icon": {
-      "light": "light/bkex.svg",
-      "dark": "dark/bkex.svg"
-    },
-    "name": "BTCEX",
-    "website": "bkex.com",
-    "link": "https://www.btcex.com/en-us/spot?target=BOBA-USDT",
-    "description": "BKEX is a global Fiat trading exchange that offers OTC trading.",
-    "type": "Centralized exchange",
     "visible": true
   },
   {
@@ -81,18 +57,6 @@
     "link": "https://banxa.com/",
     "description": "Banxa is the leading global Web3 on-and-off ramp solution.",
     "type": "Onramp",
-    "visible": true
-  },
-  {
-    "icon": {
-      "light": "light/beamer_bridge.svg",
-      "dark": "dark/beamer_bridge.svg"
-    },
-    "name": "Beamer bridge",
-    "website": "beamerbridge.com",
-    "link": "https://app.beamerbridge.com/#/",
-    "description": "Beam your ERC20 assets between EVM compatible rollups with certainty, speed and security.",
-    "type": "Bridge",
     "visible": true
   },
   {
@@ -129,18 +93,6 @@
     "link": "https://bitkeep.com/en/swap/boba/0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7",
     "description": "An easy-to-use Web3 wallet.",
     "type": "Wallet",
-    "visible": true
-  },
-  {
-    "icon": {
-      "light": "light/bkex.svg",
-      "dark": "dark/bkex.svg"
-    },
-    "name": "Bkex",
-    "website": "bkex.com",
-    "link": "https://www.bkex.com/trade/BOBA_USDT",
-    "description": "BKEX is a blockchain derivatives service platform.",
-    "type": "Centralized exchange",
     "visible": true
   },
   {
@@ -186,7 +138,7 @@
     },
     "name": "BoringDAO",
     "website": "boringdao.com",
-    "link": "https://oportal.boringdao.com/twoway?tab=0&target_chain_id=288",
+    "link": "https://www.boringdao.com/twoway?tab=0&target_chain_id=288",
     "description": "BoringDAO The ultimate DAO-driven inter-blockchain hub for Web 3.0. Multi-Chain Solutions for Every Crypto Asset.",
     "type": "Bridge",
     "visible": true
@@ -196,9 +148,9 @@
       "light": "light/bundlr_network.svg",
       "dark": "dark/bundlr_network.svg"
     },
-    "name": "Bundlr network",
-    "website": "budlr.network",
-    "link": "http://bundlr.network/",
+    "name": "Irys",
+    "website": "irys.xyz",
+    "link": "http://irys.xyz/",
     "description": "The fastest, easiest way to store data on Web3.",
     "type": "Tools",
     "visible": true
@@ -282,7 +234,7 @@
     },
     "name": "Coinbase",
     "website": "coinbase.com",
-    "link": "https://www.coinbase.com/advanced-trade/BOBA-USD",
+    "link": "https://www.coinbase.com",
     "description": "Coinbase is one of the most known cryptocurrency trading and investment platforms in the world.",
     "type": "Centralized exchange",
     "visible": true
@@ -345,18 +297,6 @@
     "link": "https://debank.com/",
     "description": "Debank is a dashboard for tracking your DeFi portfolio",
     "type": "Tools",
-    "visible": true
-  },
-  {
-    "icon": {
-      "light": "light/defungify.svg",
-      "dark": "dark/defungify.svg"
-    },
-    "name": "Defungify",
-    "website": ".defungify.app/",
-    "link": "https://www2.defungify.app/",
-    "description": "Convert your in-game items into NFTs and more with Defungify’s full suite of blockchain agnostic tools for game development.",
-    "type": "Gaming",
     "visible": true
   },
   {
@@ -834,8 +774,8 @@
       "dark": "dark/subquery.svg"
     },
     "name": "Subquery",
-    "website": "subquery.network/home",
-    "link": "https://subquery.network/home",
+    "website": "subquery.network",
+    "link": "https://subquery.network",
     "description": "Pioneering fast, flexible, and scalable decentralized infrastructure, they power Web3’s transition to an open, efficient and user-centric future.",
     "type": "Tools",
     "visible": true
@@ -931,21 +871,9 @@
     },
     "name": "Unidex",
     "website": "unidex.exchange",
-    "link": "https://app.unidex.exchange/trading/288/",
+    "link": "https://app.unidex.exchange/?chain=boba",
     "description": "UniDex's mission is to provide the most seamless trading experience in a truly decentralized fashion.",
     "type": "Decentralized finance",
-    "visible": true
-  },
-  {
-    "icon": {
-      "light": "light/via.svg",
-      "dark": "dark/via.svg"
-    },
-    "name": "Via protocol",
-    "website": "via.exchange",
-    "link": "https://router.via.exchange/ethereum/ETH/boba/ETH",
-    "description": "Via Router, cross-chain router to ensure users can find the most efficient way to bridge assets.",
-    "type": "Bridge",
     "visible": true
   },
   {
