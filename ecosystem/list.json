@@ -37,6 +37,18 @@
   },
   {
     "icon": {
+      "light": "light/balmy.svg",
+      "dark": "dark/balmy.svg"
+    },
+    "name": "Balmy",
+    "website": "balmy.xyz/",
+    "link": "https://app.balmy.xyz/swap",
+    "description": "Get access to a meta-aggregator and find the best routes",
+    "type": "Decentralized finance",
+    "visible": true
+  },
+  {
+    "icon": {
       "light": "light/banxa.svg",
       "dark": "dark/banxa.svg"
     },
