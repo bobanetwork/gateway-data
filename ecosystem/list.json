@@ -145,6 +145,18 @@
   },
   {
     "icon": {
+      "light": "light/lucid.svg",
+      "dark": "dark/lucid.svg"
+    },
+    "name": "Lucid Labs",
+    "website": "https://www.lucidlabs.fi/",
+    "link": "https://app.lucidlabs.fi/bridge",
+    "description": "The Unified Liquidity Layer for Ethereum and Beyond",
+    "type": "Bridge",
+    "visible": true
+  },
+  {
+    "icon": {
       "light": "light/bundlr_network.svg",
       "dark": "dark/bundlr_network.svg"
     },
