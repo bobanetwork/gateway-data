@@ -605,9 +605,9 @@
       "light": "light/bobaEth.svg",
       "dark": "dark/bobaEth.svg"
     },
-    "name": "Official Bridge - Ethereum",
-    "website": "gateway.boba.network/bridge",
-    "link": "https://gateway.boba.network/bridge",
+    "name": "Boba Official Bridge - Ethereum",
+    "website": "hub.boba.network/bridge",
+    "link": "https://hub.boba.network/bridge",
     "description": "Use the official Boba bridge to transfer assets from Ethereum to Boba.",
     "type": "Bridge",
     "visible": true

@@ -1,8 +1,33 @@
 [
   {
-    "name": "Banxa",
-    "icon": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/bridges/icons/banxa.svg",
-    "link": "https://boba.banxa.com/"
+    "name": "BoringDAO",
+    "icon": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/ecosystem/icons/light/boringdao.svg",
+    "link": "https://www.boringdao.com/twoway?tab=0&target_chain_id=288"
+  },
+  {
+    "name": "Celer",
+    "icon": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/ecosystem/icons/light/celer_bridge.svg",
+    "link": "https://cbridge.celer.network/1/288/BOBA"
+  },
+  {
+    "name": "Rango exchange",
+    "icon": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/ecosystem/icons/light/rango_exchange.svg",
+    "link": "https://app.rango.exchange/swap/ETH.BOBA--0x42bbfa2e77757c645eeaad1655e0911a7553efbc/BOBA.ETH"
+  },
+  {
+    "name": "Relay",
+    "icon": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/ecosystem/icons/light/relay.svg",
+    "link": "https://relay.link/"
+  },
+  {
+    "name": "Router Nitro",
+    "icon": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/ecosystem/icons/light/router_nitro.svg",
+    "link": "https://nitro.routerprotocol.com/"
+  },
+  {
+    "name": "Rubic exchange",
+    "icon": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/ecosystem/icons/light/rubic_exchange.svg",
+    "link": "https://app.rubic.exchange/"
   },
   {
     "name": "Symbiosis",
@@ -10,9 +35,19 @@
     "link": "https://app.symbiosis.finance/swap?chainIn=Ethereum&chainOut=Boba%20Ethereum&tokenIn=ETH&tokenOut=ETH"
   },
   {
+    "name": "Synapse",
+    "icon": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/ecosystem/icons/light/synapse.svg",
+    "link": "https://synapseprotocol.com/?inputCurrency=ETH&outputCurrency=ETH&outputChain=288"
+  },
+  {
     "name": "IceCreamSwap",
     "iconLight": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/bridges/icons/light/icecreamswap_light.png",
     "iconDark": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/bridges/icons/dark/icecreamswap_dark.png",
     "link": "https://icecreamswap.com/bridge?chain=boba"
+  },
+  {
+    "name": "Boba Official Bridge - Ethereum",
+    "icon": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/ecosystem/icons/light/bobaEth.svg",
+    "link": "https://hub.boba.network/bridge"
   }
 ]
