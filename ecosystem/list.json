@@ -145,6 +145,18 @@
   },
   {
     "icon": {
+      "light": "light/lucid_light.svg",
+      "dark": "dark/lucid_dark.svg"
+    },
+    "name": "Lucid Labs",
+    "website": "https://www.lucidlabs.fi/",
+    "link": "https://app.lucidlabs.fi/bridge",
+    "description": "The Unified Liquidity Layer for Ethereum and Beyond",
+    "type": "Bridge",
+    "visible": true
+  },
+  {
+    "icon": {
       "light": "light/bundlr_network.svg",
       "dark": "dark/bundlr_network.svg"
     },
@@ -605,9 +617,9 @@
       "light": "light/bobaEth.svg",
       "dark": "dark/bobaEth.svg"
     },
-    "name": "Official Bridge - Ethereum",
-    "website": "gateway.boba.network/bridge",
-    "link": "https://gateway.boba.network/bridge",
+    "name": "Boba Official Bridge - Ethereum",
+    "website": "hub.boba.network/bridge",
+    "link": "https://hub.boba.network/bridge",
     "description": "Use the official Boba bridge to transfer assets from Ethereum to Boba.",
     "type": "Bridge",
     "visible": true
@@ -722,8 +734,8 @@
   },
   {
     "icon": {
-      "light": "light/router_nitro.svg",
-      "dark": "dark/router_nitro.svg"
+      "light": "light/nitro_light.svg",
+      "dark": "dark/nitro_dark.svg"
     },
     "name": "Router Nitro",
     "website": "nitro.routerprotocol.com",
@@ -734,8 +746,8 @@
   },
   {
     "icon": {
-      "light": "light/rubic_exchange.svg",
-      "dark": "dark/rubic_exchange.svg"
+      "light": "light/rubic_light.svg",
+      "dark": "dark/rubic_dark.svg"
     },
     "name": "Rubic exchange",
     "website": "app.rubic.exchange",

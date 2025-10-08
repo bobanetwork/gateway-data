@@ -1,18 +1,33 @@
 [
   {
-    "name": "Banxa",
-    "icon": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/bridges/icons/banxa.svg",
-    "link": "https://boba.banxa.com/"
+    "name": "Relay",
+    "iconLight": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/ecosystem/icons/light/relay.svg",
+    "iconDark": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/ecosystem/icons/dark/relay.svg",
+    "link": "https://relay.link/"
   },
   {
     "name": "Symbiosis",
-    "icon": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/bridges/icons/symbiosis.svg",
+    "iconLight": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/ecosystem/icons/light/symbiosis.svg",
+    "iconDark": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/ecosystem/icons/dark/symbiosis.svg",
     "link": "https://app.symbiosis.finance/swap?chainIn=Ethereum&chainOut=Boba%20Ethereum&tokenIn=ETH&tokenOut=ETH"
   },
   {
+    "name": "Lucid",
+    "iconLight": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/ecosystem/icons/light/lucid_light.svg",
+    "iconDark": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/ecosystem/icons/dark/lucid_dark.svg",
+    "link": "https://app.lucidlabs.fi/bridge"
+  },
+  {
     "name": "IceCreamSwap",
-    "iconLight": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/bridges/icons/light/icecreamswap_light.png",
-    "iconDark": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/bridges/icons/dark/icecreamswap_dark.png",
+    "iconLight": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/ecosystem/icons/light/icecreamswap.svg",
+    "iconDark": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/ecosystem/icons/dark/icecreamswap.svg",
     "link": "https://icecreamswap.com/bridge?chain=boba"
+  },
+  {
+    "name": "Boba Official Bridge - Ethereum",
+    "icon": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/ecosystem/icons/light/bobaEth.svg",
+    "iconLight": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/ecosystem/icons/light/bobaEth.svg",
+    "iconDark": "https://raw.githubusercontent.com/bobanetwork/gateway-data/main/ecosystem/icons/dark/bobaEth.svg",
+    "link": "https://hub.boba.network/bridge"
   }
 ]
