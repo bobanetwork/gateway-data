@@ -41,3 +41,16 @@ To add or remove projects from the JSON data, please follow these steps:
 ```ssh
 find . -type f \( -name '*Dega*.svg' -o -name '*Dega*.webp' \) -delete
 ```
+
+
+## Ecosystem List Has 
+
+**Tools (15 apps)** - Development tools, data platforms, security tools
+**Decentralized finance (20 apps)** - DEXs, lending platforms, DeFi protocols
+**Centralized exchange (12 apps)** - CEXs like Coinbase, Binance, etc.
+**Wallet (10 apps)** - Crypto wallets
+**Oracles (6 apps)** - Price feed and data oracles
+**Bridge (9 apps)** - Cross-chain bridges (already updated)
+**NFT (2 apps)** - NFT marketplaces and platforms
+**Gaming (1 app)** - Gaming platforms
+**Onramp (1 app)** - Fiat to crypto onramp
