@@ -145,8 +145,8 @@
   },
   {
     "icon": {
-      "light": "light/lucid.svg",
-      "dark": "dark/lucid.svg"
+      "light": "light/lucid_light.svg",
+      "dark": "dark/lucid_dark.svg"
     },
     "name": "Lucid Labs",
     "website": "https://www.lucidlabs.fi/",
@@ -734,8 +734,8 @@
   },
   {
     "icon": {
-      "light": "light/router_nitro.svg",
-      "dark": "dark/router_nitro.svg"
+      "light": "light/nitro_light.svg",
+      "dark": "dark/nitro_dark.svg"
     },
     "name": "Router Nitro",
     "website": "nitro.routerprotocol.com",
@@ -746,8 +746,8 @@
   },
   {
     "icon": {
-      "light": "light/rubic_exchange.svg",
-      "dark": "dark/rubic_exchange.svg"
+      "light": "light/rubic_light.svg",
+      "dark": "dark/rubic_dark.svg"
     },
     "name": "Rubic exchange",
     "website": "app.rubic.exchange",
