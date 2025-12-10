@@ -1016,7 +1016,7 @@
     "website": "www.zebec.io",
     "link": "https://www.zebec.io/",
     "description": "Zebec is a decentralized network for real-time payments, payroll, and crypto cards, bridging Web3 with traditional finance.",
-    "type": "Wallet / On-Ramp",
+    "type": "Onramp",
     "visible": true
   },
   {
@@ -1076,7 +1076,7 @@
     "website": "metasoccer.com",
     "link": "https://metasoccer.com/",
     "description": "MetaSoccer is a Web3 football manager game where players own clubs, train talent, and earn through NFTs.",
-    "type": "Game",
+    "type": "gaming",
     "visible": true
   },
   {
@@ -1148,7 +1148,7 @@
     "website": "www.rwa.inc",
     "link": "https://www.rwa.inc/",
     "description": "RWA Inc is a tokenization & investment platform enabling people to invest in early-stage startups via token offerings.",
-    "type": "DeFi",
+    "type": "Decentralized finance",
     "visible": true
   },
   {
@@ -1160,7 +1160,7 @@
     "website": "www.ionprotocol.com",
     "link": "https://www.ionprotocol.com/",
     "description": "Ion Protocol is a DeFi money market for staked and restaked assets, letting users lend or borrow against those without being exposed to price-based liquidation risk.",
-    "type": "DeFi",
+    "type": "Decentralized finance",
     "visible": true
   },
   {
@@ -1268,7 +1268,7 @@
     "website": "chimpx.ai",
     "link": "https://chimpx.ai/",
     "description": "ChimpX is an AI DeFi superapp for trading, bridging, investing, and portfolio management gas-free.",
-    "type": "DeFi",
+    "type": "Decentralized finance",
     "visible": true
   },
   {
