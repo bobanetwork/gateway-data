@@ -9,7 +9,7 @@ const config = {
   // Quality of WebP (0-100)
   quality: 90,
   // Recursively search through these directories
-  directories: ['./bridges/icons','./ecosystem/icons'],
+  directories: ['./ecosystem/icons/new'],
   // Number of conversions to run in parallel
   concurrency: 4
 };
@@ -21,24 +21,29 @@ const config = {
  */
 async function convertSvgToWebp(filePath) {
   try {
-    const webpPath = filePath.replace('.svg', '.webp');
-    
-    // Read SVG file
+    const file = path.basename(filePath);          // Alchemy_Light.svg
+    const base = file.replace(/_(Light|dark)\.svg$/i,""); // Alchemy
+    const variant = /_Light/i.test(file) ? "light" : "dark";
+
+    const outputFolder = path.join("ecosystem","icons",variant); // e.g. output/light
+    await fs.mkdir(outputFolder,{recursive: true});
+
+    const webpPath = path.join(outputFolder,`${base.toLowerCase()}.webp`);
+
     const svgBuffer = await fs.readFile(filePath);
-    
-    // Convert to WebP using sharp
+
     await sharp(svgBuffer)
       .webp({ quality: config.quality })
       .toFile(webpPath);
-    
-    console.log(`✅ Converted: ${path.basename(filePath)} → ${path.basename(webpPath)}`);
+
+    console.log(`✅ Converted: ${file} → ${webpPath}`);
     return webpPath;
+
   } catch (error) {
     console.error(`❌ Error converting ${filePath}:`, error.message);
     throw error;
   }
 }
-
 /**
  * Process files in chunks to control concurrency
  * @param {Array} items - Array of items to process
