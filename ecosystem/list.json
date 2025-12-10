@@ -67,7 +67,7 @@
     "name": "Bitbank",
     "website": "bitbank.cc",
     "link": "https://app.bitbank.cc/trade/boba_jpy",
-    "description": "Bitbank is the Crypto Assets Exchange which can buy and sell the popular Crypto Assets.",
+    "description": "Bitbank is\u00a0the Crypto Assets Exchange which can buy and sell the popular Crypto Assets.",
     "type": "Centralized exchange",
     "visible": true
   },
@@ -79,7 +79,7 @@
     "name": "Bithumb",
     "website": "bithumb.com",
     "link": "https://en.bithumb.com/trade/order/BOBA_KRW",
-    "description": "Bithumb is a South Korean cryptocurrency exchange founding in 2014.",
+    "description": "Bithumb\u00a0is a South Korean cryptocurrency exchange founding in 2014.",
     "type": "Centralized exchange",
     "visible": true
   },
@@ -187,7 +187,7 @@
     "name": "Bybit",
     "website": "bybit.com",
     "link": "https://www.bybit.com/en-US/trade/spot/BOBA/USDT",
-    "description": "Bybit is a cryptocurrency exchange established in March 2018.",
+    "description": "Bybit is\u00a0a cryptocurrency exchange established in March 2018.",
     "type": "Centralized exchange",
     "visible": true
   },
@@ -235,7 +235,7 @@
     "name": "CoinDCX",
     "website": "coindcx.com",
     "link": "https://coindcx.com/",
-    "description": "India’s most valuable crypto investment app, dedicated to make crypto accessible in a simple way.",
+    "description": "India's most valuable crypto investment app, dedicated to make crypto accessible in a simple way.",
     "type": "Centralized exchange",
     "visible": true
   },
@@ -259,7 +259,7 @@
     "name": "Coinex",
     "website": "coinex.com",
     "link": "https://www.coinex.com/info/BOBA",
-    "description": "CoinEx is a professional global cryptocurrency exchange.",
+    "description": "CoinEx is\u00a0a professional global cryptocurrency exchange.",
     "type": "Centralized exchange",
     "visible": true
   },
@@ -331,7 +331,7 @@
     "name": "Digifinex",
     "website": "digifinex.com",
     "link": "https://www.digifinex.com/en-ww/trade/USDT/BOBA",
-    "description": "DigiFinex is a digital assets trading platform.",
+    "description": "DigiFinex is\u00a0a digital assets trading platform.",
     "type": "Centralized exchange",
     "visible": true
   },
@@ -376,7 +376,7 @@
       "light": "light/dcent.svg",
       "dark": "dark/dcent.svg"
     },
-    "name": "D’Cent",
+    "name": "D'Cent",
     "website": "dcentwallet.com",
     "link": "https://dcentwallet.com/",
     "description": "The easiest and safest hardware wallet.",
@@ -439,7 +439,7 @@
     "name": "Gelato",
     "website": "gelato.network",
     "link": "https://www.gelato.network/",
-    "description": "Web3’s decentralized backend; empowering builders to create automated, gasless & off-chain aware applications.",
+    "description": "Web3's decentralized backend; empowering builders to create automated, gasless & off-chain aware applications.",
     "type": "Tools",
     "visible": true
   },
@@ -455,7 +455,6 @@
     "type": "Decentralized finance",
     "visible": false
   },
-  
   {
     "icon": {
       "light": "light/huobi.svg",
@@ -464,7 +463,7 @@
     "name": "Huobi",
     "website": "huobi.com",
     "link": "https://www.huobi.com/en-us/exchange/boba_usdt/",
-    "description": "Huobi Global is a cryptocurrency exchange with a strong presence in the Asian markets.",
+    "description": "Huobi Global is\u00a0a cryptocurrency exchange with a strong presence in the Asian markets.",
     "type": "Centralized exchange",
     "visible": true
   },
@@ -524,7 +523,7 @@
     "name": "LendLand",
     "website": "lendland.io",
     "link": "https://lendland.io/",
-    "description": "Boba Network’s first lending platform, redefining lending with user-friendly tools for DeFi fans.",
+    "description": "Boba Network's first lending platform, redefining lending with user-friendly tools for DeFi fans.",
     "type": "Decentralized finance",
     "visible": true
   },
@@ -536,7 +535,7 @@
     "name": "MEXC Global",
     "website": "mexc.com",
     "link": "https://www.mexc.com/exchange/BOBA_USDT",
-    "description": "MEXC Global is a digital asset exchanges.",
+    "description": "MEXC Global is\u00a0a digital asset exchanges.",
     "type": "Centralized exchange",
     "visible": true
   },
@@ -596,7 +595,7 @@
     "name": "OKX.com",
     "website": "okx.com",
     "link": "https://www.okx.com/web3",
-    "description": "OKX is an interoperable and powerful Web 3.0 wallet.",
+    "description": "OKX is an interoperable and powerful Web 3.0\u00a0wallet.",
     "type": "Tools",
     "visible": true
   },
@@ -632,7 +631,7 @@
     "name": "Oku",
     "website": "oku.trade",
     "link": "https://oku.trade/",
-    "description": "Trade professionally with Oku, and advanced frontend for the Uniswap v3 protocol.",
+    "description": "Oku is a premier DeFi aggregator live on 35+ chains offering 0% fees across 14 swap and 14 bridge routers to connect users with S-tier apps in crypto. As a leading interface for Uniswap v3 and Morpho, Oku makes transacting 1000+ tokens across EVM chains seamless and fast.",
     "type": "Decentralized finance",
     "visible": true
   },
@@ -656,7 +655,7 @@
     "name": "Poloniex",
     "website": "poloniex.com",
     "link": "https://poloniex.com/spot/BOBA_USDT",
-    "description": "Poloniex is a cryptocurrency exchange that allows you to buy or sell digital assets.",
+    "description": "Poloniex is\u00a0a cryptocurrency exchange that allows you to buy or sell digital assets.",
     "type": "Centralized exchange",
     "visible": true
   },
@@ -680,7 +679,7 @@
     "name": "Pyth Network",
     "website": "pyth.network",
     "link": "https://www.pyth.network/",
-    "description": "Pyth connects high-fidelity market data from the world’s largest professional traders and exchanges to any smart contract, anywhere",
+    "description": "Pyth connects high-fidelity market data from the world's largest professional traders and exchanges to any smart contract, anywhere",
     "type": "Oracles",
     "visible": true
   },
@@ -788,7 +787,7 @@
     "name": "Subquery",
     "website": "subquery.network",
     "link": "https://subquery.network",
-    "description": "Pioneering fast, flexible, and scalable decentralized infrastructure, they power Web3’s transition to an open, efficient and user-centric future.",
+    "description": "Pioneering fast, flexible, and scalable decentralized infrastructure, they power Web3's transition to an open, efficient and user-centric future.",
     "type": "Tools",
     "visible": true
   },
@@ -920,7 +919,7 @@
     "name": "Woo Network",
     "website": "x.woo.org",
     "link": "https://x.woo.org/en/markets",
-    "description": "WOO Network is a liquidity network that connects crypto exchanges, traders, and DeFi platforms.",
+    "description": "WOO Network is\u00a0a liquidity network that connects crypto exchanges, traders, and DeFi platforms.",
     "type": "Centralized exchange",
     "visible": true
   },
@@ -982,6 +981,330 @@
     "link": "https://www.nucleusearn.io/",
     "description": "Nucleus-supported networks allow you to passively generate yield while exploring new ecosystems",
     "type": "Decentralized finance",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/revolut.svg",
+      "dark": "dark/revolut.svg"
+    },
+    "name": "Revolut",
+    "website": "www.revolut.com",
+    "link": "https://www.revolut.com/crypto/",
+    "description": "Buy and sell BOBA instantly alongside 200+ cryptocurrencies in the app you already use for everyday banking.",
+    "type": "Centralized exchange",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/bitpanda.svg",
+      "dark": "dark/bitpanda.svg"
+    },
+    "name": "BitPanda",
+    "website": "www.bitpanda.com",
+    "link": "https://www.bitpanda.com/",
+    "description": "Europe's go-to platform to trade 390 + crypto assets, stocks, metals & ETFs from just \u20ac1.",
+    "type": "Centralized exchange",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/zebec.svg",
+      "dark": "dark/zebec.svg"
+    },
+    "name": "Zebec",
+    "website": "www.zebec.io",
+    "link": "https://www.zebec.io/",
+    "description": "Zebec is a decentralized network for real-time payments, payroll, and crypto cards, bridging Web3 with traditional finance.",
+    "type": "Wallet / On-Ramp",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/openpad.svg",
+      "dark": "dark/openpad.svg"
+    },
+    "name": "OpenPad",
+    "website": "openpad.io",
+    "link": "https://openpad.io/homepage",
+    "description": "OpenPad is an AI-powered Web3 launchpad that helps projects raise funds and investors discover token launches.",
+    "type": "Tools",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/alchemy.svg",
+      "dark": "dark/alchemy.svg"
+    },
+    "name": "Alchemy",
+    "website": "www.alchemy.com",
+    "link": "https://www.alchemy.com/",
+    "description": "Alchemy is a Web3 developer platform offering APIs and tools to build blockchain apps.",
+    "type": "Tools",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/flipside.svg",
+      "dark": "dark/flipside.svg"
+    },
+    "name": "Flipside",
+    "website": "flipsidecrypto.xyz",
+    "link": "https://flipsidecrypto.xyz/home/",
+    "description": "Flipside is a blockchain growth platform that leverages AI and on-chain data to find top users, deliver insights, and run incentive campaigns.",
+    "type": "Tools",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/dappradar.svg",
+      "dark": "dark/dappradar.svg"
+    },
+    "name": "DappRadar",
+    "website": "dappradar.com",
+    "link": "https://dappradar.com/",
+    "description": "DappRadar is a Web3 app store that tracks dapps, NFTs, DeFi, and GameFi, offering analytics and portfolio tools.",
+    "type": "Tools",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/metasoccer.svg",
+      "dark": "dark/metasoccer.svg"
+    },
+    "name": "Metasoccer",
+    "website": "metasoccer.com",
+    "link": "https://metasoccer.com/",
+    "description": "MetaSoccer is a Web3 football manager game where players own clubs, train talent, and earn through NFTs.",
+    "type": "Game",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/qstn.svg",
+      "dark": "dark/qstn.svg"
+    },
+    "name": "QSTN",
+    "website": "qstn.us",
+    "link": "https://qstn.us/",
+    "description": "QSTN is an NFT marketplace platform focused on digital art and collectibles.",
+    "type": "Tools",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/orochi.svg",
+      "dark": "dark/orochi.svg"
+    },
+    "name": "Orochi",
+    "website": "orochi.network",
+    "link": "https://orochi.network/",
+    "description": "Orochi Network provides verifiable Web3 data using zero-knowledge proofs for secure, private, and scalable access.",
+    "type": "Tools",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/biconomy.svg",
+      "dark": "dark/biconomy.svg"
+    },
+    "name": "Biconomy",
+    "website": "www.biconomy.io",
+    "link": "https://www.biconomy.io/",
+    "description": "Biconomy simplifies Web3 with account abstraction, gasless transactions, and flexible gas payments.",
+    "type": "Tools",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/bitvavo.svg",
+      "dark": "dark/bitvavo.svg"
+    },
+    "name": "Bitvavo",
+    "website": "bitvavo.com",
+    "link": "https://bitvavo.com/en",
+    "description": "Bitvavo is a European crypto exchange that lets users buy, sell, store, and earn on 400+ digital assets with low fees and full regulatory compliance.",
+    "type": "Centralized exchange",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/mvhq.svg",
+      "dark": "dark/mvhq.svg"
+    },
+    "name": "MVHQ",
+    "website": "www.mvhq.io",
+    "link": "https://www.mvhq.io/",
+    "description": "Metaverse HQ (MVHQ) is a Web3 rewards & insight platform where users join a community of traders/builders to get strategies, exclusive content, and rewards.",
+    "type": "Tools",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/rwa.svg",
+      "dark": "dark/rwa.svg"
+    },
+    "name": "RWA",
+    "website": "www.rwa.inc",
+    "link": "https://www.rwa.inc/",
+    "description": "RWA Inc is a tokenization & investment platform enabling people to invest in early-stage startups via token offerings.",
+    "type": "DeFi",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/ion.svg",
+      "dark": "dark/ion.svg"
+    },
+    "name": "Ion Protocol",
+    "website": "www.ionprotocol.com",
+    "link": "https://www.ionprotocol.com/",
+    "description": "Ion Protocol is a DeFi money market for staked and restaked assets, letting users lend or borrow against those without being exposed to price-based liquidation risk.",
+    "type": "DeFi",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/fuzzland.svg",
+      "dark": "dark/fuzzland.svg"
+    },
+    "name": "Fuzzland",
+    "website": "fuzz.land",
+    "link": "https://fuzz.land/",
+    "description": "Fuzzland secures blockchains with 24/7 testing, AI, and real-time protection for smart contracts.",
+    "type": "Tools",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/cryptio.svg",
+      "dark": "dark/cryptio.svg"
+    },
+    "name": "Cryptio",
+    "website": "cryptio.co",
+    "link": "https://cryptio.co/",
+    "description": "Cryptio provides accounting, audit, and tax reporting software for digital assets and enterprises.",
+    "type": "Tools",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/hexens.svg",
+      "dark": "dark/hexens.svg"
+    },
+    "name": "Hexens",
+    "website": "hexens.io",
+    "link": "https://hexens.io/",
+    "description": "A Web3 cybersecurity firm offering audits, pentesting, and advisory services to secure smart contracts and blockchain systems.",
+    "type": "Tools",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/symbiote.svg",
+      "dark": "dark/symbiote.svg"
+    },
+    "name": "Symbiote",
+    "website": "symbiote.gg",
+    "link": "https://symbiote.gg/",
+    "description": "A platform helping Web3/NFT projects grow via community, rewards, and engagement tools.",
+    "type": "NFT",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/rayo.svg",
+      "dark": "dark/rayo.svg"
+    },
+    "name": "Rayo",
+    "website": "rayo.gg",
+    "link": "https://rayo.gg/",
+    "description": "A community-curated platform for discovering Web3 projects (DeFi, NFTs, DAOs etc.), letting people vote, submit listings, and explore by chain.",
+    "type": "Tools",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/bubblemaps.svg",
+      "dark": "dark/bubblemaps.svg"
+    },
+    "name": "BubbleMaps",
+    "website": "bubblemaps.io",
+    "link": "https://bubblemaps.io/",
+    "description": "Bubblemaps is a Web3 tool that visualizes token/NFT supply & wallet connections using interactive bubble charts for easier on-chain analysis.",
+    "type": "Tools",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/lifi.svg",
+      "dark": "dark/lifi.svg"
+    },
+    "name": "Li.Fi",
+    "website": "li.fi",
+    "link": "https://li.fi/",
+    "description": "LI.FI aggregates DEXs and bridges into one API, enabling seamless cross-chain swaps and liquidity access across many blockchains.",
+    "type": "Bridge",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/blockspaces.svg",
+      "dark": "dark/blockspaces.svg"
+    },
+    "name": "Blockspaces",
+    "website": "www.blockspaces.com",
+    "link": "https://www.blockspaces.com/",
+    "description": "BlockSpaces lets institutions use Bitcoin as programmable collateral with risk tools and settlements.",
+    "type": "Tools",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/chimpxai.svg",
+      "dark": "dark/chimpxai.svg"
+    },
+    "name": "Chimp X AI",
+    "website": "chimpx.ai",
+    "link": "https://chimpx.ai/",
+    "description": "ChimpX is an AI DeFi superapp for trading, bridging, investing, and portfolio management gas-free.",
+    "type": "DeFi",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/dune.svg",
+      "dark": "dark/dune.svg"
+    },
+    "name": "Dune",
+    "website": "dune.com",
+    "link": "https://dune.com/home",
+    "description": "Dune is a Web3 data and analytics platform that lets users query, visualize, and explore on-chain data across many blockchains.",
+    "type": "Tools",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/chainport.svg",
+      "dark": "dark/chainport.svg"
+    },
+    "name": "ChainPort",
+    "website": "www.chainport.io",
+    "link": "https://www.chainport.io/",
+    "description": "ChainPort is a secure cross-chain bridge enabling fast token transfers across 20+ blockchains.",
+    "type": "Bridge",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/hyperlane.svg",
+      "dark": "dark/hyperlane.svg"
+    },
+    "name": "HyperLane",
+    "website": "hyperlane.xyz",
+    "link": "https://hyperlane.xyz/",
+    "description": "Hyperlane is a permissionless interoperability protocol for cross-chain messaging and token bridging.",
+    "type": "Bridge",
     "visible": true
   }
 ]
