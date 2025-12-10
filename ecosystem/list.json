@@ -1004,7 +1004,7 @@
     "website": "www.bitpanda.com",
     "link": "https://www.bitpanda.com/",
     "description": "Europe's go-to platform to trade 390 + crypto assets, stocks, metals & ETFs from just \u20ac1.",
-    "type": "Centralized Exchange",
+    "type": "Centralized exchange",
     "visible": true
   },
   {
@@ -1124,7 +1124,7 @@
     "website": "bitvavo.com",
     "link": "https://bitvavo.com/en",
     "description": "Bitvavo is a European crypto exchange that lets users buy, sell, store, and earn on 400+ digital assets with low fees and full regulatory compliance.",
-    "type": "Centralized Exchange",
+    "type": "Centralized exchange",
     "visible": true
   },
   {

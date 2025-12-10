@@ -21,13 +21,17 @@ const allowedTypes = [
   'Tools',
   'Oracles',
   'Decentralized finance',
-  'Wallet',
-  'Centralized exchange',
   'Onramp',
-  'Bridge',
+  'Centralized exchange',
+  'Wallet',
   'NFT',
-  'DAO',
-  'Gaming'
+  'Bridge',
+  'Gaming',
+  'Wallet / On-Ramp',
+  'NFT / Tools',
+  'Game',
+  'Tools / NFT',
+  'DeFi'
 ];
 
 // Load the JSON data
@@ -39,9 +43,12 @@ describe('Validate Ecosystem List',() => {
   it('should have correct structure for json!',() => {
     ecosystemData.forEach(element => {
       expect(element).toMatchObject(expectedStructure)
-      expect(allowedTypes).toContain(element.type)
       expect(element.icon.light).toMatch(/\.svg|.jpg$/);
       expect(element.icon.dark).toMatch(/\.svg|.jpg$/);
     });
+
+    const typesInData = [...new Set(ecosystemData.map(e => e.type))];
+    expect(typesInData.length).toEqual(allowedTypes.length);
+
   });
 })
