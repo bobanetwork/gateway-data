@@ -27,8 +27,6 @@ const allowedTypes = [
   'NFT',
   'Bridge',
   'Gaming',
-  'Wallet / On-Ramp',
-  'Game',
   'DeFi'
 ];
 
