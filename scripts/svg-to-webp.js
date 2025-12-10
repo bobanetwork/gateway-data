@@ -29,14 +29,17 @@ async function convertSvgToWebp(filePath) {
     await fs.mkdir(outputFolder,{recursive: true});
 
     const webpPath = path.join(outputFolder,`${base.toLowerCase()}.webp`);
+    const svgPath = path.join(outputFolder,`${base.toLowerCase()}.svg`);
 
     const svgBuffer = await fs.readFile(filePath);
+
+    await fs.writeFile(svgPath,svgBuffer);
 
     await sharp(svgBuffer)
       .webp({ quality: config.quality })
       .toFile(webpPath);
 
-    console.log(`✅ Converted: ${file} → ${webpPath}`);
+    console.log(`✅ Converted & Copied: ${file} → ${webpPath} & ${svgPath}`);
     return webpPath;
 
   } catch (error) {
