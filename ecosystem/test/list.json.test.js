@@ -28,9 +28,7 @@ const allowedTypes = [
   'Bridge',
   'Gaming',
   'Wallet / On-Ramp',
-  'NFT / Tools',
   'Game',
-  'Tools / NFT',
   'DeFi'
 ];
 
@@ -46,7 +44,6 @@ describe('Validate Ecosystem List',() => {
       expect(element.icon.light).toMatch(/\.svg|.jpg$/);
       expect(element.icon.dark).toMatch(/\.svg|.jpg$/);
     });
-
     const typesInData = [...new Set(ecosystemData.map(e => e.type))];
     expect(typesInData.length).toEqual(allowedTypes.length);
 

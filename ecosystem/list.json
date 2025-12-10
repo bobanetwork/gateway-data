@@ -1306,17 +1306,5 @@
     "description": "Hyperlane is a permissionless interoperability protocol for cross-chain messaging and token bridging.",
     "type": "Bridge",
     "visible": true
-  },
-  {
-    "icon": {
-      "light": "light/dune.svg",
-      "dark": "dark/dune.svg"
-    },
-    "name": "Dune",
-    "website": "dune.com",
-    "link": "https://dune.com/home",
-    "description": "Dune is a Web3 data and analytics platform that lets users query, visualize, and explore on-chain data across many blockchains.",
-    "type": "Tools",
-    "visible": true
   }
 ]
