@@ -1028,7 +1028,7 @@
     "website": "openpad.io",
     "link": "https://openpad.io/homepage",
     "description": "OpenPad is an AI-powered Web3 launchpad that helps projects raise funds and investors discover token launches.",
-    "type": "NFT / Tools",
+    "type": "Tools",
     "visible": true
   },
   {
@@ -1088,7 +1088,7 @@
     "website": "qstn.us",
     "link": "https://qstn.us/",
     "description": "QSTN is an NFT marketplace platform focused on digital art and collectibles.",
-    "type": "Tools / NFT",
+    "type": "Tools",
     "visible": true
   },
   {
@@ -1148,6 +1148,18 @@
     "website": "www.rwa.inc",
     "link": "https://www.rwa.inc/",
     "description": "RWA Inc is a tokenization & investment platform enabling people to invest in early-stage startups via token offerings.",
+    "type": "DeFi",
+    "visible": true
+  },
+  {
+    "icon": {
+      "light": "light/ion.svg",
+      "dark": "dark/ion.svg"
+    },
+    "name": "Ion Protocol",
+    "website": "www.ionprotocol.com",
+    "link": "https://www.ionprotocol.com/",
+    "description": "Ion Protocol is a DeFi money market for staked and restaked assets, letting users lend or borrow against those without being exposed to price-based liquidation risk.",
     "type": "DeFi",
     "visible": true
   },
