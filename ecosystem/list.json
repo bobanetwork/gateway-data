@@ -973,18 +973,6 @@
   },
   {
     "icon": {
-      "light": "light/nucleusearn.svg",
-      "dark": "dark/nucleusearn.svg"
-    },
-    "name": "Nucleus",
-    "website": "www.nucleusearn.io",
-    "link": "https://www.nucleusearn.io/",
-    "description": "Nucleus-supported networks allow you to passively generate yield while exploring new ecosystems",
-    "type": "Decentralized finance",
-    "visible": true
-  },
-  {
-    "icon": {
       "light": "light/revolut.svg",
       "dark": "dark/revolut.svg"
     },

@@ -8,15 +8,5 @@
       "light": "light/lynx.svg",
       "dark": "dark/lynx.svg"
     }
-  },
-  {
-    "name": "Nucleus",
-    "visible": true,
-    "link": "https://www.nucleusearn.io/",
-    "description": "Nucleus-supported networks allow you to passively generate yield while exploring new ecosystems",
-    "icon": {
-      "light": "light/nucleusearn.svg",
-      "dark": "dark/nucleusearn.svg"
-    }
   }
 ]
