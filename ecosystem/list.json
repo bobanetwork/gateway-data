@@ -409,6 +409,18 @@
   },
   {
     "icon": {
+      "light": "light/ithaca_protocol.svg",
+      "dark": "dark/ithaca_protocol.svg"
+    },
+    "name": "Ithaca Protocol",
+    "website": "ithacaprotocol.io",
+    "link": "https://www.ithacaprotocol.io/",
+    "description": "Ithaca Protocol is a decentralized finance (DeFi) platform that provides cross-chain infrastructure to create and trade options and structured financial products, enabling more efficient and flexible risk sharing in crypto markets.",
+    "type": "Decentralized finance",
+    "visible": true
+  },
+  {
+    "icon": {
       "light": "light/frontier.svg",
       "dark": "dark/frontier.svg"
     },
@@ -1064,7 +1076,7 @@
     "website": "metasoccer.com",
     "link": "https://metasoccer.com/",
     "description": "MetaSoccer is a Web3 football manager game where players own clubs, train talent, and earn through NFTs.",
-    "type": "gaming",
+    "type": "Gaming",
     "visible": true
   },
   {
