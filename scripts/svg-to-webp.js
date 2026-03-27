@@ -22,7 +22,7 @@ const config = {
 async function convertSvgToWebp(filePath) {
   try {
     const file = path.basename(filePath);          // Alchemy_Light.svg
-    const base = file.replace(/_(Light|dark)\.svg$/i,""); // Alchemy
+    const base = path.basename(file, '.svg').replace(/_(Light|dark)$/i, ""); // Alchemy
     const variant = /_Light/i.test(file) ? "light" : "dark";
 
     const outputFolder = path.join("ecosystem","icons",variant); // e.g. output/light
